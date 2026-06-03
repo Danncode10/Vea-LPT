@@ -245,3 +245,10 @@ output/
 exports/
 _build/
 dist/
+
+# Files over 100MB - GitHub limit
+VEA LET COMPILATIONS/ENGLISH MAJOR /Elev8rs/AcetheLET_6 March 2023.pdf
+VEA LET COMPILATIONS/ENGLISH MAJOR /Quiz master/Papasa_Ako_Sa_Majorship_2021 (1).pptx
+VEA LET COMPILATIONS/LET new curriculum/Papasa ako/Papasa_Ako_Sa_ProEd_2021 (1).pptx
+VEA LET COMPILATIONS/LET new curriculum/ENGLISH MAJOR /Quiz master/Papasa_Ako_Sa_Majorship_2021 (1).pptx
+VEA LET COMPILATIONS/LET new curriculum/ENGLISH MAJOR /Elev8rs/AcetheLET_6 March 2023.pdf

@@ -1,0 +1,11 @@
+
+
+NOTICE:
+All the compiled reviewer here are not mine. Credits to real owner.
+
+
+IT’S JUST A COMPILATION OF SOME MY REVIEWER FROM FRIENDS AND GC’S.
+
+REVIEW NOW, LPT LATER!
+BELIEVE IN GOD, and BELIEVE IN YOURSELF.
+GOOD LUCK FUTURE LPT’S. 

@@ -14,7 +14,7 @@
 #   python3 + pptx — PPTX, PPT
 # =============================================================================
 
-set -euo pipefail
+set -uo pipefail
 
 # ── Config ────────────────────────────────────────────────────────────────────
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -133,7 +133,8 @@ process_file() {
     case "$ext" in
         pdf)           convert_pdf  "$f" ;;
         doc|docx)      convert_doc  "$f" ;;
-        pptx|ppt)      convert_pptx "$f" ;;
+        pptx)          convert_pptx "$f" ;;
+        ppt)           skip "$(basename "$f") — old .ppt binary format, skipping" ;;
         *)             return ;;
     esac
 }

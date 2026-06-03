@@ -251,6 +251,8 @@ dist/
 # Only .md files (converted text) are allowed through.
 # =============================================================================
 VEA LET COMPILATIONS/**
+!VEA LET COMPILATIONS/**/
 !VEA LET COMPILATIONS/**/*.md
 unorganized/**
+!unorganized/**/
 !unorganized/**/*.md

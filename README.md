@@ -10,12 +10,16 @@ exams that mirror the real LET, while the original source files stay preserved.
 
 ## Layout
 
+**Target course: BEED (Elementary) — no field of specialization.**
+
 ```
 VEA LPT/
 ├── _EXAM_ENGINE/      ← AI-readable. 100% Markdown. The exam command reads ONLY this.
+├── _EXAMS/            ← Generated practice exams (created by /make-let-exam).
 ├── _ARCHIVE/          ← Human reference. Original PDF/DOCX/PPTX/images (9 GB).
 ├── Vea Notes/         ← Personal session notes (kept as-is; partly Markdown).
 ├── scripts/           ← convert_to_md.sh (PDF/DOCX/PPTX → Markdown)
+├── .claude/commands/  ← /make-let-exam slash command
 ├── PLAN.md            ← How this structure was built.
 └── README.md
 ```

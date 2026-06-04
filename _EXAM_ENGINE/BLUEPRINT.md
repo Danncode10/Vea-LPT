@@ -1,100 +1,73 @@
-LICENSURE EXAMINATION FOR TEACHERS (SEPTEMBER 2026)
-SEPTEMBER 20, 2026
+# LET BLUEPRINT — BEED (Elementary), No Specialization
 
-Table of Specifications (General Education)
+> **Source:** PRC *Enhanced Table of Specifications* (Annex A), issued 2022,
+> in force from March 2023 onward — this is the **same TOS governing the
+> September 2026 LET**. Original: `_ARCHIVE/NEW LET TOS 2022 -11 Annex A PTeacher.md`.
+>
+> **Scope (RA 7836, Sec. 14):** The elementary (BEED) examination has **two parts
+> only** — General Education and Professional Education. **No field of
+> specialization** (that is secondary/BSED only). The `/make-let-exam` command
+> uses ONLY the two tables below.
 
-	•	Purposive Communication in English (15 items)
-	•	Use the English language with ease in effective communication
-	•	Use the English language confidently for special purposes
+Philippine Qualifications Framework Level 6.
 
-	•	Malayuning Komunikasyon sa Wikang Filipino (15 items)
-	•	Nagagamit ang wikang Filipino sa larangang akademiko
-	•	Nagagamit ang wikang Filipino sa iba’t - ibang uri ng sulatin
+---
 
-	•	Readings in Philippine History and Society (15 items)
-	•	Demonstrate understanding of the significant periods in Philippine history
-	•	Relate the significant periods of Philippine history with the transformation of society
+## Difficulty model (applies to BOTH parts)
 
-	•	The Life and Works of Rizal (15 items)
-	•	Manifest the ability to analyze how the thoughts, works and valor of Rizal influenced the nation
-	•	Show how Rizal’s feats of valor influenced the other Philippine heroes
+| Band | Share | Bloom levels it maps to |
+|------|------:|-------------------------|
+| Easy | 30% | Remember + Understand |
+| Moderate | 50% | Apply |
+| Difficult | 20% | Analyze + Evaluate + Create |
 
-	•	The Contemporary World (15 items)
-	•	Illustrate ways of relating global issues and concerns with local and global realities
-	•	Identify ways by which the Philippines may participate in efforts to mitigate global problems
+---
 
-	•	Art Appreciation (15 items)
-	•	Demonstrate the ability to interpret artistic creations as expressions of the finer things in life
-	•	Manifest informed appreciation of various forms of art
+## PART 1 — GENERAL EDUCATION (Elementary) — 150 items
 
-	•	Science and Technology (15 items)
-	•	Use scientific knowledge to explain natural phenomena and protect Earth's resources
-	•	Utilize understanding of science to illustrate how technology has become beneficial to Mankind
+Bloom counts are given **per competency area**. Each subject inside an area gets
+an equal share (**15 items per subject**, 10 subjects total).
 
-	•	Mathematics (15 items)
-	•	Exhibit competence in Mathematical concepts and procedures
-	•	Relate Mathematics with the real and the concrete through problems that occur in daily life
+| Area | Wt | Items | Rem | Und | App | Ana | Eva | Cre | Subjects (15 items each) |
+|------|---:|------:|----:|----:|----:|----:|----:|----:|--------------------------|
+| **A. Intellectual Competencies** | 40% | 60 | 7 | 9 | 30 | 6 | 4 | 4 | 1. Purposive Communication in English · 2. Malayuning Komunikasyon sa Wikang Filipino · 3. Science and Technology · 4. Mathematics |
+| **B. Personal & Civic Responsibilities** | 30% | 45 | 7 | 7 | 22 | 5 | 2 | 2 | 5. Readings in Philippine History and Society · 6. The Life and Works of Rizal · 7. Ethics |
+| **C. Practical Skills Development** | 30% | 45 | 8 | 7 | 23 | 4 | 2 | 1 | 8. The Contemporary World · 9. Art Appreciation · 10. Understanding the Self |
+| **TOTAL** | 100% | **150** | 22 | 23 | 75 | 15 | 8 | 7 | |
 
-	•	Ethics (15 items)
-	•	Demonstrate understanding of what is good for individuals and society
-	•	Utilize logical inferential skills in resolving moral dilemmas
+---
 
-	•	 Understanding the Self (15 items)
-	•	Show familiarity with the factors and forces that affect the development of self-identity
-	•	Demonstrate the commitment to accomplish self-understanding as the means to a successful teaching career
+## PART 2 — PROFESSIONAL EDUCATION (Elementary) — 150 items
 
+| Area | Wt | Items | Rem | Und | App | Ana | Eva | Cre |
+|------|---:|------:|----:|----:|----:|----:|----:|----:|
+| **A. Teaching Profession** | 15% | 23 | 3 | 3 | 12 | 3 | 1 | 1 |
+| **B. The Teacher & the School Curriculum, Methods & Strategies of Teaching, Educational Technology** | 30% | 45 | 6 | 6 | 25 | 4 | 2 | 2 |
+| **C. The Child & Adolescent Learners and Learning Principles** | 20% | 30 | 5 | 5 | 15 | 3 | 1 | 1 |
+| **D. Assessment of Learning** | 15% | 22 | 3 | 3 | 12 | 2 | 1 | 1 |
+| **E. Field Study and Teaching Internship** | 20% | 30 | 5 | 5 | 15 | 3 | 1 | 1 |
+| **TOTAL** | 100% | **150** | 22 | 22 | 79 | 15 | 6 | 6 |
 
+---
 
-LICENSURE EXAMINATION FOR TEACHERS (SEPTEMBER 2026)
-SEPTEMBER 20, 2026
+## Where the generator pulls content (engine folders)
 
-Table of Specifications (Professional Education)
-
-	•	TEACHING PROFESSION (23 items)
-	•	Foundations of the teaching-learning process 
-	•	Apply philosophical and sociological principles in teaching-learning situations. 
-	•	Apply foundation theories of special and inclusive education.
-
-	•	The Professional Teacher 
-	•	Describe the professional teacher and the ways and means to ensure high standards of the teacher’s personal and professional life. 
-	•	Explain what teaching is and the various roles of a teacher in meeting challenges in the 21st century. 
-	•	Demonstrate understanding of the concepts of the teacher as a school culture catalyst, transformational leader and educational resources manager with responsibilities as specified in the Code of Ethics for Professional Teachers.
-
-	•	THE TEACHER AND THE SCHOOL CURRICULUM, METHODS AND STRATEGIES OF TEACHING, EDUCATIONAL TECHNOLOGY FOR TEACHING AND LEARNING (45 items)
-	•	The Teacher and the School Curriculum 
-	•	Demonstrate research-based knowledge of the concepts, theories and principles in curriculum planning, design, development and evaluation.
-
-	•	Methods and Strategies of Teaching 
-	•	Demonstrate knowledge of teaching strategies that build and enhance new literacies inclusive of financial, multi- cultural, social cyber/digital, ecological, arts-and-creativity new literacies across the curriculum
-	•	Prepare developmentally sequenced lesson plans with well aligned learning outcomes and competencies based on K-to-12 spiral curriculum requirement. 
-	•	Utilize the concepts of new literacies in the 21st century (globalization and multi-cultural literacy, social literacy, media literacy, financial literacy, cyber literacy, digital literacy, eco literacy, arts and creativity literacy, interdisciplinary explorations and other teaching strategies) and shared cultural practices across learning areas. 
-
-	•	Educational Technology 
-	•	 Employ teaching strategies, methods, instructional materials and technology, classroom management techniques appropriate to subject areas and inclusive of learners from indigenous groups. 
-	•	Demonstrate skills in developing and using a variety of conventional and non-conventional resources including Information and Communication Technology to address learning goals and needs of various learners.
-
-	•	THE CHILD AND ADOLESCENT LEARNERS AND LEARNING PRINCIPLES (30 items)
-	•	Headstart for Toddlers, Child and Adolescent 
-	•	Apply pedagogical approaches to the student-centered teaching-and-learning process that is metacognitive, innovative, inclusive and developmentally appropriate for child and adolescent learners. 
-	•	Appraise learning environment that is responsive to learners from various family background, economic level groupings, and socio-cultural affiliation. 
-	•	Demonstrate understanding of differentiated teaching to suit the learner's gender, strengths, interests, experiences and needs. 
-	•	Draw implications of research findings related to child development along biological, cognitive linguistic, socio-cultural dimensions.
-
-	•	ASSESSMENT OF LEARNING (22 items)
-	•	Validating theoretical knowledge in the actual assessment of learning
-	•	Demonstrate understanding of principles in constructing traditional, alternative/authentic forms of high quality assessment.
-	•	Apply knowledge and skills in the development and use of assessment tools for formative and summative purposes.
-	•	Apply rules in test construction and use of authentic assessment tools for product and process assessment.
-	•	Demonstrate skills in interpreting assessment results to improve learning.
-	•	Comprehend and apply basic concepts of statistics in educational assessment and evaluation. 
-	•	Demonstrate knowledge of providing timely, accurate and constructive feedback to learners and parents.
-
-	•	FIELD STUDY AND TEACHING INTERNSHIP (30 items)
-	•	Documentation of Experiential Learning
-	•	Describe authentic experiential learning from field study and actual classroom immersion as a prospective teacher.
-	•	Demonstrate skills in teaching assistantship and guided mentored classroom teaching. 
-	•	Prepare portfolio on process of learning behavior, motivation, classroom management and assessment from direct observation of teaching learning episodes in an actual school environment. 
-	•	Demonstrate reflective thinking and teaching
-
-	•	Action Research
-	•	Demonstrate ability to identify teaching-learning problems and offer recommendations based on research.
+| BLUEPRINT subject/area | Source folder(s) in `_EXAM_ENGINE/` |
+|------------------------|--------------------------------------|
+| Gen Ed 1. English | `GEN_ED/01_english/` |
+| Gen Ed 2. Filipino | `GEN_ED/02_filipino/` |
+| Gen Ed 3. Science & Technology | `GEN_ED/07_science_technology/` |
+| Gen Ed 4. Mathematics | `GEN_ED/08_mathematics/` |
+| Gen Ed 5. Phil. History | `GEN_ED/03_philippine_history/` |
+| Gen Ed 6. Rizal | `GEN_ED/04_rizal/` |
+| Gen Ed 7. Ethics | `GEN_ED/09_ethics/` |
+| Gen Ed 8. Contemporary World | `GEN_ED/05_contemporary_world/` |
+| Gen Ed 9. Art Appreciation | `GEN_ED/06_art_appreciation/` |
+| Gen Ed 10. Understanding the Self | `GEN_ED/10_understanding_the_self/` |
+| Prof Ed A. Teaching Profession | `PROF_ED/01_teaching_profession/` |
+| Prof Ed B. Curriculum/Methods/EdTech | `PROF_ED/02_curriculum_and_methods/` |
+| Prof Ed C. Child & Adolescent | `PROF_ED/03_child_and_adolescent/` |
+| Prof Ed D. Assessment | `PROF_ED/04_assessment_of_learning/` |
+| Prof Ed E. Field Study | `PROF_ED/05_field_study/` |
+| Whole-domain reviewers (any area) | `*/_comprehensive/`, `_comprehensive_mixed/` |
+| Real past-LET phrasing & difficulty | `STYLE_BANK/gen_ed/`, `STYLE_BANK/prof_ed/` |

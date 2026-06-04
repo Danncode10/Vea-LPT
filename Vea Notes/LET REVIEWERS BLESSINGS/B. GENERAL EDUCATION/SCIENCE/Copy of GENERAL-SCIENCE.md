@@ -1,0 +1,354 @@
+GENERAL SCIENCE with answer key.. 1-100
+POST – TEST 
+Good luck.
+Multiple Choices:
+1. These are living things that use sunlight, chlorophyll, water and carbon dioxide to produce food.
+a. Autotrophs c. Heterotrophs
+b. Consumers d. Food chain 
+2. It is describe as the lifeline of the body. IT is the body’s “pickup” and delivery system.”
+a. Blood c. circulatory system 
+b. nervous system d. heart 
+3. It carries the oxygen-rich blood to the head, arms, and chest and down to the waist and the legs. 
+a. heart c. aorta 
+b. ventricles d. arteries 
+4. They are the transmitters of message from the different parts of the body to the brain and vice versa.
+a. spinal cord c. brain 
+b. neurons or nerve cells d. arteries 
+5. Which part of the brain controls the following activities: breathing, blood pressure, heart rate, alertness?
+a. brainstem c. cerebrum 
+b. hypothalamus d. spinal cord 
+6. Refers to a sequence of organism in a community that constitutes a feeding chain. 
+a. photosynthesis c. consumers
+b. ecosystem d. food chain 
+7. Is a group of interacting plants, animals and human in a particular area?
+a. ecological community c. living organism
+b. environment d. food chain 
+8. Excessive presence of carbon dioxide in the air, trapping heat near the earth’s surface causing a rise in temperature in the environment.
+a. El Nino c. Deforestation
+b. “Greenhouse Effect” d. Weather disturbance 
+9. The Earth’s shield against sun’s harmful radiation.
+a. Atmosphere c. Ozone layer 
+b. Air d. Forest 
+10. The use of product containing ______ is discouraged because they contribute to the depletion of_____. 
+a. Chlorofluorocarbon-solar radiation 
+b. Gas-ozone layer
+c. Ozone layer air 
+d. Chlorofluorocarbon-ozone layer 
+11. What causes high and low tides?
+a. Earth’s rotation on its axis
+b. Moon’s gravitational pull 
+c. Sun’s solar energy 
+d. Earth’s gravitational pull
+12. How is coral a tool formed?
+a. Volcanic eruption 
+b. Corals growing around a volcanic island 
+c. Underwater bedrock formations
+d. Earthquake
+13. What is a long shore drift?
+a. Movement of sand and shingles along the coast 
+b. Sand bars 
+c. Accumulation of sad at the river mouth 
+d. Island formed by volcanic eruptions
+14. How does an occlusion form?
+a. Cold air moving up from the ground 
+b. Cold front pushing warm air up of the ground 
+c. Unbalance electrical reaction in the air 
+d. Cold and warm air mixing in the atmosphere 
+15. What is a heat haze?
+a. A reflection caused by pollutants in the air 
+b. A distorted image resulting from the bending o sun’s light rays by changes in air temperature 
+c. A movement o warm air over a vast expanse of land
+d. Caused by extremely high temperature common in dessert areas 
+16. What sort of rock formation do the world’s greatest mountain ranges consist of?
+a. Magma c. Fold eruptions
+b. Chalk deposit d. Slip formation 
+17. What is the force that wears down mountains?
+a. Earthquake c. Volcanic eruptions
+b. Erosion d. Deforestation 
+18. How are volcanic island formed?
+a. Collision of two oceanic plates 
+b. Cooling of lava by seawater 
+c. Volcanic eruptions
+d. Accumulation of corals 
+19. When the Theory of plate Tectonics was generally accepted?
+a. 1900’s c. 1960’s
+b. 1930’s d. 1980’s
+20. The weathering away of rocks by water, wind and ice.
+a. Denudation c. Volcanic rock 
+b. Erosion d. Metamorphic rock 
+21. How do hormones work?
+a. By releasing adrenaline 
+b. By controlling cell chemistry 
+c. By regulating water loss 
+d. By controlling blood pressure 
+22. Name the male and female sex hormones 
+a. Sperm cell & Ovum c. Chromosomes 
+b. Testosterone d. Red & white blood cells
+23. The unit of measurement of energy in a given an mount of food 
+a. Pound c. Olfactory system 
+b. Kilo d. calorie
+24. Nitrogen compounds known as the building blocks of proteins 
+25. The growth of roots towards water is an example of?
+a. Chemotropism c. Hydrotropism 
+b. Geotropism d. Phototropism 
+26. DNA means 
+a. Data nurturing analysis c. Deoxyribonucleic acid 
+b. Deoxytribonucleic acid d. Deotrixyl nucleic acid 
+27. What are the three products of oxygen when it has been burned?
+a. Water, carbon dioxide and heat
+b. Energy, water and carbon dioxide 
+c. Energy, carbon and oxide 
+d. Energy, air and water 
+28. In flowering plants, fertilization happens in the?
+a. Pollen tube c. Ovules 
+b. Stamen d. Pollen grain 
+29. The development of egg without fertilization 
+a. Mitosis c. Spermatogenesis 
+b. Parthenogenesis d. Mitochondria
+30. Which of the following is a source of energy needed for photosynthesis?
+a. Water c. Light 
+b. Soil d. Fertilizer 
+31. Chemistry is primarily concerned with the composition and changes of?
+a. Nature c. Man 
+b. Matter d. Earth 
+32. A scientific theory is 
+a. A hypothesis not yet subjected to experimental test
+b. An idea that correctly predict the result 
+c. An imagination 
+d. A guess 
+33. Which of the following units of measure is equivalent to cubic centimeter?
+a. Milligram c. Millimeter 
+b. Milliliter d. Centiliter 
+34. Which of the following is NOT a compound?
+a. acetic acid c. magnesium 
+b. alcohol d. Zinc Oxide 
+35. The easier the atom to receive electrons is measured by its?
+a. Elecrtonegativity c. Number of shells 
+b. Atomic radius d. Valence electrons
+36. The willingness o an atom to receive electron is measured by its?
+a. Electronegativity c. Atomic size
+b. Ionization potential d. Electron affinity 
+37. A molecule is said to be polar or dipole if?
+a. Its positive and negative charges are at different places 
+b. It possesses polar bonds 
+c. Its’ polar bond have unsymmetrical charge distribution 
+d. All of the above
+38. Which of the following is NOT a physical property of water?
+a. freezing point at 0 degree C
+b. boiling point at 100 degrees C 
+c. its’ heat of fusion at 80 cal/g.
+d. its’ density at 4 degrees at 1 lb/cu. Ft
+39. Which of the following statements is true?
+a. Molecular weight does not influence boiling and melting point of a substance 
+b. Boiling and melting point tend to increase with molecular weight 
+c. Boiling and melting point tend to decrease with molecular weight 
+d. None o the above 
+40. A Mole is the amount of substance or a mass of a substance that contains?
+a. 6.02 x 1023 particles c. 6.02 x 1023 particles
+b. 60.2 x 1023 particles d. 60.2x 1023 particles 
+41. It is the measure of the amount of matter in an object
+a. Weight c. Volume 
+b. Mass d. Quantity 
+42. It is the distance traveled by the body per unit time and tell how fast or slow the body moves 
+a. Velocity c. Acceleration 
+b. Speed d. None of the above 
+43. The rate of change of the distance traveled per unit time in a stated direction 
+a. Velocity c. Acceleration 
+b. Speed d. None of the above 
+44. This law states that the force acting upon an object is equal to the product o the mass and acceleration of the object
+a. Newton’s 2nd law of motion 
+b. Newton’s 3rd law of motion 
+c. Newton’s 1st law of motion 
+d. None of the amount
+45. When a force is applied to a body, several effects are possible. Which one of the following effect CAN”T occur?
+a. the body rotates 
+b. the body changes direction
+c. the body increase its mass
+d. the body changes shape 
+46. It is the reluctance of the object to change either its’ state of rest or uniform motion in a straight line
+a. Force c. Inertia
+b. Friction d. Motion
+47. This law states that energy cannot be created nor destroyed but only changes from one form to another
+a. Energy law 
+b. Kinetic Theory of Matter 
+c. Law of Conservation Energy 
+d. None of the above 
+48. This law states that matter is made up of a large number of molecules which are in continuous motion
+a. Boyles’s Law c. Law of Conservation Energy 
+b. Kinetic Theory d. None of the above 
+49. The lowest possible temperature that a substance can reach 
+a. Freezing point c. Steam point 
+b. Absolute Zero d. Threshold 
+50. It is the amount of heat required to raise the temperature of kg. of a substance by degree C 
+a. Calorie c. Specific heat capacity 
+b. Watt d. Joule 
+51. The relationship of give-and-take of living organism in the biosphere is a balance of nature called________. 
+a. universal relationship 
+b. symbiotic relationship 
+c. spontaneous relationship 
+d. abiogenetic relationship 
+52. Process of removing excess odor in water.
+a. sedimentation c. distillation 
+b. chlorination d. aeration 
+53. Which of the following statement is CORRECT?
+a. As altitude increases, atmospheric pressures corresponding 
+b. Throughout the available space, gas tends to contract
+c. Equal chances are always given to all in life 
+d. Shadow is formed when a colored object is projected against the wall 
+54. The earth rotates on its axis from west to east. This causes the sun to _______?
+a. appear with a fiery orange color 
+b. cause the appearance of solar eclipse 
+c. rise room the east and sets in the west 
+d. emit solar radiation 
+55. One of these planets has the greatest gravitational pull. Which one is it?
+a. Mars b. Earth c. Mercury d. Jupiter 
+56. It is the law which explains why one can pull a piece without topping a glass in a quick motion.
+a. energy in motion c. law of inertia 
+b. gravity d. force 
+57. Which of the following is NOT a source of energy?
+a. water c. geothermal heat 
+b. nuclear d. inertia at rest 
+58. Which instrument will one use to convert mechanical energy to electrical energy?
+a. rotor b. generator c. motor d. circuit
+59. Sun’s energy is generated by?
+a. nuclear fission 
+b. sun enacting with gravity 
+c. nuclear fusion reaction 
+d. reaction with magnetic field 
+60. Application of energy is called _______?
+a. work c. kinetics
+b. inertia d. simulation 
+61. The falling of any form of water from the air to the earth’s surface
+a. Condensation c. Water vapor 
+b. Precipitation d. Rainwater 
+62. The part of the atmosphere that filters the ultraviolet rays of the sun 
+a. stratosphere c. Ozone layer 
+b. Troposphere d. Ionosphere 
+63. The point in the earth’s orbit nearest to the sun 
+a. Solstice c. Aphelion 
+b. Eclipse d. Perihelion 
+64. A property of minerals which gives off rays of light when exposed to ultraviolet light.
+a. Luminescence c. Radiation 
+b. Phosphorescence d. Fluorescence 
+65. Which process involves chemical weathering?
+a. Carbonation c. Hydration 
+b. Oxidation d. All of the above 
+66. How long does it take for the earth to complete one rotation 
+a. 365 days c. 24 hours 
+b. 30 days d. 12 hours 
+67. What is the principal function of gravity in the universe?
+a. Provision for energy 
+b. Keeps the stars and other heavenly bodies in orbit 
+c. Causes movement in space 
+d. Part of universal design 
+68. What does the word “monsoon” mean?
+a. Moon will soon come c. Seasons
+b. Rains d. Wet weather 
+69. Its’ discovery enable geologist to date rocks accurately 
+a. layering c. Radioactivity 
+b. Evolutionary staging d. Carbon-dating 
+70. It occurs when the earth is between the sun and the moon, with the earth’s shadow cast over the moon.
+a. Total eclipse c. Solar Eclipse 
+b. Lunar eclipse d. Partial Eclipse 
+71. Male and female reproductive part of a flower 
+a. Pollen grains and ovules c. Pollen grains and pistil 
+b. Stamen and pistil d. Stamen and ovules 
+72. In the human body, the cell that most nearly resembles a one-celled animals
+a. Red Blood cell c. Nerve cell 
+b. White Blood cell d. Antibodies 
+73. The main energy source of a plant-eating animals 
+a. Glucose b. Starch c. Cellulose d. Glycogen 
+74. These are cellular secretions which help regulate the breakdown and buildup of various substance in the body
+a. Enzymes c. Plasma 
+b. Amino Acids d. Hormones 
+75. It is the energy source of the cell which it uses for growing, reproducing and other activities 
+a. Adenosine Triphosphate c. Chloroplast
+b. Amino Acids d. Sunlight 
+76. It is a segment of DNA molecule which controls the appearance of a given trait
+a. Chromosomes c. Gametes
+b. Genes d. Zygotes
+77. Group of similar cells performing similar functions together 
+a. Organs b. System c. Nucleus d. Tissue 
+78. The diffusion of water through a semi permeable membrane 
+a. osmosis c. Transfusion 
+b. permeability d. Capillary 
+79. It shows the complex food relationship of organism in a given area and the cyclic flow of food through organisms
+a. Food chain c. Food pyramid 
+b. Food web d. Biological cycle 
+80. Which of the following does NOT occur to both respiration and fermentation?
+a. energy is released 
+b. sugar is broken down 
+c. carbon dioxide is produced 
+d. alcohol is formed 
+81. Energy removal is best illustrated in 
+a. boiling of liquid substances
+b. changing water to ice 
+c. changing water to stem 
+d. none of the above 
+82. Refers to the maximum amount of solute expressed in grams that can be dissolved in 100 grams of water at a specific temperature 
+a. Solubility c. Molarity 
+b. Stability d. Molality 
+83. Compounds with the same molecular formula but with different structural formulas 
+a. Cellulose c. Polymers
+b. Isomers d. Monomers 
+84. The most penetrating type of radiation given of by radioactive elements
+a. Alpha particle c. Gamma particle 
+b. Beta particle d. None of the above
+85. The basic unit for expressing the masses o individual atoms
+a. Atomic number c. Nucleus 
+b. Atomic mass unit d. Atomic weight 
+86. A substance that speeds up a chemical reaction without itself undergoing a chemical change 
+a. catalyst c. Electrolytes 
+b. Enhancer d. Ionizer 
+87. The temperature at which the vapor pressure of the liquid is equal to the pressure of the surroundings atmosphere 
+a. Melting point c. Boiling Point 
+b. Critical point d. None of the above 
+88. the warming of the earth’s surface due to an increase in atmospheric carbon dioxide 
+a. “Greenhouse effect” c. Atmospheric pressure
+b. Ozone d. El Nino phenomena 
+89. Describe the force of gravity on an object
+a. mass c. capacity 
+b. weight d. pressure 
+90. When gaseous molecules are compressed, they tend to?
+a. increase in volume c. repel each other 
+b. decrease in volume d.attract and liquefy 
+91. It is the union of two light nucleus to form a heavier nucleus, resulting in a mass defect and release of energy 
+a. Radiation c. Nuclear Fusion 
+b. Nuclear Fission d. Radioactivity 
+92. Which of the following statements is a characteristic of an electronic spectrum?
+a. They all travel at the same speed in fire space 
+b. The exhibit diffraction and interference phenomena
+c. They follow the laws of refraction and reflection 
+d. All of the above
+93. The term “RADAR” is derived from the phrase?
+a. “Radiation Detection and Ranging “
+b. “Radiation Diffusion and Ranging” 
+c. “Radio Diffraction and Resolution”
+d. “Radiation Diffraction and Resolution”
+94. A material whose ability to conduct electricity lies between those of conductors and insulators 
+a. Integrated Circuits c. Semiconductors 
+b. Silicon Chips d. Insulators 
+95. “LASER” is derived from the phrase?
+a. Light Amplification by Stimulated Emission of Radiation 
+b. Light Application by Simulated Emission of Radiation 
+c. Light Amplification by Simulated Ejection of Radiation 
+d. None of the above
+96. What is the color of a transparent substance?
+a. The color of the light it absorbs 
+b. The color of light it reflects 
+c. The color of light it transmit 
+d. The color of light it refracts 
+97. What is a rotating electromagnetic called?
+a. Motor b. Rotor c. Phasor d. Sensor 
+98. What happens with the centripetal force when sped is doubled?
+a. remains the same c. triples 
+b. force is increase 4x d. force is doubled
+99. What is an electrochemical cell in which the reacting materials can be renewed by the use o reverse current 
+a. Storage cell c. Fuel cell 
+b. Primary cells d. Chemical cell 
+100. What will make an object move in a circular path?
+a. Central force c. Frictional force
+b. Gravitational d. Electromagnetic force
+***** THE END ***** 
+
+

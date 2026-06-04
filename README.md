@@ -1,8 +1,7 @@
 # VEA LPT — LET Review Repository
 
-Personal review repository for **Vea Amor Lopez**, aiming for **top notcher** in the Licensure Examination for Teachers (LET).
-
-This repo contains reading materials and exam drills that simulate the actual LET format, covering both **Professional Education (Prof Ed)** and **General Education (Gen Ed)**.
+Personal review repository for **Vea Amor Lopez**, aiming for **top notcher** in the
+Licensure Examination for Teachers (LET) — **BEED (Elementary), no specialization**.
 
 ---
 
@@ -10,56 +9,74 @@ This repo contains reading materials and exam drills that simulate the actual LE
 
 ```
 VEA LPT/
-├── unorganized/               # Raw downloaded files (to be sorted)
-│   └── 2. GURONG PINOY FILES/
-│       ├── 1. GEN ED/
-│       │   ├── 1. PDFS/           # Session PDFs (Sessions 1–8)
-│       │   ├── 2. REVIEWERS/      # .docx reviewers per session topic
-│       │   └── 3. EXAM DRILLS/    # 200-item LET-style drills + answer sheet
-│       ├── 2. PROF ED/
-│       │   ├── 1. PDFS/           # Session PDFs (Sessions 9–13)
-│       │   ├── 2. REVIEWERS/      # .docx reviewers per session topic
-│       │   └── 3. EXAM DRILLS/    # 200-item LET-style drills + answer sheet
-│       └── 3. RANDOM NOTES/
-│           └── GEN ED/
-│               ├── GEOGRAPHY FLASHCARDS/
-│               └── WORKS OF RIZAL/
+├── _EXAM_ENGINE/              # AI exam-generation engine
+│   ├── BLUEPRINT.md           # Official PRC TOS (2022): item counts per area
+│   ├── TEMPLATE.md            # Output format spec (shuffled, balanced key)
+│   ├── GEN_ED/                # Source corpus — 10 Gen Ed subjects
+│   │   ├── 01_english/
+│   │   ├── 02_filipino/
+│   │   ├── 03_philippine_history/
+│   │   ├── 04_rizal/
+│   │   ├── 05_contemporary_world/
+│   │   ├── 06_art_appreciation/
+│   │   ├── 07_science_technology/
+│   │   ├── 08_mathematics/
+│   │   ├── 09_ethics/
+│   │   ├── 10_understanding_the_self/
+│   │   └── _comprehensive/
+│   ├── PROF_ED/               # Source corpus — 5 Prof Ed areas
+│   │   ├── 01_teaching_profession/
+│   │   ├── 02_curriculum_and_methods/
+│   │   ├── 03_child_and_adolescent/
+│   │   ├── 04_assessment_of_learning/
+│   │   ├── 05_field_study/
+│   │   └── _comprehensive/
+│   ├── STYLE_BANK/            # Real past-LET phrasing & difficulty samples
+│   │   ├── gen_ed/
+│   │   └── prof_ed/
+│   └── _comprehensive_mixed/  # Cross-domain reviewers
+│
+├── _EXAMS/                    # Generated mock exams
+│   ├── mock-1/
+│   │   ├── gen_ed.md          # 150 items · Gen Ed
+│   │   └── prof_ed.md         # 150 items · Prof Ed
+│   └── mock-2/
+│       ├── gen_ed.md          # 150 items · Gen Ed
+│       └── prof_ed.md         # 150 items · Prof Ed
+│
+├── _ARCHIVE/                  # Binary originals (.docx, .pdf) for reference
+├── VEA LET COMPILATIONS/      # Raw source compilations (Gurong Pinoy, etc.)
 └── README.md
 ```
 
 ---
 
-## Content Overview
+## Exam Engine
 
-### General Education (Gen Ed) — Sessions 1–8
+The `/make-let-exam` command generates a complete, maximally hard BEED mock LET:
 
-| Session | Topic |
-|---------|-------|
-| 1 | Social Science |
-| 2 | Mathematics |
-| 3 | Filipino |
-| 4 | Social Science |
-| 5 | Mathematics |
-| 6 | Social Science |
-| 7 | Science & Language |
-| 8 | Social Science |
+| File | Items | Areas covered |
+|------|------:|---------------|
+| `gen_ed.md` | 150 | English · Filipino · Science & Tech · Math · Phil. History · Rizal · Ethics · Contemporary World · Art Appreciation · Understanding the Self (15 each) |
+| `prof_ed.md` | 150 | Teaching Profession 23 · Curriculum/Methods/EdTech 45 · Child & Adolescent 30 · Assessment 22 · Field Study 30 |
 
-### Professional Education (Prof Ed) — Sessions 9–13
-
-| Session | Topic |
-|---------|-------|
-| 9–13 | Professional Education topics |
-
-Each session includes:
-- **PDF** — reading/lecture material
-- **Reviewer (.docx)** — structured notes and key concepts
-- **Exam Drills** — 200-item LET-format practice tests with answer sheets
+**Quality controls applied to every exam:**
+- Items shuffled — no topic banners, topics interleaved like the real LET
+- Answer key balanced: each letter (A–D) ≈ 25%, no run of the same letter > 3
+- Hard difficulty: BEST / MOST / LEAST / EXCEPT framing, misconception distractors, multi-step Math
+- Prof Ed ≥ 60% classroom situational items
+- Filipino items written entirely in Filipino
+- Updated to MATATAG (2023), K-12 RA 10533, PPST DO 42 s.2017, RA 7836/9293, RA 4670, RA 10627, RA 10157
+- Each file ends with a compact **Answer Key** grid + **Rationale** for the trickiest items
 
 ---
 
-## Source / References
+## Generated Exams
 
-> _References to be added._
+| Exam | Gen Ed | Prof Ed | Date |
+|------|--------|---------|------|
+| mock-1 | 150 items | 150 items | 2026-06-04 |
+| mock-2 | 150 items | 150 items | 2026-06-04 |
 
 ---
 

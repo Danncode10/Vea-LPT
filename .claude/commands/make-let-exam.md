@@ -1,6 +1,6 @@
 ---
 description: Generate a full, very-hard BEED LET practice exam (Gen Ed 150 + Prof Ed 150) with answer keys
-argument-hint: [optional exam title, e.g. mock-3]
+argument-hint: [optional exam title, e.g. mock-2]
 allowed-tools: Read, Write, Bash, Glob, Grep
 ---
 
@@ -8,104 +8,97 @@ You are an expert LET (Licensure Examination for Teachers) item writer for the
 **BEED / Elementary** level. Generate a complete, **maximally difficult** mock
 LET exam that mirrors the real PRC examination, with answer keys.
 
-## Hard requirements (do not deviate)
+Read `_EXAM_ENGINE/BLUEPRINT.md` (counts + difficulty mix) and
+`_EXAM_ENGINE/TEMPLATE.md` (the exact output format) FIRST, then follow the
+STRICT RULES below. They are mandatory — do not deviate.
 
-- **Course = BEED (Elementary). NO field of specialization.** Two parts only:
-  General Education and Professional Education.
-- Follow `_EXAM_ENGINE/BLUEPRINT.md` exactly for item counts and the
-  Bloom/difficulty mix. Follow `_EXAM_ENGINE/TEMPLATE.md` for output format.
-- Every item: 4 options **A–D**, exactly one correct answer.
-- **Two files, in one new folder**, both in Markdown:
-  - `gen_ed.md` — **exactly 150 items** + answer key
-  - `prof_ed.md` — **exactly 150 items** + answer key
+---
 
-## Step 1 — Read the blueprint & sources
+## STRICT RULES
 
-1. Read `_EXAM_ENGINE/BLUEPRINT.md` (item counts per subject/area + difficulty mix).
-2. Read `_EXAM_ENGINE/TEMPLATE.md` (the required output format).
-3. For each subject/area, read several `.md` files from its source folder (see the
-   mapping table in BLUEPRINT). For thin subjects (Rizal, Art Appreciation, Ethics,
-   Contemporary World, Understanding the Self, Field Study), also pull from
-   `_EXAM_ENGINE/*/_comprehensive/`, `_EXAM_ENGINE/_comprehensive_mixed/`, and
-   `_EXAM_ENGINE/STYLE_BANK/`.
-4. Sample `STYLE_BANK/gen_ed/` and `STYLE_BANK/prof_ed/` to match the **phrasing,
-   tone, and difficulty** of real past-LET items. Do NOT copy items verbatim —
-   write fresh ones in that style.
+### 1. Scope
+- Course = **BEED (Elementary). NO specialization.** Two files only: `gen_ed.md`
+  (150 items) and `prof_ed.md` (150 items), each with an answer key.
+- Hit the exact per-subject / per-area counts in `BLUEPRINT.md`:
+  - **Gen Ed:** 15 items each for English, Filipino *(write in Filipino)*, Science
+    & Technology, Mathematics, Phil. History, Rizal, Ethics, Contemporary World,
+    Art Appreciation, Understanding the Self.
+  - **Prof Ed:** Teaching Profession 23 · Curriculum/Methods/EdTech 45 · Child &
+    Adolescent 30 · Assessment 22 · Field Study 30.
 
-## Step 2 — Item counts (from the 2022 Enhanced TOS = 2026 LET)
+### 2. SHUFFLE — do NOT arrange by topic
+- After writing the required number per topic, **randomly interleave all items**
+  so topics are mixed throughout (like the real LET).
+- **Never print topic/part banners or section headers** (no
+  `----- PART I ... -----`, no "English (Items 1–15)"). The reader must not be
+  able to tell the topic from the layout. Just number 1–150 continuously.
 
-**gen_ed.md — 150 items, 15 per subject:**
-1. Purposive Communication in English — 15
-2. Malayuning Komunikasyon sa Wikang Filipino — 15  *(write these items in Filipino)*
-3. Science and Technology — 15
-4. Mathematics — 15
-5. Readings in Philippine History and Society — 15
-6. The Life and Works of Rizal — 15
-7. Ethics — 15
-8. The Contemporary World — 15
-9. Art Appreciation — 15
-10. Understanding the Self — 15
+### 3. Answer-key balance (avoid give-away patterns)
+- Distribute the correct answer roughly evenly across A, B, C, D (each ≈ 25%,
+  ~37–38 times in 150). **No more than 3 of the same letter in a row.**
+- **The correct answer must NOT correlate with length.** Do NOT let the longest
+  option be the answer by default. Keep all four options **parallel and similar
+  in length**; across the exam, the correct option should sometimes be the
+  shortest, sometimes the longest, most often the same length as the others.
+- Vary where the answer falls — do not cluster on B.
 
-**prof_ed.md — 150 items:**
-- A. Teaching Profession — 23
-- B. The Teacher & the School Curriculum, Methods & Strategies, Educational Technology — 45
-- C. The Child & Adolescent Learners and Learning Principles — 30
-- D. Assessment of Learning — 22
-- E. Field Study and Teaching Internship — 30
+### 4. Item style & length (match the Exam Engine resources)
+- Keep stems **concise: ~8–30 words.** Options short and parallel. Match the
+  phrasing of real items in `_EXAM_ENGINE/STYLE_BANK/`. Do NOT copy verbatim.
+- Every item: 4 options **A–D**, exactly one best answer. No "all/none of the
+  above" unless authentic.
 
-**Difficulty mix per part:** Easy 30% (Remember/Understand), Moderate 50% (Apply),
-Difficult 20% (Analyze/Evaluate/Create).
+### 5. HARD difficulty (the priority)
+- Minimize trivial recall. Favor application, analysis, evaluation: "Which is the
+  **BEST / MOST appropriate / LEAST likely**…", "All of the following EXCEPT…",
+  multi-concept integration, strong (plausible) distractors built from common
+  misconceptions.
+- **Mathematics:** multi-step computation, not single operations.
+- **Filipino:** authentic, idiomatic, entirely in Filipino.
 
-## Step 3 — MAKE IT HARD (this is the priority)
+### 6. Professional Education MUST be heavily situational
+- **At least 60% of the 150 Prof Ed items** must be **classroom situational**
+  items: a brief scenario ("Teacher Lia notices that…", "During a Grade 3
+  reading lesson…") followed by a judgment question (best response, principle
+  applied, likely cause, next step). Keep scenarios to 1–2 short sentences, like
+  the resources. Spread these across all five Prof Ed areas.
+- The remaining items may be concept/principle questions, still applied.
 
-Within the official mix, push every item to the top of its band:
-- Minimize trivial recall. Favor **application, analysis, and evaluation**:
-  situational classroom scenarios, "Which is the **BEST/MOST appropriate/LEAST
-  likely**…", "All of the following EXCEPT…", multi-concept integration.
-- **Distractors must all be plausible** — common misconceptions and near-misses,
-  not obvious throwaways. No "all/none of the above" unless authentic.
-- **Mathematics:** multi-step computation (algebra, geometry, statistics,
-  number theory, problem solving) — not single-operation items.
-- **Prof Ed:** realistic teaching dilemmas requiring judgment, not definitions.
-- **Filipino:** authentic, idiomatic items written entirely in Filipino.
-- Vary the position of the correct answer (don't cluster on one letter).
+### 7. Keep it UPDATED
+- Reflect MATATAG Curriculum (2023), K-12 (RA 10533), PPST (DO 42, s. 2017),
+  Code of Ethics, RA 7836/9293, RA 4670, RA 10627, RA 10157, RA 11476, DO 40
+  s. 2012 child protection. Use current contemporary-world references through 2026.
 
-## Step 4 — Keep it UPDATED
+---
 
-Reflect the most current Philippine education context:
-- **MATATAG Curriculum** (2023 K-12 revision) and the K-12 framework (RA 10533).
-- **PPST** (DepEd Order 42, s. 2017), Code of Ethics for Professional Teachers.
-- Relevant laws: RA 7836 & RA 9293 (teacher licensure), RA 4670 (Magna Carta for
-  Teachers), RA 10627 (Anti-Bullying), RA 10157 (Kindergarten), RA 11476 (GMRC),
-  RA 10533, child protection policy (DO 40, s. 2012).
-- Current events / contemporary world references through 2026 where relevant.
+## STEPS
 
-## Step 5 — Output format
+1. Read `BLUEPRINT.md` and `TEMPLATE.md`.
+2. For each subject/area, read several `.md` files from its source folder (mapping
+   table in `BLUEPRINT.md`). For thin subjects (Rizal, Art, Ethics, Contemporary
+   World, Understanding the Self, Field Study) also pull from `*/_comprehensive/`,
+   `_comprehensive_mixed/`, and `STYLE_BANK/`. Sample `STYLE_BANK/` to match real
+   phrasing, length, and difficulty. You may invent fresh items, but ground them
+   in these resources.
+3. Write items per topic to hit the counts, then **shuffle** into one 1–150 run
+   per file (no banners).
+4. Output to a new folder (clean Markdown that previews well — see TEMPLATE):
+   ```
+   _EXAMS/<TITLE>/
+   ├── gen_ed.md    # 150 shuffled items, then "## ANSWER KEY" + "## RATIONALE"
+   └── prof_ed.md   # 150 shuffled items, then "## ANSWER KEY" + "## RATIONALE"
+   ```
+   `<TITLE>` = `$ARGUMENTS` (slugified) if given, else today's date
+   (`LET-YYYY-MM-DD`). If the folder exists, append `-2`, `-3`, …
+5. End each file with `## ANSWER KEY` (compact grid) then
+   `## RATIONALE (selected difficult items)` explaining the trickiest items.
 
-Create the folder and files:
-
-```
-_EXAMS/<TITLE>/
-├── gen_ed.md     # 150 items, then "## ANSWER KEY" with answers + brief rationale
-└── prof_ed.md    # 150 items, then "## ANSWER KEY" with answers + brief rationale
-```
-
-- `<TITLE>` = `$ARGUMENTS` if provided (slugified); otherwise use the current
-  date, e.g. `_EXAMS/LET-2026-06-04/`. If the folder exists, append `-2`, `-3`, …
-- Each file starts with the header from `TEMPLATE.md` (exam title, part, total
-  items, time, name/date line).
-- Group items by subject/area with a banner, e.g.
-  `----- PART I: PURPOSIVE COMMUNICATION IN ENGLISH (Items 1–15) -----`.
-- Number items continuously 1–150 within each file.
-- Put the **ANSWER KEY at the very end** of each file (so it can be taken as a
-  practice test first), formatted as a compact grid, followed by a
-  **RATIONALE** section explaining the tricky/difficult items.
-
-## Step 6 — Verify before finishing
-
-- Confirm `gen_ed.md` has exactly 150 numbered items and `prof_ed.md` exactly 150.
-- Confirm each subject/area hit its required count.
-- Confirm every item has A–D and an answer-key entry.
-- Report the output folder path and a one-line summary (counts per part) to the user.
+## VERIFY before finishing
+- Exactly 150 numbered items per file; numbering continuous 1–150; no topic banners.
+- Each subject/area hit its required count (track internally even though shuffled).
+- Answer-key letter distribution is balanced (each letter ~22–40 times, no run > 3).
+- Correct answers are NOT systematically the longest option.
+- Prof Ed: ≥ 60% situational. Report the folder path + a one-line summary
+  (counts per part, answer-letter distribution).
 
 Begin now. If $ARGUMENTS is empty, title the exam by today's date.

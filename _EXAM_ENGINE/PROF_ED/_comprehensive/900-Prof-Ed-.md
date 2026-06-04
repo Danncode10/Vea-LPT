@@ -1,0 +1,4544 @@
+Professional Education – January 2014
+
+	•	With R.A. 9155, to which body were all the functions, programs, and activities of the Department of Education related to Sports competition transferred? 
+	•	Technical Education Services Department Authority 
+	•	Philippine Sports Commission 
+	•	National Commission for Culture and the Arts 
+	•	Commission on Higher Education 
+
+	•	Parenting style influences children’s development. Read the following parent’s remarks for their children then, answer the question. 
+Parent C – Tells her child: “You should do it my way or else. There is no discussion.” 
+Parent D – Tells her husband: “It is 10:00 PM, do you know where your child is?”
+Parent E – Tells her child: “You know, you should have not done that. Let’s talk about it so you can handle the situation better next time.” 
+Parent F – Tells her child: “You may do what you want. We will always be here for you, no matter what you do.” 
+Which Parenting style is Authoritarian? 
+	•	D       	    b. F             c. E            d. C
+
+	•	Two identical beakers A and B are presented to the child. Teacher Sonny pours the liquid from B to C which is taller and thinner than A and B but has equal capacity with B. The teacher asks if the beakers A and C have the same amount of liquid. The child says “NO” and points to C as the beaker that has more liquid. In which cognitive developmental stage is the child? 
+	•	Sensorimotor stage 
+	•	Concrete operational stage
+	•	Pre-operational stage 
+	•	Formal Operational stage 
+
+	•	To determine her students’ level of moral development, Teacher Evangeline presents to her class a morally ambiguous situation and asks them what they would do in such a situation. On whose theory is Teacher Evangeline’s technique based? 
+	•	Bruner 		 
+	•	Kohlberg	
+	•	Freud	
+	•	Piaget
+
+	•	According to R.A. 9155, which among the following is considered the “heart of the formal education system”? 
+	•	The pupil 		 
+	•	The teacher 		
+	•	The classroom 
+	•	The school 
+
+	•	You arrange the rows of blocks in such a way that a row of 5 blocks is longer than a row of 7 blocks. If you ask which row has more, Grade 1 pupils will say that it is the row that makes the longer line. Based on Piaget’s cognitive development theory, what problem is illustrated? 
+	•	Assimilation problem 
+	•	Accommodation problem 
+	•	Conservation problem 
+	•	Egocentrism problem 
+	•	According to R.A. 9155, a school head has two roles, namely administrative manager and ____. 
+	•	Health officer 
+	•	Instructional leader 
+	•	Facilitator 
+	•	Guidance counselor 
+	•	After reading and paraphrasing Robert Frost’s Stopping by the Woods on Snowy Evening, Teacher Marko asked the class to share any insight derived from the poem. In which domain in Bloom’s taxonomy of objectives is the term paraphrase? 
+	•	Analysis 		c. Comprehension 
+	•	Application 		d. Synthesis
+	•	Which characterizes a constructivist teaching-learning process? 
+	•	Conceptual interrelatedness 
+	•	Multiple perspectives 
+	•	Authentic assessment 
+	•	Passive acceptance of information 
+	•	On what theory is the sequencing of instruction anchored? 
+	•	Gagne’s hierarchical theory 
+	•	B.F. Skinner’s operant conditioning theory 
+	•	Bandura’s social learning theory 
+	•	Thorndike’s law of effect 
+	•	A common complaint of teachers about pupils is this: “You give them assignment, the following day they come without any. You teach them this today, asks them tomorrow and they don’t know. It is as if there is nothing that you taught them at all.” Based on the theory of information processing, what must teachers do to counteract pupil’s forgetting?
+	•	Punish every child who can’t give correct answers to questions. 
+	•	Work for meaningful learning by connecting lesson to what pupils know. 
+	•	Reward every child who remembers past lessons.
+	•	III only 		c. II and III 
+	•	I and III 		d. II only 
+
+	•	When small children call all animals “dogs”, what process is illustrated, based on Piaget’s cognitive development theory? 
+	•	Assimilation 	c. Reversion 
+	•	Conservation 		d. Accommodation
+
+	•	Based on Bandura’s theory, which conditions must be present for a student to learn from a model? 
+	•	Attention 	III. Motor reproduction 
+	•	Retention 	IV. Motivation 
+	•	I and II 		c. I, II, III and IV
+	•	I, II and III 		d. III and IV 
+
+
+	•	According to Tolman’s theory on purposive behaviorism, learning is goal-directed. What is its implication to teaching? 
+	•	Evaluate lessons based on your objective/s 
+	•	Set as many objectives as you can 
+	•	Stick to your objectives/s no matter what happens 
+	•	Make the objective/s of your lesson clear and specific 
+
+	•	Which is the ideal stage of moral development? Stage of _____.
+	•	Social contract 
+	•	Universal ethical principle 
+	•	Law and order 
+	•	Good boy/good girl 
+
+	•	Cristina’s family had a family picture when she was not yet born. Unable to see herself in the family picture, she cried despite her mother’s explanation that she was not yet born when the family picture was taken. What does Cristina’s behavior show? 
+	•	Limited social cognition 
+	•	Egocentrism 
+	•	Semi-logical reasoning 
+	•	Rigidity of thought 
+
+	•	To help a student learn to the optimum, Vygotsky advises us to bridge the student’s present skill level and the desired skill level by ______. 
+	•	Challenging 		c. Inspiring 
+	•	Scaffolding 		d. Motivating
+
+	•	Based on Piaget’s theory, what should a teacher provide in the formal operational stage? 
+	•	Stimulating environment with ample objects to play with 
+	•	Games and other physical activities to develop motor skills 
+	•	Activities for hypothesis formulation 
+	•	Learning activities that involve problems of classification and ordering 
+
+	•	“Do not cheat. Cheating does not pay. If you do, you cheat yourself” says the voiceless voice from within you. In the context of Freud’s theory, which is/are at work? 
+	•	Id 			c. Ego 
+	•	Id and Superego 	d. Superego 
+
+	•	Here are comments from School Head Carmen regarding her observations on teacher’s practice in lesson planning: 
+The words “identify,” “tell” and “enumerate” are overused. Many times they make use of non-behavioral terms. Often their lesson objectives do not include value formation and inculcation.
+What can be inferred from the School Head’s comments regarding teacher formulated lesson objectives? 
+	•	Often lesson objectives are in the low level 
+	•	Very often lesson objectives are in the cognitive domain 
+	•	Quite often lesson objectives describe teacher’s behavior 
+	•	Often lesson objectives are in the psychomotor domain
+
+	•	Sassi, a Grade I pupil is asked, “Why do you pray everyday?” Sassi answered, “Mommy said so.” Based on Kohlberg’s theory, in which moral development stage is Sassi? 
+	•	Pre-convention level 
+	•	Conventional level 
+	•	In between conventional and post-conventional levels 
+	•	In between pre- and post-conventional levels 
+
+	•	Teacher Fatima tells her students: “You must be honest at all times not only because you are afraid of the punishment but more because you yourselves are convinced of the value of honesty.” Based on Kohlberg’s theory, which level of moral development does the teacher want her students to reach? 
+	•	Conventional level 
+	•	Between conventional and post-conventional levels 
+	•	Between pre-conventional and post-conventional levels 
+	•	Post-conventional level
+ 
+	•	Why is babyhood referred to as a “critical period” in personality development? Because:
+	•	At this time the baby is exposed to many physical and psychological hazards 
+	•	Changes in the personality pattern take place 
+	•	At this time the foundations are laid upon which the adult personality structure will be built 
+	•	The brain grows and develops at such an accelerated rate during babyhood 
+
+	•	It is good to give students creative learning tasks because ______. 
+	•	Development is affected by cultural changes 
+	•	The development of individuals is unique 
+	•	Development is the individual’s choice 
+	•	Development is aided by stimulation 
+
+	•	According to Havighurst’s development tasks, reaching and maintaining satisfactory performance in one’s occupational career is supposed to have been attained during ____. 
+	•	Middle age and Early adulthood 
+	•	Middle age 
+	•	Old age 
+	•	Early adulthood 
+
+	•	Student Deina says: “I have to go to school on time. This is what the rule says.” In what level of moral development is the student? 
+	•	Pre-conventional 
+	•	Post-conventional 
+	•	Conventional 
+	•	Cannot be specifically determined 
+
+	•	In planning for instruction, can a teacher begin with assessment? 
+	•	No, it may discourage and scare the learners 
+	•	Yes, determine entry knowledge or skill
+	•	Yes, to make the class pay attention 
+	•	No, assessment is only at the end of a lesson 
+
+	•	Which among the following is closest to the real human digestive system for study in the classroom? 
+	•	Drawing of the human digestive system on the board 
+	•	Model of the human digestive system 
+	•	The human digestive system projected on an OHP 
+	•	Drawing of the human digestive system on a page of a textbook
+
+	•	Here is a question: “Is the paragraph a good one?” Evaluate. If broken down to simplify, which is the best simplification?
+	•	Why is the paragraph a good one? Prove 
+	•	Is the paragraph a good one? Why or Why not? 
+	•	If you asked to evaluate something, what do you do? Evaluate the paragraph?
+	•	What are the qualities of a good paragraph? Does the paragraph have these qualities? 
+
+	•	Which one is in support of greater interaction?
+	•	Probing 
+	•	Repeating the question 
+	•	Not allowing a student to complete a response 
+	•	Selecting the same student respondents 
+
+	•	With this specific objective, to reduce fractions to their lowest terms, this is how the teacher developed the lesson.
+Step 1 – Teacher stated the rule on how to reduce fractions to their lowest term 
+Step 2 – Teacher wrote   2 ,  3 ,  4 ,  5 ,  6 
+                                   4    6    8   10   12
+and showed how to reduce them to   1   
+                                                   2
+Step 3 – Teacher wrote  3 ,  6 ,  4  and 
+                                  9    9   12
+showed how to reduce them to their lowest term. 
+Step 4 – Teacher gave this written exercise to the class.
+Reduce the following fractions to their lowest terms:  3 ,  7 ,  5 ,  8 ,  5 ,  4 
+               12  14   10  16  15    6                                                                                          
+Did the lesson begin with concrete experience then developed into the abstract? 
+	•	No 
+	•	Yes, a little 
+	•	Yes, by way of the examples given by the teacher 
+	•	Yes, the pupils were involved in arriving at the rule on reducing fractions to their lowest terms 
+	•	I want to compare two concepts. Which technique is most appropriate? 
+	•	Attribute wheel 
+	•	K-W-L techniques 
+	•	Venn diagram 
+	•	Spider web organizer 
+	•	Which activity should a teacher have more for his students if he wants them to develop logical-mathematical thinking? 
+	•	Focus group discussion 
+	•	Problem solving 
+	•	Games 
+	•	Small group discussion 
+
+	•	I want to use a pre-teaching strategy that will immediately engage my students in the content and will enable me to get an insight into how students think and feel about the topic. Which is most appropriate?
+	•	K-W-L chart 		c. Graphic organizer
+	•	Story boarding 	d. Document analysis 
+	•	For a discussion of a topic from various perspectives, it is best to hold a ______. 
+	•	Debate 		c. Panel discussion 
+	•	Brainstorming 	d. Symposium 
+	•	After establishing my learning objectives, what should I do to find out what my students already know and what they do not yet know in relation to my lesson objectives in the cognitive domain? 
+	•	Give a pretest 
+	•	Study the least learned competencies in the National Achievement Test 
+	•	Analyze my students’ grades last year 
+	•	Interview a sample of my students 
+	•	What characterizes genuine change? Change in _____. 
+	•	Appearance 		c. Substance 
+	•	Form 			d. Physical attribute 
+	•	In which strategy, can students acquire information from various perspectives, and led to reflective thinking and group consensus? 
+	•	Debate 
+	•	Small group discussion 
+	•	Panel discussion 
+	•	Symposium 
+	•	At the end of my lesson on the role of a teacher in learning, I asked the class: “In what way is a teacher an enzyme?”  With this question, it engaged the class in _______. 
+	•	Allegorical thinking 
+	•	Concrete thinking 
+	•	Metaphorical thinking 
+	•	Symbolical thinking 
+	•	Which must be primarily considered in the choice of instructional aide? 
+	•	Must stimulate and maintain student interest 
+	•	Must be updated and relevant to Filipino setting 
+	•	Must be suited to the lesson objective 
+	•	Must be new and skillfully made
+	•	For lesson clarity and effective retention, which should a teacher observe, according to Bruner’s theory? 
+	•	Begin teaching at the concrete level but go beyond it by reaching the abstract 
+	•	Use purely verbal symbols in teaching
+	•	Start at the concrete level and end there 
+	•	End teaching with verbal symbols 
+	•	Is it advisable to use realias all the time? 
+	•	No, for the sake of variety of instructional materials 
+	•	No, only when feasible 
+	•	Yes, because there is no substitute for realias 
+	•	Yes, because it is the real thing
+	•	I want my students to look at the issues on the call for President Arroyo to step down from several perspectives. Which activity is most fitting? 
+	•	Cross examination 	c. Symposium 
+	•	Panel discussion 	d. Debate 
+	•	I intended to inculcate in my students the value of order and cleanliness. I begin my lesson by asking them to share their experiences about the dirtiest and the cleanest place they have seen and how they felt about them. From there I lead them to the consequences of dirty and clean home of surroundings. In my lesson development plan, how do I proceed? 
+	•	Transductively 	c. Deductively 
+	•	Inductively 		d. Concretely 
+
+	•	Teacher Neri wants to develop the ability of sound judgment in his students. Which of the following questions should he ask? 
+	•	What is the essayist saying about judging other people? 
+	•	With the elements of a good paragraph in mind, which one is best written? 
+	•	Why is there so much poverty in a country where there is plenty of natural resources? 
+	•	Of the characters in the story, with whom do you identify yourself?  
+
+	•	The teacher is the first audio-visual aid in the classroom. What does this imply? 
+	•	You take care that you follow the fashion or else students won’t listen to you
+	•	Your physical appearance and voice should be such that students are helped to learn 
+	•	Make good use of the radio and TV in the classroom 
+	•	Include singing in your teaching method
+
+	•	I used the gumamela flower, a complete flower, to teach the parts of a flower. Which method did I use? 
+	•	Demonstration method 
+	•	Type-study method 
+	•	Drill method 
+	•	Laboratory method 
+
+	•	A teacher would use a standardized test ______. 
+	•	To serve as a unit test 
+	•	To serve as a final examination 
+	•	To engage in easy scoring 
+	•	To compare her students to national norms 
+	•	Other than finding out how well the course competencies were met, Teacher Kathy also wants to know her students’ performance when compared with other students in the country. What is Teacher Kathy interested to do? 
+	•	Formative evaluation 
+	•	Authentic evaluation 
+	•	Norm-referenced evaluation 
+	•	Criterion-referenced evaluation
+	•	I want to help my students retain new information. Which one will I use? 
+	•	Questions 		c. Games 
+	•	Mnemonics 		d. Simulations 
+	•	I want to use a diagram to compare the traditional and authentic modes of assessment. Which one is most fit? 
+	•	Affinity diagram 
+	•	Tree diagram 
+	•	Venn diagram 
+	•	Fishbone diagram 
+
+	•	A big story in your local newspaper. You want to use the headlines as an inquiry device. To increase student participation, you might begin by ____. 
+	•	Asking  one to read the news story and interpret what he read after 
+	•	Asking the class to infer connotations and denotations  from the headline 
+	•	Explaining what you believe to be the underlying causes 
+	•	Describing the background of the story as you know it 
+	•	If a triadic interaction includes three (3) persons, how many persons are included in a dyadic interaction? 
+	•	Two 
+	•	Two groups composed of two persons each 
+	•	One, the person and himself 
+	•	Four 
+	•	When I teach skills that are critical to the learning of the next topics, what should I employ? 
+	•	Direct instruction 
+	•	Mastery learning 
+	•	Socratic method 
+	•	Cooperative learning 
+	•	I want my students to have mastery learning of a basic topic. Which can help? 
+	•	Drill 
+	•	Socratic method and drill 
+	•	Morrisonian technique and drill 
+	•	Socratic method 
+	•	Teacher Feng wanted to teach the pupils the skill of cross stretching. Her check-up quiz was a written test on the steps of cross stitching. What characteristic of a good test does it lack? 
+	•	Predictive validity 
+	•	Objectivity 
+	•	Reliability 
+	•	Content validity 
+	•	In the parlance of test construction, what does TOS mean?
+	•	Table of Specification 
+	•	Team of Specifications
+	•	Table of Specifics 
+	•	Terms of Specifications  
+	•	If I favor “assessment for learning,” which will I do most likely? 
+	•	Conduct a pre-test results 
+	•	Teach based on pre-test results 
+	•	Give specific feedback to students 
+	•	Conduct peer tutoring for students in need of help
+	•	I, II and IV 		c. I, II and III 
+	•	II, III and IV 		d. I, II, III and IV 
+	•	After a lesson on the atom, the students were asked to work on a physical model of the atom to determine learning. For which group of students is building an atom model intended? 
+	•	Interpersonality intelligent 
+	•	Kinesthetically intelligent 
+	•	Mathematically intelligent 
+	•	Linguistically intelligent
+	•	If I want to develop creative thinking in my students, which one/s should I use? 
+	•	Problem solving 
+	•	Brainstorming 
+	•	Dramatics 
+	•	I and II 		c. III only 
+	•	II only 		d. I, II and II
+
+	•	Which is/are effective method/s in teaching students critical reading skills? 
+	•	Read and interpret three different movie reviews 
+	•	Interpret editorials about a particular subject from three different newspaper 
+	•	Distinguish fiction from non-fiction materials 
+	•	Interpret editorials and read and interpret  three different movie reviews 
+
+	•	I want to present the characteristics features of a constructivist approach. What should I use? 
+	•	Fishbone diagram 
+	•	Venn diagram 
+	•	Narrative frame 
+	•	Attribute wheel 
+	•	If all of your students in your class passed the pretest, what should you do? 
+	•	Administer the posttest 
+	•	Go through the unit as usual because it is part of the syllabus
+	•	Go through the lesson quickly in order not to skip any 
+	•	Go on to the next unit 
+	•	Teacher Vicky shows her students a picture of people in thick jackets. Then she asks them to tell her the kind of climate when the picture was taken. If she asks 5 questions of this kind and her students do not get them, it is safe to conclude that pupils are quite weak in the skill of _______. 
+	•	Analyzing 		c. Synthesizing 
+	•	Inferring 		d. Generalizing 
+	•	Which must go with self-assessment for it to be effective?
+	•	Scoring  rubric 
+	•	Consensus of evaluation results from teacher and student 
+	•	External monitor 
+	•	Public display of results of self-evaluation 
+	•	Which group of scores is most varied? The group with ________.
+	•	0.90 SD	   	c. 0.10 SD
+	•	0.50 SD	  	d. 0.75 SD
+	•	The main purpose in administering a pretest and a posttest to students is to _____.
+	•	Measure gains in learning 
+	•	Measure the value of the material taught 
+	•	Keep adequate records 
+	•	Accustom the students to frequent testing 
+	•	Assessment is said to be authentic when the teacher ________. 
+	•	Consider students’ suggestion in teaching 
+	•	Gives valid and reliable paper-and-pencil test 
+	•	Gives students real-life task to accomplish 
+	•	Includes parents in the determination of assessment procedures 
+	•	The following are computed means of a hundred-item test: Physical science, 38; Math, 52; English, 33. Based on the data, which is true? 
+	•	The examinees seem to be very good in Physical Science 
+	•	The Math test appears to be the easiest among the three 
+	•	The examinees seem to excel in English 
+	•	The English test appears to be the easiest among the three
+	•	An examinee whose score is within x + 1 SD belongs to which of the following groups?
+	•	Above average		
+	•	Average
+	•	Below average	
+	•	Needs improvement	
+	•	Which is true of a bimodal distribution?
+	•	The scores are neither high nor low
+	•	The group has two different groups
+	•	The score are high
+	•	The score are low
+	•	When you reach the “plateau of learning”, what should you do?
+	•	Forget about learning	
+	•	Reflect what caused it 
+	•	Force yourself to learn	
+	•	Rest		
+	•	What can be said if student performance in a positively skewed scores distribution?
+	•	Most students performed well
+	•	Most students performed poorly
+	•	Almost all students had averaged performance
+	•	A few students performed excellently
+	•	A number of test items in a test are said to be non-discriminating? What conclusion/s can be drawn?
+	•	Teaching or learning was very good.
+	•	The item is so easy that anyone could get it right.
+	•	The item is so difficult that nobody could get it.
+	•	II only			c. III only
+	•	I and II		d. II and III
+	•	A test item has a difficulty index of 0.51 and a discrimination index of 0.25. What should the teacher do?
+	•	Revise the item 
+	•	Retain the item		
+	•	Make it a bonus item		
+	•	Reject the item
+	•	The difficulty index of a test item is 1. This means that _____________.
+	•	The test item is a quality item 
+	•	The test is very difficult	
+	•	The test is very easy	
+	•	Nobody got the item correctly
+	•	If the compound range is low, this means that _____________.
+	•	The students performed very well in the test
+	•	The difference between the highest and the lowest score is low
+	•	The difference between the highest and the lowest score is high
+	•	The students performed very poorly in the test
+	•	What is the mastery level of a school division in a 100-item test with a mean of 55?	
+	•	42%	     b. 55%	    c. 45%       d. 50%
+	•	A negative discrimination index means that ____________.
+	•	The test item has low reliability
+	•	More from the lower group answered the test item correctly
+	•	The test item could not discriminate between the lower and upper groups
+	•	More from the upper group got the item correctly
+	•	In an entrance examination, student Anna’s Percentile is 25 (P25). Based on this Percentile rank, which is likely to happen?
+	•	Student Anna will be admitted
+	•	Student Anna will not be admitted
+	•	Student Anna has 50-50 percent chance to be admitted
+	•	Student Anna has 75 percent chance to be admitted
+	•	What does a percentile rank of 62 mean?
+	•	It is the student’s score in the test
+	•	The student answered sixty-two (62%) of the items correctly
+	•	The student’s score is higher than 62 percent of all students who took the test
+	•	Sixty-two percent (62%) of those who took the test scored higher than the individual
+	•	What does the computer have in common with the TV?
+	•	Key board		c. Screen
+	•	File			d. Disk drive
+	•	Which depicts in graphic form the social relations present in a group?
+	•	Interest inventory		
+	•	Sociogram
+	•	Anecdotal record		
+	•	Johari’s window 
+	•	Planned ignoring, signal interference, and proximity control are techniques used in _____.
+	•	Managing temper tantrums	
+	•	Managing surface behavior	
+	•	Operant conditioning	
+	•	Life-space interviewing
+	•	What should you do to get the child’s attention when she/he is distracted by an object in the room?
+	•	Call him by his name and tell him to pay attention
+	•	Put away the distracting influence
+	•	Involve him in helping with an activity
+	•	I and II		c. II and III
+	•	I and III		d. I, II and III
+	•	Which practice in our present educational system is in line with Plato’s thought that “nothing learned under compulsion stays with the mind”?
+	•	Clarification of school policies and classroom rules on Day 1
+	•	Presentation of standards of performance in the learner
+	•	Making the teaching-learning process interesting
+	•	Involving the learner in the determination of learning goals
+	•	In Values Education, faith, hope, and love are believed to be permanent values whether they be valued by people or not. Upon what philosophy is this anchored?
+	•	Realism		c. Idealism
+	•	Existentialism		d. Pragmatism
+	•	In the schools, we teach realities that cannot be verified by the senses like an Invisible God or Allah. Whose beliefs does this practice negate?
+	•	Stoicists’		c. Skeptics’
+	•	Rationalists’		d. Empiricists’
+	•	Which emphasized on non-violence as the path to true peace as discussed in peace education?
+	•	Taoism			c. Hinduism
+	•	Buddhism		d. Shintoism
+	•	I make full use of the question-and-answer as a model for discussion. From whom is this question-and-answer method?
+	•	Socrates		c. Aristotle
+	•	Kant			d. Plato
+
+	•	A wife who loves her husband dearly becomes so jealous that in a moment of savage rage, kills him. Is the wife morally responsible and why?
+	•	Not necessarily. Antecedent passion may completely destroy freedom and consequently moral responsibility
+	•	Yes, she killed her husband simply because of jealousy
+	•	It depends on the case of the wife’s jealousy
+	•	It depends on the mental health of the wife
+
+	•	Martin Luther King Jr. once said, “Man may understand all about the rotation of the earth but he may still miss the radiance of the sunset.” Which type of education should be emphasized as implied by Martin Luther King Jr.?
+	•	Science and education
+	•	Vocational education
+	•	Liberal education
+	•	Technical education
+
+	•	Computer-assisted instruction is an offshoot of the theory of _____.
+	•	J. Piaget		c. B.F. Skinner
+	•	J. Brunner		d. J. Watson
+	•	The use of varied teaching and testing strategies on account of students’ multiple intelligences is in line with the thoughts of ______.
+	•	Daniel Goleman		
+	•	Jean Piaget			
+	•	Howard Gardner
+	•	Benjamin Bloom 
+
+	•	Applying Confucius’s teachings, how would hiring personnel select the most fit in government positions?
+	•	By record evaluation done by an accrediting body
+	•	By government examinations
+	•	By accreditation
+	•	By merit system
+	•	“Moral example has a greater effect on pupils’ discipline than laws and codes of punishment” is an advice of teachers from _________.
+	•	Confucius		c. Lao tzu
+	•	Mohammed		d. Mencius
+	•	“The principle of spontaneity against artificiality will make you accomplish something. Leave nature to itself and you will have harmony” is an active advice from the _____.
+	•	Hindu			c. Shintoist	
+	•	Taoist			d. Buddhist
+	•	The significance of liberal education in holistic development of students is supported by _____.
+	•	Perennialism		
+	•	Pragmatism		
+	•	Confucian teaching 
+	•	Perennialism and Confucian philosophy
+
+	•	Is a sick teacher, the only one assigned in a remote school, excused from her teaching duty?
+	•	No, she is the only one assigned in that school
+	•	Yes, teaching is a demanding job
+	•	Yes, she is sick
+	•	No, she must abide by her contract
+	•	What is a demonstration of your authority as a professional teacher?
+	•	You make your pupils run errands for you
+	•	You decide on how to teach a particular lesson
+	•	  You absent from class to enjoy your leave even without prior notice
+	•	You select to teach only those lessons which you have mastered
+	•	Which statement on true authority is wrong?
+	•	It sets an example
+	•	It seeks its own satisfaction and privilege
+	•	  It acts in the best interest of others
+	•	Its goal is to help, form, and guide others
+	•	When a teacher teaches the idea that it is wrong to think that Filipino lifestyle, products and ideas are inferior to those of other nationalities, he fights against ______.
+	•	Acculturation	c. Ethnocentrism
+	•	Xenocentrism	d. Culture shock
+	•	Teacher Lolita, a teacher for forty years, refuses to attend seminars. She claims that her forty years of teaching is more than all the seminars she is asked to attend. Is her actuation and thinking in accordance with the Code of Ethics for Professional Teachers?
+	•	No, a professional teacher, regardless of teaching experience, ought to go through continuing professional education
+	•	No, non-attendance to seminars means no professional growth
+	•	  Yes, because she has taught for forty years and may have mastered the trade
+	•	Yes, provided she has an excellent performance rating
+
+	•	A principal asked her good teachers to write modular lessons in Science, and then she had them published with her name printed as author. Which is unethical in this case?
+	•	She was the exclusive beneficiary of the royalty from the modules
+	•	She burdened her teachers with work not related to teaching
+	•	  She had the modular lessons published when they were worth publishing
+	•	She got the merit which was due for her teacher-writers
+
+	•	Is it ethical on the part of the teacher to proselyte in her classroom every Friday?
+	•	Yes, that strengthens values education
+	•	Yes, that is religious instruction which is allowed by the Constitution
+	•	  No, a teacher shall not engage in the promotion of his/her religious interest in the classroom
+	•	No, proselyting is no longer necessary in this age
+
+	•	Which can promote national pride among pupils/students?
+	•	 	Studying the lives of outstanding Filipinos here and abroad
+	•	Reading the lives of saints of the Church
+	•	Studying Philippine history with emphasis on the victories and greatness of the Filipino people
+	•	I, II, III			c. I & II
+	•	III only			d. I only
+	•	Why is the exodus of Filipino professionals described as “brain drain”?
+	•	 	Those who go abroad are usually the better
+	•	Filipino professionals serve other countries instead
+	•	They contribute to nation building through their dollar remittances
+	•	I, II, III     b. I only   c. II only    d. I & II
+	•	You want to report on a colleague's act of immorality. You don't have the courage to confront her. To end her illicit affair with a married man you write and secretly distribute copies of your anonymous letter against your fellow teacher. What should have been done instead?
+	•	If the charge is valid; present such charge under oath before your school head
+	•	Ask a third party to write the anonymous letter to prevent yourself from being involved
+	•	  Talk to the married man with whom she is having illicit affair
+	•	Secretly give the anonymous letter only to the two people concerned
+	•	Teachers often complain of numerous non-teaching assignments that adversely affect their teaching. Does this mean that teachers must be pre-occupied only with their teaching?
+	•	Yes, because teaching is enough full time job
+	•	Yes, if they are given other assignments, justice demands that they be properly compensated
+	•	  No, because every teacher is expected to provide leadership in activities for the betterment of the communities where they live and work
+	•	No, they are also baby sitters especially in the pre-school
+	•	My right ends where the rights of others begin. What does this mean?
+	•	Rights are not absolute	
+	•	Rights are alienable		
+	•	  Rights are inalienable	
+	•	Rights are absolute
+	•	History books used in the schools are replete with events portraying defeats and weaknesses of the Filipino people. In the spirit of nationalism, how should you tackle them in the classroom?
+	•	Present them as they are and tell the class to accept reality
+	•	Present the facts and use them as means to teach and inspire your class
+	•	  Present the facts and express your feelings of regret
+	•	Present the facts including those people responsible for the failures or for those who contributed
+	•	Should an association of teachers obey a Supreme Court’s decision even if it conflict with its interest and opinions?
+	•	No
+	•	Yes
+	•	  Yes, provided they can make a bargain
+	•	No, as a minority group they have the right to express their rejection
+	•	A teacher does not agree with the selective retention policy of the school and she openly talks against it in her classes. Is her behavior ethical?
+	•	Yes, provided she got the permission from her superior to talk against the policy
+	•	No, it is her duty to faithfully carry it out even if she does not agree
+	•	  No, in fact she is quite confused and passes on her confusion to others
+	•	Yes, she is entitled to her opinion just as everybody is
+	•	If you have a problem with another teacher, the first step towards resolution should be for you to:
+	•	Talk directly with the teacher involved
+	•	Ask your fellow teachers to intercede on your behalf
+	•	  Ask your fellow teachers for their suggestions
+	•	Discuss it with your principal
+	•	What is ethical for you to do if deep within your heart you do not agree with the school policy on student absences?
+	•	Be vocal about your feeling and opinion against the policy
+	•	Understand the policy and support the school in its implementation
+	•	  Argue with your superior to convince him to change the policy
+	•	Keep your feeling to yourself but make insinuations that you are against it while you teach
+CASE #1 – Mrs. Domingo developed a lesson on the concept of fraction this way: First, she presented one pizza, and then asked a pupil to cut it into two. She called one part of the pizza 1/2 and the two parts of 2/2. Then she wrote 1/2 and 2/2 on the board. She proceeded to ask another pupil to divide the half parts of the cake into two again, and then wrote 1/2, 2/4 and 3/4. Then she used the model of fractions (wooden circles) divided into 2, 3 and 4 show 1/2, 1/4, 1/3, 2/4. Then she went back to the fractions she wrote on the board. She asked her pupils for the meaning of 1/2, 1/3, 1/4, 2/4.
+	•	Did Mrs. Domingo follow Bruner's three stage development of knowledge?
+	•	Yes
+	•	No
+	•	  Only in the first stage
+	•	Cannot be determined because the lesson was not developed fully
+	•	In the context of Bruner's principle of knowledge representation, which is the enactive phase of the lesson on fractions?
+	•	Presenting the pizza and cutting it into two and four
+	•	Using the model of fractions
+	•	  Writing the fractions 1/2, 1/4 and 1/3 on the board
+	•	Asking the meaning of 1/2, 1/4 and 1/3
+	•	Would it be easier to understand and retain the concept of fractions if Mrs. Domingo began the lesson on fractions with the meaning of 1/2, 1/3, 1/4, etc.?
+	•	Yes, provided we proceed to the concrete
+	•	No, for better learning we proceed from the concrete to the abstract
+	•	  It depends on the teaching skills of the teacher
+	•	Yes, provided we include a concrete application of the abstract
+	•	Which part of the lesson is the symbolic stage?
+	•	Using the model of fractions
+	•	Dividing the pizza further into four
+	•	  Dividing the pizza into two
+	•	Writing the fractions 1/2, 1/4, 1/3, 2/4 on the board
+	•	Does the development of the lesson on fraction conform to the bottom-up arrangement of the learning experiences in Edgar Dale's Cone of Experience?
+	•	No
+	•	Cannot be determined
+	•	Yes
+	•	Up to the second phase of the lesson only
+CASE #2 – In a faculty recollection, the teachers were asked to share their thoughts of the learner, their primary customer. What follow is the gist of what were shared:
+Teacher A - “The learner is a product of his environment. Sometimes he has no choice. He is determined by his environment.” 
+Teacher B - “The learner can choose what he can become despite his environment.”
+Teacher C - “The learner is a social being who learns well through an active interplay with other.”
+Teacher D - “The learner is a rational being. Schools should develop his rational and moral powers.”
+	•	Whose philosophical concept is that of Teacher A?
+	•	Rationalist		c. Existentialist
+	•	Behaviorist		d. Progressivist
+	•	Teacher B's response comes from the mouth of a/an:
+	•	Behaviorist		c. Essentialist
+	•	Existentialist	d. Perennialist
+	•	If you agree with Teacher C, you are more of a/an:
+	•	Perennialist		c. Essentialist
+	•	Rationalist		d. Progressivist
+	•	If you identify yourself with Teacher D, you adhere to what philosophy?
+	•	Progressivist	c. Existentialist
+	•	Behaviorist		d. Perennialist
+	•	Whose response denies man's free will?
+	•	Teacher A		c. Teacher D
+	•	Teacher C		d. Teacher B
+CASE #3 – School Head Amilia wants her teachers to be constructivist in their teaching orientation.
+	•	Which material will her teachers most likely use?
+	•	Facts		      c. Time-tested principles
+	•	Hypotheses      d. Laws
+	•	Which material will her teachers most likely avoid?
+	•	Unquestionable laws
+	•	Open-ended topics		
+	•	  Problems or cases		
+	•	Controversial issues 
+	•	On which assumption/s is/are the principal's action anchored?
+	•	 	Students learn by personally constructing meaning of what is taught
+	•	Students construct and reconstruct meanings based on experiences
+	•	Students derive meaning from the meaning that teacher gives
+	•	I only		c. I and II
+	•	I and III		d. II only
+	•	Which does School Head Amilia want her teachers to do?
+	•	Require their students to come up with a construct of the lesson
+	•	Make their students derive meaning from what is presented
+	•	  Let their students construct meaningful sentences based on the lesson
+	•	Give the meaning of what they present in class
+	•	Which one should her teachers then avoid? Students':
+	•	Reflection	
+	•	Self-directed learning
+	•	  Memorization of facts for testing
+	•	Inquiry	
+	
+CASE #4 – On the first day of school, Teacher Yveta oriented her class on procedures to be observed in passing papers, getting textbooks from and returning the same on the bookshelf, leaving the room for necessity, and conducting group work. She arranged the chairs in such a way that students can interact and can move around without unnecessarily distracting those seated. She involved the class in the formulation of rules to ensure punctuality, order and cleanliness in the classroom.
+	•	On what belief is Teacher Yveta's management practice anchored?
+	•	Classroom rules need to be imposed for order's sake
+	•	The classroom environment affects learning				
+	•	  A teacher must lord her power over her students to be an effective classroom manager
+	•	A reactive classroom management style is effective
+	•	Teacher Yveta involved her students in the formulation of class rules. Which describes her classroom management style? 
+	•	Benevolent		c. Democratic
+	•	Authoritarian	d. Laissez-faire
+	•	Which adjective appropriately describes Teacher Yveta as a classroom manager?
+	•	Proactive		c. Reactive
+	•	Modern		d. Traditional	
+	•	Was it sound classroom management practice for Teacher Yveta to have involved the students in the formulation of class rules?
+	•	No, it weakens the teacher's authority over her students
+	•	Yes, it makes students feel a sense of ownership of the rules
+	•	  Yes, it lessens a teacher's work
+	•	No, it is a students' act of usurpation of teacher’s power		
+	•	Which assumption underlies Teacher Yveta's classroom management practice?
+	•	Classroom routines are boring and will work when imposed
+	•	Classroom routines leave more time for class instruction
+	•	  Students need to be treated like adults to learn responsibility
+	•	Teacher's personality is a critical factor in classroom discipline		
+		
+CASE #5 – Mr. Santo's lesson was on water conservation. He presented a graph that compared water consumption of small and big families. Before he asked any of the questions, he asked someone to stand up to give an answer. He called only on those who raised their hands. The questions he asked were:
+	•	What do you see in the graph?
+	•	How do you compare the water consumption of small and big families?
+	•	Why do most of the big families consume more water than the smaller families?
+	•	Do all the small families consume less water than the big families? Explain your answer.
+	•	In your opinion, why does one small family consume more water than one big family?
+	•	In what ways is water wasted?
+	•	What are ways of conserving water?
+	•	Are the families presented well at water conservation? Why or why not?
+	•	What generalization can you draw about water consumption and size of families? 
+	•	Is there any convergent question from #1 to #8?
+	•	Yes, question #4		
+	•	Yes, question #7		
+	•	  Yes, question #8
+	•	None
+	•	Which question technique/s of Mr. Santo do(es) not enhance interaction?
+	•	 	Asking high-level questions
+	•	Calling only on those who raised their hands
+	•	Calling on someone before asking the question
+	•	II and III		c. III only
+	•	I and II		d. I and III
+	•	Which statement on “wait time” is correct?
+	•	The higher the level of the question, the longer the wait time
+	•	Wait time turns off slow thinking students
+	•	  For quality response, “what” and “why” questions require equal wait time
+	•	Wait time discourages the brighter group of students
+	•	To connect the lesson on water conservation to the life of the students, which question is most appropriate?
+	•	How can you help conserve water?
+	•	Based on you observations, in what ways for people contribute to water wastage?	
+	•	What maybe the reason why even if Family B is not as big as Family C, it consumes much more water than Family C?
+	•	Among the families, who contributes most to water conservation?
+	•	Were all the questions of Mr. Santo divergent?
+	•	Yes			c. No
+	•	No, except #4	d. Yes, except #1	
+
+CASE #6 – With a topic on the human circulatory system, Teacher Jan formulated the following lesson objectives:
+	•	Given a model of the human circulatory system, the student must be able to understand the route of blood circulation
+	•	After discussing the process of blood circulation, the teacher must be able to lead the pupils in enumerating circulatory system-related diseases and in citing the causes and prevention of such diseases. 	
+	•	Is objective #1 in accordance with the principles of lesson objective formulation?
+	•	No, the word “understand” is not a behavioral term
+	•	No, it is not attainable	
+	•	  Yes, “understand” is an action word
+	•	Yes, it is very specific
+	•	How can you improve objective #2?
+	•	Remove the phrase “After discussing the process of blood circulation.”
+	•	Formulate it from the learner's point of view
+	•	  Cut it short; the statement is quite long
+	•	No need to improve on it			
+	•	Do both objectives include a criterion of success, an element of a lesson objective cited by Robert Mager?
+	•	Only objective #1 has	
+	•	Only objective #2 has		
+	•	No, they don't	
+	•	Yes, they do	
+	•	Is objective #2 in accordance with the principles of lesson objective formulation?
+	•	No, it does not describe pupils' learning behavior
+	•	Yes, it is formulated from the point of view of the teacher
+	•	  No, it is very broad
+	•	Yes, it describes teacher's teaching activity
+	•	Which one is the measurable learning behavior in objective #1?
+	•	Able to understand	
+	•	Route of blood circulation	
+	•	  To understand		
+	•	None  
+	
+CASE #7 – Teacher Fantina has a hard time getting the attention of her class. When she checks for understanding of the lesson after a usual forty-five minute lecture, she finds out that only one or two can answer her questions. This has become a pattern so one time, when the class could not answer, she gave a test. 	
+	•	What does the inattentiveness of most of Teacher Fantina's students confirm?
+	•	The “ripple effect” of behavior		
+	•	The lack of academic preparation of some teachers
+	•	  The strange behaviors of today's students
+	•	The stubbornness of student groups
+
+	•	Which method in dealing with classroom management problem is better than that of Teacher Fantina?
+	•	Low level force and private communication
+	•	Low level force and public communication 
+	•	  High level force and private communication
+	•	High level force and public communication
+	•	Can the inattentiveness of Teacher Fantina's class be attributed to her use of the lecture method?
+	•	Yes, if the lecture was not interactive
+	•	Yes, if Teacher Fantina is an experienced teacher
+	•	  No, if the students are intelligent
+	•	Cannot be determined
+	•	With the principles of learning in mind, which one can help Teacher Fantina solve her student disciplinary problem?
+	•	Call on their first names	
+	•	Do interactive teaching		
+	•	  Change seat plan of the class 
+	•	Assign monitors in class
+	•	Which act of Teacher Fantina is contrary to the principles of teaching?
+	•	Asking questions to check for understanding			
+	•	Giving a lecture
+	•	  Checking for understanding of the lesson in the process of teaching
+	•	Giving a test to discipline the class
+	•	Teacher Leon gives his students opportunities to be creative because of his conviction that much learning results from the need to express creativity. On which theory is Teacher Leon’s conviction anchored? ______ theory 
+	•	Behaviorist 		c. Cognitive 
+	•	Associationist 		d. Humanist 
+	•	Which philosophy approves of a teacher who lectures most of the time and requires his students to memorize the rules of grammar?
+	•	Existentialism 	c. Pragmatism 
+	•	Realism 		d. Idealism 
+	•	Teacher Nikka wants to check prior knowledge of her pupils about water pollution. She writes the main topic water pollution in the center of the chalkboard and encircles it. Then, she ask the pupils to provide information that can be clustered around the main topic. Which technique did the teacher employ?
+	•	Vocabulary building 
+	•	Semantic mapping 
+	•	Demonstration 
+	•	Deductive teaching 
+	•	The current emphasis on the development of critical thinking by the use of philosophic methods that emphasize debate and discussion began with:
+	•	Aristotle 		c. Confucius
+	•	Socrates 		d. Plato 
+	•	Which refers to a single word or phrase that tells the computer to do something with a program or file?
+	•	Computer program   c. Computer language
+	•	Password 		d. Command 
+	•	In instructional planning, which among these three; unit plan, course plan, lesson plan is most specific? _________ plan.
+	•	Course			c. Resources 
+	•	Unit 			d. Lesson 
+	•	The first American teachers on the Philippines were:
+	•	Missionaries 
+	•	Soldiers
+	•	Graduates of the normal school 
+	•	Elementary graduates 
+	•	By which process do children become participating and functioning members of society by fitting into an organized way to life?
+	•	Socialization 	c. Accommodation 
+	•	Acculturation 		d. Assimilation
+	•	What is the mean of this score distribution 4, 5, 6, 7, 8, 9, 10?
+	•	7.5           b. 8.5          c. 6          d. 7
+	•	Which is a teaching approach for kindergartens that makes real world experiences of the child the focal point of educational stimulation?
+	•	Situation approach 
+	•	Traditional approach 
+	•	Montessori approach 
+	•	Eclectic approach 
+	•	Which among the following graphic organizers used helps to show events in chronological order?
+	•	Time line and story map 
+	•	Time line and cycle 
+	•	Series of events chart and story map 
+	•	Time line and series of events chart 
+
+	•	Which schools are subject to supervision, regulation and control by the state?
+	•	Public, private sectarian and non-sectarian schools 
+	•	Public schools 
+	•	Sectarian and non-sectarian schools 
+	•	Private schools 
+
+	•	Which among following can help student development the habit of critical thinking?
+	•	Blind obedience of authority 
+	•	A willingness to suspend judgment until sufficient evidence is presented 
+	•	Asking convergent questions 
+	•	Asking low level questions 
+
+	•	Teacher Nelda wants to develop in her pupils comprehension skills. What order of skills will she develop?
+	•	Literal comprehension 
+	•	Interpretation 
+	•	Critical evaluation 
+	•	Integration 
+	•	II-III-IV-I		c. I-II-III-IV
+	•	III-IV-I-II		d. IV-III-II-I
+	•	An integrative, conceptual approach introduced by Roldan that has as its highest levels in the development of _____ thinking skills.
+	•	Interpretative 	c. Critical 
+	•	Creative 		d. Literal 
+	•	If a student thinks about thinking, he is involved in the process called ________.
+	•	Higher order thinking 
+	•	Metacognition 
+	•	Critical thinking 
+	•	Creative thinking 
+	•	The use of drills in the classroom is rooted on Thorndike’s law of:
+	•	Readiness 		c. Exercise 
+	•	Effect 			d. Belongingness
+	•	The following are some drill techniques, except: 
+	•	Challenging students to be above the level of the class
+	•	Asking pupils to repeat answers 
+	•	Giving short quiz and having students grade papers 
+	•	Assigning exercises from a workbook 
+	•	The process of task analysis ends up in the formulation of: 
+	•	Instructional objectives
+	•	Enabling objectives
+	•	Goals of learning 
+	•	Behavioral objectives 
+
+	•	For city-bred students to think that their culture is better than those from the province is a concrete example of ____. 
+	•	Ethical relativism 	c. Cultural relativism 
+	•	Ethnocentrism 	d. Xenocentrism
+	•	Who were the Thomasites?
+	•	The first American teachers that help in establishing the public educational system in the Philippines 
+	•	The soldiers who doubted the success of the public educational system to be set in the Philippines 
+	•	The first religious group who came to the Philippines on board the US transports Thomas
+	•	The devotees to St. Thomas Aquinas who came to evangelize
+	•	Which teaching activity is founded on Bandura's social learning theory?
+	•	Questioning 
+	•	Inductive reasoning 
+	•	Modeling 
+	•	Interactive teaching 
+	•	Which program is DepEd’s vehicle in mobilizing support from the private and non-government sectors to support programs based on DepEd’s menu of assistance packages? 
+	•	Chili-Friendly-School System 
+	•	Adopt-A-School-Program 
+	•	Every Child A Reader Program 
+	•	Brigada Eskwela 
+	•	Researchers gave rats a dose of 3-m butyl phthalide and measured changes in the rats blood pressure. This statement is best classified as 
+	•	Experiment		c. Hypothesis  
+	•	Prediction 		d. Finding 
+
+	•	The right hemisphere of the brain is involved with the following functions except:
+	•	Visual functions 
+	•	Nonverbal functions 
+	•	Intuitive functions 
+	•	Detail-oriented functions 
+	•	To build a sense of pride among Filipino youth, which should be done?
+	•	Re-study our history from the perspective of our colonizer 
+	•	Re-study our history and stress on our achievements as a people 
+	•	Replace the study of folklores and myths with technical subjects
+	•	Set aside the study of local history 
+
+	•	Which is in accordance with the “with-it-ness” principle of classroom management of Kounin?
+	•	Students agree to disagree in class discussions
+	•	Teacher is fully aware of what is happening in his classroom 
+	•	Student is with his teacher in everything he teaches 
+	•	Both parents and teachers are involved in the education of children
+
+	•	Below are questions that must be considered in developing appropriate learning activity experiences except one. Which is it?
+	•	Can experiences benefit the pupils?
+	•	Do the experiences save the pupils from learning difficulties?
+	•	Are the experiences in accordance with the patterns of pupils?
+	•	Do the experiences encourage pupils to inquire further?
+	•	Which is a characteristic of an imperfect type of matching test?
+	•	An item may have no answer at all 
+	•	An answer may be repeated 
+	•	There are two or more distracters 
+	•	The items in the right and left columns are equal in number 
+	•	Which is a proactive management practice?
+	•	Tell them that you enforce the rules on everyone, no exception 
+	•	Set and clarify your rules and expectation on Day 1
+	•	Punish the misbehaving pupils in the presence of their classmates 
+	•	Stress on penalty for every violation 
+	•	“Specialization is knowing more and more about less and less. Then it is better to be a generalist,” claims Teacher Patty. On which philosophy does Teacher Patty learn?
+	•	Essentialism 	c. Perennialism 
+	•	Progressivism		d. Existentialism 
+	•	I like to develop the synthesizing skills of my students. Which one should I do?
+	•	Ask my students to formulate a generalization from the data shown in the graphs 
+	•	Direct my students to point out which part of the graph are right and which part is wrong 
+	•	Ask my students to answer the questions beginning with “what if”
+	•	Tell my students to state data presented in the graph 
+	•	To reach out to clientele who cannot be in the classroom for one reason or another, which of the following was established?
+	•	Informal 
+	•	Special education (SPED)
+	•	Pre-school education 
+	•	Alternative learning delivery system 
+	•	Tira enjoys games like scrabble, anagrams and password. Which type of intelligence is strong in Tira?
+	•	Interpersonal intelligence 
+	•	Linguistic intelligence 
+	•	Logical and mathematical intelligence 
+	•	Spatial intelligence 
+	•	Teacher Milla observes cleanliness and order in the classroom to create a conducive atmosphere for learning. On which theory is her practice based?
+	•	Psychoanalysis 
+	•	Gestalt psychology 
+	•	Behaviorism 
+	•	Humanistic psychology 
+	•	Which learning principles is the essence of Gardner’s theory of multiple intelligences?
+	•	Almost all learners are linguistically intelligent 
+	•	Intelligence is not measured on one form 
+	•	Learners have different IQ level 
+	•	Learners have static IQ
+	•	Who asserted that children must be given the opportunity to explore and work on different materials so that they will develop the sense of initiative instead of guilt?
+	•	Kohlberg		c. Maslow  
+	•	Erickson 		d. Gardner
+	•	Teacher Ada uses direct instruction strategy. Which will she first do?
+	•	Presenting and structuring 
+	•	Independent practice
+	•	Guided student practice
+	•	Reviewing the previous day’s work 
+	•	The free public elementary and secondary educations in the country are in the line with the government effort to address educational problems of _________.
+	•	Productivity 
+	•	Relevance and quality 
+	•	Access and quality 
+	•	Effectiveness and efficiency 
+	•	Here are raw scores in a quiz 97, 95, 85, 83, 77, 75, 50, 10, 5, 2, 1. To get a picture of the group’s performance which measure of central tendency is most reliable?
+	•	Median 
+	•	Mode 
+	•	Mean 
+	•	None, it is best to look at the individual scores 
+
+	•	Which objective in the affective domain is the lowest level?
+	•	To accumulate examples of authenticity 
+	•	To support viewpoints against abortion 
+	•	To respond positively to a comment 
+	•	To formulate criteria for honestly 
+	•	“Using the six descriptions of elements of good short story, IDENTIFY IN WRITING THE SHORT STORY BY O. HENRY, with complete accuracy.” The words in capital letters are referred to as the ____________.
+	•	Criterion of success
+	•	Condition 
+	•	Performance statement 
+	•	Minimum acceptable performance 
+
+	•	You have presented a lesson on animal protective coloration. At the end, you ask if there are any questions. There are none. You can take this to mean that ______.
+	•	The students are not interested in the lesson 
+	•	You need to ask specific questions to elicit responses
+	•	The students did not understand what you were talking about 
+	•	The students understood everything you presented 
+	•	Teacher Vina feels offended by her supervisor’s unfavorable comments after a classroom supervision. She concludes that her supervisor does not like her. Which Filipino trait is demonstrated by Teacher Vina?
+	•	Extreme family-centeredness 
+	•	Extreme personalism 
+	•	“Kanya-kanya” syndrome 
+	•	Superficial religiously
+	•	Teachers are encouraged to make use of authentic assessments such as:
+	•	De-contextualized drills 
+	•	Unrealistic performances 
+	•	Answering multiple choices test items 
+	•	Real world application of lessons learned 
+	•	What does the principle of individual difference require teachers to do?
+	•	Give less attention to gifted learners 
+	•	Provide for a variety of learning activities 
+	•	Treat all learners alike while teaching 
+	•	Prepare modules for slow learners in class
+
+	•	The source of energy responsible for life on earth is the ______.
+	•	Moon			c. Star 
+	•	Wind 			d. Sun 
+	•	Which quotation goes with a proactive approach to discipline?
+	•	“An ounce of prevention is better than a pound of cure.”
+	•	“Do not make a mountain out of a molehill.”
+	•	“Walk your talk.”
+	•	“Do not smile until Christmas.”
+
+	•	I’d like to test whether a student knows what a particular word means. What should I ask the student to do?
+	•	Give the word a tune then sing it 
+	•	Define the word 
+	•	Spell the word and identify its part of speech 
+	•	Give the etymology of the word 
+
+	•	Study this matching type of test. Then answer the question below.
+	•	Measure of relationship 
+	•	Measure of central tendency 
+	•	Binet-Simon 
+	•	Statistical test of mean difference 
+	•	Measure of variability 
+	•	Mean 
+	•	Standard Deviation 
+	•	Rho
+	•	T-ratio
+	•	Intelligence testing movement 
+Which among the following is a way to improve the above matching test?
+	•	Add five items in both columns 
+	•	Add one or two items in the right column 
+	•	Add ten items in both columns to make the test more comprehensive 
+	•	Add one or two items in the left column
+
+	•	A teacher’s quarrel with a parent makes her develop a feeling of prejudice against the parent’s child. The teacher’s unfavorable treatment of the child is an influence of what Filipino trait?
+	•	Lack of self-reflection 
+	•	Extreme personalism 
+	•	Extreme family-centeredness 
+	•	“Sakop-mentality”
+
+	•	In the context of grading, what is referred to as teacher’s generosity error? A teacher _______.
+	•	Rewards students who perform well 
+	•	In overgenerous with praise 
+	•	Has a tendency to give high grades as compare to the rest 
+	•	Gives way to students’ bargain for no more quiz
+	•	For mastery learning and in line with outcome-based evaluation model which element should be present?
+	•	Inclusion of non-performance objectives 
+	•	Construction of criterion-referenced tests
+	•	Construction of norm-referenced tests
+	•	Non-provision of independent learning 
+	•	Which statement about standard deviation is correct?
+	•	The higher the standard deviation the more spread the scores are 
+	•	The lower the standard deviation the more spread the scores are
+	•	The higher the standard deviation the less spread the scores are 
+	•	It is a measure of central tendency 
+	•	What is the Teacher’s Professionalism Act?
+	•	RA 7836 		c. RA 7722
+	•	RA 4670		d. RA 9263
+	•	The State shall protect and promote the right of citizens to quality education at all levels. Which government program is in support of this?
+	•	Exclusion of children with special needs from the formal system 
+	•	Free elementary and secondary education 
+	•	Deregulated tuition fee hike 
+	•	Re-introduction of the NEAT and NSAT
+	•	The American Teachers who were recruited to help set the public educational system in the Philippines during the American regime were called Thomasite’s because: 
+	•	They were devotees of St. Thomas Aquinas
+	•	They disembarked from the CIS Transport called Thomas
+	•	They first taught at the University of Sto. Tomas
+	•	They arrived in the Philippines on the feast of St. Tomas
+	•	Zazha exhibits fear response to freely roaming dogs but does not show fear when a dog is on a leash or confined to a pen. Which conditioning process is illustrated?
+	•	Generalization 	c. Discrimination 
+	•	Acquisition		d. Extinction 
+	•	The Filipino learner envisioned by the Department of Education is one who is imbued with the desirable values of person who is:
+	•	Makabayan, makatao, makakalikasan at maka-Diyos
+	•	Makabayan, makatao, makahalaman, at maka-Diyos
+	•	Makabayan, makasarili, makakalikasan, at maka-Diyos 
+	•	Makabayan, makakaragatan, makatao, at maka-Diyos
+	•	The right hemisphere of the brain is involved with the following function except:
+	•	Intuitive functions 
+	•	Nonverbal functions 
+	•	Visual functions
+	•	Detail-oriented functions
+	•	What function is associated with the right brain?
+	•	Visual, non-verbal, logical 
+	•	Visual, intuitive, non-verbal 
+	•	Visual, intuitive, logical 
+	•	Visual, logical, detail-oriented 
+	•	Principal Connie tells her teachers that training in the humanities is most important. To which education philosophy does he adhere?
+	•	Existentialism 	c. Essentialism 
+	•	Progressivism 	d. Perennialism 
+	•	Behavior followed by pleasant consequences will be strengthened and will be more likely to occur in the future. Behavior followed by unpleasant consequences will be weakened and will be less likely to be repeated in the future. Which one is explained?
+	•	Freud’s psychoanalytic theory 
+	•	Thorndike’s law of effect
+	•	B.F. Skinner’s Operant conditioning theory 
+	•	Bandura’s social learning theory 
+	•	Theft of school equipment like TV, computer, etc. by people on the community itself is becoming a common phenomenon. What does this signify?
+	•	Prevalence of poverty in the community 
+	•	Inability of school to hire security guards 
+	•	Deprivation of Filipino schools 
+	•	Community’s lack of sense of co-ownership 
+	•	The main purpose of compulsory study of the Constitution is to _____.
+	•	Develop students into responsible, thinking citizen
+	•	Acquaint students with the historical development of the Philippine Constitution
+	•	Make constitutional experts of the students
+	•	Prepare students for law-making 
+	•	Which goals of educational institution, as provided for by the Constitution, is the development of work skills aligned?
+	•	To develop moral character 
+	•	To develop vocational efficiency 
+	•	To teach the duties of citizenship 
+	•	To inculcate love of country 
+	•	Complete this analogy: 
+Spanish period: moral and religious person. 
+American period: _______
+	•	Productive citizen	c. Patriotic citizen 
+	•	Self-reliant citizen 	d. Caring citizen 
+	•	Who is remembered for his famous quotation? “My loyalty to may party ends where my loyalty to my country begins.”
+	•	Carlos P. Garcia 	c. Manuel L. Quezon 
+	•	Ferdinand Marcos 	d. Manuel Roxas 
+	•	Here is a question: “Is the paragraph a good one? Evaluate.” If broken down to simplify, which is the best simplification?
+	•	Is the paragraph a good one? Why or why not?
+	•	Why is the paragraph a good one? Prove
+	•	If you asked to evaluate something, what do you do? Evaluate the paragraph
+	•	What are the qualities of a good paragraph? Does the paragraph have these qualities?
+	•	Manunulat ang tatay mo kaya sa personal mong kagustuhan makasunod sa kanyang mga yapak, magsusulat ka. Ano ang kahulugan ng pagsusulat?
+	•	Proseso na nagsisimula sa idea o karanasan 
+	•	Makalikha ng mga salita, pangungusap at talata 
+	•	Kakayahan ng tao na makapagtala o makapagimprenta ng malinaw
+	•	Pagpili ng paksa at pagsasaliksik 
+	•	Anong bahagi ng pananalita ang nasa malaking titik? Malungkot ANG MGA nagtapos na wala pang trabaho.
+	•	Pananda 	c. Pariralang pantukoy
+	•	Pang-ukol 	d. Pangatnig
+	•	Which is NOT a characteristic of education during the pre-Spanish era? 
+	•	Vocational training-oriented 
+	•	Structured 
+	•	Unstructured 
+	•	Informal 
+	•	Which is closest to the real human digestive system for study in the classroom?
+	•	Model of the human digestive system 
+	•	Drawing of the human digestive system on the board 
+	•	The human digestive system projected on an OHP 
+	•	Drawing of human digestive system on a page of a textbook 
+	•	Which one is in support of greater interaction?
+	•	Repeating the question 
+	•	Not allowing a student to complete a response 
+	•	Probing 
+	•	Selecting the same student respondents 
+	•	Which is/are effective methods/s in teaching students critical reading skills?
+	•	Interpret editorials about a particular subject from three different newspapers
+	•	Read and interpret three different movie reviews 
+	•	Distinguish fiction from non-fiction materials 
+	•	Interpret editorials and read and interpret three different movie reviews 
+	•	Which is true of a bimodal score distribution?
+	•	The group tested has two different groups 
+	•	The scores are neither high nor low
+	•	The scores are high 
+	•	The scores are low 
+	•	What is the mastery level of school in a 100 item test with a mean of 55?
+	•	42%	   b. 50%	  c. 45%	d. 55%
+
+	•	Who stressed the idea that students cannot learn if their basic needs are not first met?
+	•	Thorndike 
+	•	Maslow 
+	•	Wertheimer 
+	•	Operant conditioning 
+
+	•	A person, who has had painful experience as the dentist’s office, may become fearful at the mere sight of the dentist’s office building. What theory can explain this?
+	•	Attribution theory 
+	•	Classical conditioning 
+	•	Generalization 
+	•	Operant conditioning 
+
+	•	I want my students to have mastery learning of a basic topic. Which of the following can help?
+	•	Socratic method and drill 
+	•	Drill 
+	•	Socratic method 
+	•	None of the above
+	•	As a teacher you are a skeptic. Which among these will be your guiding principle? 
+	•	I must teach the child to the fullest
+	•	I must teach the child every knowledge, skill, and value that he needs for a better future 
+	•	I must teach the child that we can never have real knowledge of anything 
+	•	I must teach the child so he is assured 
+	•	With forms of prompting in mind, which group is arranged from least to most instructive prompting?
+	•	Verbal, physical, gestural 
+	•	Verbal, gestural, physical 
+	•	Gestural, physical, verbal 
+	•	Physical, gestural, verbal 
+	•	In which way does heredity affect the development of the learner?
+	•	By providing equal potential to all 
+	•	By making acquired traits hereditary 
+	•	By compensating for what environment fails to develop 
+	•	By placing limits beyond which the learner cannot develop 
+	•	In writing performance objectives, which word is not acceptable? 
+	•	Integrate 		c. Manipulate 
+	•	Delineate 		d. Comprehend 
+	•	For which lesson objective will a teacher use the direct instruction method?
+	•	Distinguish war from aggression 
+	•	Appreciate Milton’s Paradise Lost 
+	•	Use a microscope properly 
+	•	Become aware of the pollutants in the environment 
+	•	To encourage introspection, which teaching method is MOST appropriate?
+	•	Cognitive 	c. Process 
+	•	Reflective 	d. Cooperative learning 
+	•	With indirect instruction in mind, which does not belong to the group?
+	•	Lecture-recitation 
+	•	Experiential method 
+	•	Inductive method 
+	•	Discovery method 
+	•	A master teacher is the resource speaker in an in-service training. He presented the situated learning theory and encouraged his colleagues to apply the same in class. Which of the following did he not encourage his colleagues to do?
+	•	Apprenticeship
+	•	Decontextualized teaching 
+	•	Learning as it normally occurs 
+	•	Authentic problem solving 
+	•	I want to engage my students in small group discussions. Which topic lends itself to a lively discussion?
+	•	The exclusion of Pluto as a planet 
+	•	The meaning of the law of supply and demand 
+	•	The law of inertia 
+	•	Rules on subject-verb agreement 
+	•	Teacher Joshua discovered that his pupils are weak in comprehension. To further in which particular skill(s) his pupils are weak, which test should Teacher Joshua give?
+	•	Standardized test 	c. Placement 
+	•	Aptitude test 		d. Diagnostic 
+	•	The students of Teacher Kath scan an electronic encyclopedia, view a film on the subject, or look at related topics at the touch of a button right there in the classroom. Which devices does teacher Kath’s class have?
+	•	Videotape lesson 	c. Video disc
+	•	Teaching machine 	d. CD
+	•	If my approach to my lesson is behaviorist, what features will dominate my lesson?
+	•	Lecturing 		III. Reasoning
+	•	Copying notes 	IV. Demonstration 
+	•	III, IV 			c. I, II, III, IV 
+	•	I, III, IV 		d. II, III, IV 
+	•	You practice inclusive education. Which of these applies to you?
+	•	You accept every student as full and valued member of the class and school community 
+	•	Your special attention is on learners with specific learning or social needs
+	•	You address the needs of the class as a whole within the context of the learners with specific learning or social needs 
+	•	II only 		c. I only 
+	•	I and II		d. I and III
+	•	Which will be the most authentic assessment tool for an instructional objective on working with and relating to people?
+	•	Organizing a community project 
+	•	Writing articles on working and relating to people 
+	•	Home visitation 
+	•	Conducting mock election 
+	•	Here is a test item:
+“From the data presented in the table, form generalizations that are supported by the data.” Under what type of question does this item fall?
+	•	Convergent 		c. Application 
+	•	Evaluative 		d. Divergent 
+	•	I want to teach concepts, patterns, and abstractions. Which method will be most appropriate?
+	•	Discovery 		c. Direct instruction 
+	•	Indirect instruction 	d. Problem solving 
+	•	We are very much interested in a quality professional development program for teachers. What characteristic should we look for?
+	•	Required for renewal of professional license 
+	•	Prescribed by top educational leader 
+	•	Responsive to identified teacher’s needs 
+	•	Dependent on the availability of funds 
+	•	What principle is violated by overusing the chalkboards, as though it is the only education technology available?
+	•	Isolated use 		c. Variety 
+	•	Flexibility 		d. Uniformity 
+	•	Which statement applies correctly to Edgar Dale’s “CONE of experience”?
+	•	The farther you are from the base, the more direct the learning experience becomes
+	•	The farther you are from the bottom, the more direct the learning experience becomes 
+	•	The close you are to the base, the more indirect the learning experience become 
+	•	The closer you are to the base, the more direct the learning experience becomes 
+	•	To teach the democratic process to the pupils. Santo Domingo Elementary School decided that the election of class officers shall be patterned after local elections. There are qualities set for candidates, limited period for campaign, rules for posting campaign materials, etc. Which of the following did the school use?
+	•	Symposium 		c. Role playing 
+	•	Simulation 	d. Philips 66
+	•	Which of the following are effective methods in teaching student critical reading skills?
+	•	  	Interpret editorials 
+	•	Read and interpret three different movie reviews
+	•	Read a position paper and deduce underlying assumptions of the position papers 
+	•	II and III 		c. I and II
+	•	I and III		d. I, II and III
+	•	Here is a test item:
+“The improvement of basic education should be the top priority of the Philippine government. Defend and refute the position.”
+Under what type of question does this test item fall?
+	•	Low-level 		c. Analysis 
+	•	Evaluative 		d. Convergent 
+	•	Teacher Jenny teaches a lesson in which students must recognize that ¼ is the same as 0.25. They use this relationship to determine that 0.15 and 0.20 are slightly less than ¼. Which of the following concept/s is/are being taught?
+	•	Numeration skills
+	•	Place value of decimals 
+	•	Numeration skills for decimal and relationship between fractions and decimals 
+	•	Relationship between fractions and decimals 
+	•	To nurture student’s creativity, which activity should the teacher avoid?
+	•	Ask “what if” questions 
+	•	Ask divergent thinking questions 
+	•	Emphasize the need to give right answer 
+	•	Be open to “out-of-this world” ideas
+
+	•	After reading an essay, Teacher Bebe wants to help sharpen her students’ ability to interpret. Which of these activities will be most appropriate?
+	•	Drawing conclusions 
+	•	Making inferences 
+	•	  Getting the main idea
+	•	Listing facts separately from opinion 
+
+	•	What is the best way to develop math concepts?
+	•	Solving problems using multiple approaches 
+	•	Solving problems by looking for correct answer 
+	•	Learning math as applied to situations such as being a tool of science 
+	•	Solving problems by applying learned formulas 
+	•	Teacher Cita, an experienced teacher, does daily review of past lessons in order to ________.
+	•	Provide her pupils with a sense of continuity 
+	•	Introduce a new lesson 
+	•	  Reflect on how she presented the previous lesson 
+	•	Determine who among her pupils are studying 
+
+	•	Research says that mastery experiences increase confidence and willingness to try similar or more challenging tasks such as reading. What does this imply for children reading performance?
+	•	Children who have mastered basic skills are more likely to be less motivated to read because they get fed up with too much reading 
+	•	Children who have not mastered the basic skills are more likely to be motivated to read in order to gain mastery over basic skills 
+	•	  Children who have a high sense of self-confidence are not necessarily those who can read 
+	•	Children who have gained mastery over basic skills are more motivate to read 
+
+	•	Bruner’s theory on intellectual development moves from enactive to iconic and symbolic stages. Applying Bruner’s theory, how would you teach?
+	•	Begin with the abstract 
+	•	Be interactive in approach 
+	•	Begin with the concrete 
+	•	Do direct instruction 
+
+	•	Teacher Nene asked this question: “What conclusion can you draw based on your observation?” Nobody raised a hand so she asked another question: “Based on what you observe, what can you now say about the reaction of plants to light.” What did Teacher Nene do? 
+	•	Redirecting 		c. Repeating 
+	•	Probing 		d. Rephrasing 
+
+	•	Under no circumstance shall a teacher be prejudiced nor discriminatory against any learner according to the Code of Ethics. When is a teacher prejudice against any learner?
+	•	When he makes a nearsighted pupil sit at the front 
+	•	When he considers multiple intelligences in the choice of his teaching strategies 
+	•	  When he makes a farsighted pupil sit at the back 
+	•	When he refuses a pupil with a slight physical disability in class
+
+	•	Which learning activity is most appropriate if teacher’s focus in attitudinal change?
+	•	Role play 		c. Exhibit 
+	•	Field trip 		d. Game 
+	•	The mode of a score distribution is 25. This means that:
+	•	There is no score of 25 
+	•	Twenty five (25) is the score that occurs most 
+	•	  Twenty five is the average of the score distribution 
+	•	Twenty five is the score that occurs least 
+	•	The following characterize a child-centered kindergarten except:
+	•	Focus on the education of the whole child 
+	•	Importance of play in development 
+	•	Extreme orientation on academic 
+	•	Emphasis on individual uniqueness
+	•	As a classroom manager, how can you exhibit expert power on the first day of school? 
+	•	By citing to my students the important of good grades 
+	•	By making my students feel my authority  over them 
+	•	  By making them feel a sense of belongingness and acceptance 
+	•	By making my students feel I know what I am talking about 
+	•	Which may help an adolescent discover his identity?
+	•	Parents pushing in to follow a specific path 
+	•	Relating to people 
+	•	  Decision to follow one path only 
+	•	Exploring many different roles in a healthy manner 
+	•	Which terms refers to a teacher helping a colleague grow professionally?
+	•	Technology transfer 
+	•	Peer mentoring 
+	•	  Facilitating 
+	•	Independent study 
+	•	What primary criterion should guide a teacher in the choice of instructional devices?
+	•	Novelty 		c. Appropriateness
+	•	Cost 			d. Attractiveness
+	•	Some of your students don’t seem to like you as their teacher. If you will regard the situation, on the level of the ego, what will you most likely think about?
+	•	Why should I care if they like me or not 
+	•	To hell with them 
+	•	  What’s wrong have I done to deserve this?
+	•	What is it about me that they do not like?
+	•	Which of the following is considered a peripheral device?
+	•	Printer 		c. CPU
+	•	Keyboard 		d. Monitor 
+	•	Which questioning practice will promote more class interaction?
+	•	Asking rhetorical question 
+	•	Rejecting wrong answer 
+	•	  Focusing on convergent question 
+	•	Asking divergent question 
+	•	For grades to be (made) valid indicators of students’ achievements, which process should be observed?
+	•	Adopting letter grades such as A, B, C, D
+	•	Explaining the meaning of grades 
+	•	Defining the course objectives as intended learning outcomes 
+	•	Giving objective type of test 
+	•	The claim of a benefactor to the gratitude of his protégé is an example of a (an):
+	•	Acquired right 	c. Imperfect right 
+	•	Perfect right 	d. Alienable right 
+	•	Which appropriate teaching practice flows from this research finding on the brain: “The brain’s emotional center is tied its ability to learn.”
+	•	Create a learning environment that encourages students to explore their feelings and ideas freely
+	•	Come up with highly competitive games where winners will feel happily 
+	•	  Establish this discipline of being judgmental  in attitude 
+	•	Tell the students to participate in class activities or else they won’t receive plus points in class recitation 
+	•	Research on Piagetian tasks indicates that thinking becomes more logical and abstract as children reach the formal operations stage. What is an educational implication of this finding?
+	•	Expect hypothetical reasoning for learners between 12 to 15 years of age 
+	•	Learners who are not capable of logical reasoning from ages 8 to 11 behind in their cognitive development 
+	•	  Engage children in analogical reasoning as early as preschool to train them for higher order thinking skills (HOTS)
+	•	Let children be children 
+	•	A mathematics test was given to all Grade V pupils to determine the contestants for the math quiz bee. Which statistical measure should be used to identify the top 15?
+	•	Percentage score 
+	•	Mean percentage score 
+	•	  Quartile score 
+	•	Percentile score 
+	•	Which is the true foundation of the social order?
+	•	Strong, political leadership 
+	•	The reciprocation of rights and duties 
+	•	  Equitable distribution of wealth 
+	•	Obedient citizenry 
+	•	With which is true authority equated?
+	•	Service		c. Suppression  
+	•	Power 		d. Coercion 
+	•	The following are sound specific purposes of questions except: 
+	•	To stimulate learners to ask questions 
+	•	To call the attention of an inattentive student 
+	•	  To arouse interest and curiosity 
+	•	To teach via student answers
+	•	What is not a sound purpose in making questions?
+	•	To remind students of a procedure 
+	•	To probe deeper after an answer is given 
+	•	  To encourage self-reflection 
+	•	To discipline a bully in class
+	•	A student passes a book report written but ornately presented in a folder to make up for the poor quality of the book content. Which Filipino trait does this practice prove?
+	•	Art over science 
+	•	Art over academic 
+	•	  Substance over “porma”
+	•	“Porma” over substance
+	•	Which one should a teacher avoid to produce an environment conducive for learning?
+	•	Games 	c. Tests
+	•	Seat plan 	d. Individual competition 
+	•	Between pursuing a college course where there is no demand and a vocational course which is highly in demand, the Filipino usually opts for the college course. Which Filipino trait is shown? 
+	•	Interest to obtain a skill 
+	•	Penchant for a college diploma 
+	•	  Desire for entrepreneurship 
+	•	Appreciation of manual labor 
+	•	Which of the following does extreme authoritarianism in the home reinforce in pupils? 
+	•	Sense of initiative 
+	•	Dependence on other for direction 
+	•	  Ability for self-direction 
+	•	Creativity in work 
+	•	Teacher Bart wants his students to master the concept of social justice. Which series of activities will be most effective?
+	•	Pre-teaching > posttest > re-teaching of unlearned concept > posttest
+	•	Pre-test > teaching > posttest
+	•	Review > pretest > teaching > posttest
+	•	Teaching > posttest
+	•	To provide for individual differences how is curriculum designed?
+	•	Minimum learning competencies are included 
+	•	Realistic and meaningful experiences are provided 
+	•	  Some degree of flexibility is provided 
+	•	Social skills are emphasized 
+	•	Which types of play is most characteristic of a four- to six-year-old child?
+	•	Solitary and onlooker plays 
+	•	Associative and cooperative plays 
+	•	  Associative and onlookers plays 
+	•	Cooperative and solitary plays 
+	•	How can you exhibit referent power on the first day of school?
+	•	By making the students feel you know what you are talking about
+	•	By telling them the importance of good grades 
+	•	  By reminding your students your authority over them again and again 
+	•	By giving your students a sense of belonging and acceptance 
+	•	To ensure that all Filipino children are functionally literate, which mechanism is meant to reach out to children who are far from a school? 
+	•	A school in every barangay 
+	•	Multi-grade classroom 
+	•	  Mobile teacher 
+	•	Sine’s skwela
+	•	Referring to the characteristics of the latest Basic Educational Curriculum which does not belong to the group? 
+	•	More flexible  
+	•	Less prescriptive   
+	•	More compartmentalized 
+	•	More integrated 
+	•	If student’s inappropriate behavior is low level or mild and that it appears that the misbehavior will not spread to others, it is sometimes best for the teacher not to take notice of it. What influence technique is this? 
+	•	Planned ignoring 	
+	•	Antiseptic bouncing 	 
+	•	  Proximity control 
+	•	Signal interference 
+	•	Which among the following objectives in the psychomotor domain is highest in level?
+	•	To distinguish distant and close sounds 
+	•	To contract a muscle 
+	•	  To run a 100-meter dash 
+	•	To dance the basic steps of the waltz
+	•	Which material consists of instructional units that cater to varying mental level pupils?
+	•	Plantilia
+	•	Multi-level materials 
+	•	  Multi-grade materials 
+	•	Minimum learning competencies 
+	•	Which statement on counseling is false?
+	•	For counseling to be successful, the counselee is willing to participate in the process
+	•	The ultimate goal of counseling is greater happiness on the part of the counselee
+	•	  Counseling is the program that includes guidance 
+	•	The school counselor is primarily responsible of counseling 
+	•	Arianna describes Teacher Monica as “fair, caring and approachable.” Which power does Teacher Monica possess? 
+	•	Legitimate power 	 
+	•	Expert power 
+	•	Referent power	
+	•	Reward power 
+	•	Kounin claims “with-it-ness” is one of the characteristics of an effective classroom manager. Which among the following is a sign of “with-it-ness”? 
+	•	Giving attention to students having difficulty with school work
+	•	Seeing only a portion of the class but intensively 
+	•	  Knowing where instructional materials are kept 
+	•	Aware of what’s happening in all part of the classroom
+	•	In the K-W-L technique, K stands for what the pupils already knows, W for what he wants to know and L for what he: 
+	•	Learned 		c. Failed to learn 
+	•	He like to learn 	d. Needs to learn 
+	•	When a significantly greater number from the lower group gets a test item correctly, this implies that the test item: 
+	•	Is not highly reliable 	
+	•	Is not very valid 	 
+	•	  Is highly reliable 
+	•	Is very valid 
+	•	Which statement about guidance is false?
+	•	The classroom teacher is not part of the school guidance program since she is not trained to be a guidance counselor 
+	•	Guidance embraces curriculum, teaching, supervision and all other activities in school 
+	•	  Guidance is a function of the entire school 
+	•	A guidance program is inherent in every school 
+	•	A teacher should not be a slave of his lesson plan. This means that: 
+	•	A teacher must be willing to depart from her lesson plan if students are interested in something other than her intended lesson 
+	•	A lesson plan must be followed by a teacher no matter what 
+	•	  A teacher must be ready to depart from her lesson plan if she remembers something more interesting than what she earlier planned 
+	•	Teacher is the best lesson plan designer  
+	•	With a death threat over her head, Teacher Donita is directed to pass an undeserving student. What will a utilitarianist do? 
+	•	Pass the student, why suffer the threat?
+	•	Pass the student. That will be of use to the student, his parents and you
+	•	Don’t pass him; live by your principle of justice. You will get reward, if not in this life, in the next
+	•	Don’t pass him. You surely will not like someone to give you a death threat in order to pass
+	•	Teacher Alessandra knows of the illegal activities of a neighbor but keeps quiet in order not to be involved in any investigation. Which foundational principle of morality does Teacher Alessandra fail to apply?
+	•	Always do what is right
+	•	The end does not justify the means
+	•	The end justifies the means
+	•	Between two evils, do the lesser evil
+	•	You are very much interested in a quality professional development program for teachers. What characteristic should you look for?
+	•	Prescribe by top educational teachers
+	•	Responsive to identified teacher’s needs
+	•	Dependent on the availability of funds
+	•	Required for renewal of professional license
+	•	To ensure high standards of teachers’ personal and professional development, which of the following measures must be implemented?
+	•	A school head plans the professional development of his/her teachers.
+	•	Every teacher formulates his/her own professional development plan.
+	•	The implementation of what is learned in training must be monitored.
+	•	I only 			c. II and III
+	•	I and III		d. II only
+	•	As a community leader, which of the following should a teacher not do?
+	•	Solicit donation from philanthropists in the community
+	•	Support effort of the community to improve their status in life
+	•	Make herself aloof to ensure that her decisions will not be influenced by the community politics
+	•	Play an active part in the activities of the community
+	•	In a highly pluralistic society, what type of learning environment is the responsibility of the teacher?
+	•	Safe 			III. Secure
+	•	Gender-biased
+	•	I and II 		c. II only
+	•	I, II and III		d. I and III
+	•	A teacher is said to be “trustee of the cultural and educational heritage of the nation and is under obligation to transmit to learners such heritage”. Which practice makes the teacher fulfill such obligation?
+	•	Use interactive teaching strategies
+	•	As a class, study the life of Filipino heroes
+	•	Use the latest educational technology
+	•	Observe continuing professional education
+
+	•	Large class size in congested cities is a common problem in our public schools. Which measure/s have schools taken to offset the effects of large class?
+	•	The deployment of more teachers
+	•	The implementation of 1:1 pupil textbook ratio
+	•	The conduct of morning and afternoon sessions
+	•	I, II and III 		c. III only
+	•	I and II		d. II only
+	•	The failure of independent study with most Filipino students may be attributed to students’?
+	•	Unpreparedness for schooling
+	•	Ambivalence
+	•	High degree of independence
+	•	High degree of independence on authority
+
+	•	The following are characteristics of interdisciplinary teaching except:
+	•	Allows learners to see connectedness between things 
+	•	Provides learning opportunities in a real-world context 
+	•	Eliminates boundaries between content area 
+	•	Discussion from a single perspective
+	•	For more efficient and effective management of school as agents of change, one proposal is for the DepEd to cluster remote stand-alone schools under one lead school head. Which factor has the strongest influence on this proposal?
+	•	Psychological 		c. Geographical
+	•	Historical		d. Social
+	•	What does the acronym EFA imply for schools?
+	•	The acceptance of exclusive schools for boys and for girls
+	•	The stress on the superiority of formal education over that of alternative learning system
+	•	Practice of inclusive education
+	•	The concentration on formal education system
+
+	•	The wide acceptance of “bottom up” management style has influenced schools to practice which management practice?
+	•	Exclusion of politicians from the pool of guest speakers during graduation exercises
+	•	Prescription of what ought to be done from the Center Office
+	•	Involvement of students, parents, teachers, and community in school planning
+	•	Allowing schools to do what they think is best 
+	•	Material development at the expense of human development points to the need to do more in school. This is base on which pillar of learning?
+	•	Learning to do
+	•	Learning to know
+	•	Learning to live together
+	•	Learning to be
+
+	•	The schooling incidents in school campuses abroad have made school to rethink the curriculum. Which is believed to counteract such incidents and so is being introduced in schools?
+	•	Inclusion of socio-emotional teaching
+	•	The emphasis on the concept of competition against self and not against others
+	•	Focus on academic achievement and productivity
+	•	I and III 		c. I and II
+	•	II and III		d. I, II and III
+
+	•	The specialization requires of every professional teacher for him/her to be competent is in line with which pillar of learning?
+	•	Learning to know
+	•	Learning to be
+	•	Learning to live together
+	•	Learning to do
+	•	Widespread abuse of Mother Earth prompted schools to teach sustainable development. Which one does this prove about schools?
+	•	The curricula of schools are centered on Mother Earth
+	•	Environment factors influence the school as an agent of change
+	•	Schools can easily integrate sustained development in their curriculum
+	•	Sustained development cannot be effectively taught in the classroom
+	•	Which pillar of learning is aimed at the holistic development of man and his complete fulfillment?
+	•	Learning to live together
+	•	Learning to be
+	•	Learning to know
+	•	Learning to do
+	•	A father tells his daughter “You are a woman. You are meant for the home and so for you, going to school is not necessary.” Is the father correct?	
+	•	It depends on the place where the daughter and the father live
+	•	No, there is gender equality in education
+	•	Yes, women are meant to be a mother only
+	•	No, today women can take on the jobs of men
+
+	•	Is there a legal basis for increasing the teacher’s starting salary to PHP18,000 a months?
+	•	No, it is a gift to teachers from Congress
+	•	Yes, R.A 7836
+	•	Yes, the Philippine Constitution
+	•	No, it is simply an act of benevolence from President GMA
+	•	As provided for the Educational Act of 1982, how are the institutions of learning encouraged setting higher standards of equality over the minimum standards required for state recognition?
+	•	Voluntary accreditation 
+	•	Continuing Professional Education
+	•	Granting of Special Permit
+	•	Academic freedom
+
+	•	Despite of opposition from some school official, DepEd has continuously enforced the “no collection of fees” policy during enrolment period in public schools. In this policy in accordance with EFA goals?
+	•	No, it violates the mandate of equality education
+	•	Yes, it somewhat eliminates gender disparities
+	•	Yes, it supports equitable access to basic education
+	•	No, it does not support parent of adult education 
+
+	•	“Specialization is knowing more and more about less and less.” Hence, it is better to be a generalist, claims Teacher Fonda. Which Philosophy does Teacher Fonda subscribe to?
+	•	Existentialism 	c. Essentialism
+	•	Perennialism		d. Progressivism
+
+	•	Mencius believed that all people are born good. This thought on the innate goodness of people makes it easier to ________ our pupils.
+	•	teach 			c. like
+	•	respect		d. motivate
+	•	A student complains to you about his failing grade. When you recomputed you found out that you committed an error in his grade computation. Your decision is not to accept the erroneous computation before the student and so leave the failing grade as is for fear that you may lose credibility. Is this morally right?
+	•	No, the reason for not accepting the error before the students is flimsy
+	•	No, the end does not justify the means
+	•	Yes, the end justifies the means
+	•	Yes, as a teacher you must maintain your credibility
+	•	Which violate(s) the principle of respect?
+	•	Teacher Ana tells her students that what Teacher Beth taught is wrong.
+	•	To retaliate, Teacher Beth advises students not to enroll in Teacher Ana’s class.
+	•	Teacher Catherine secretly gives way to a special favor (e.g. add 2 points to grade) requested by student Alex who is vying for honors.
+	•	II and III 		c. I and II
+	•	I, II and III		d. I and III
+	•	Which is/are in accordance with the principle of pedagogical competence?
+	•	Communication of objectives of the course to student.
+	•	Awareness of alternative instruction strategies.
+	•	Selection of appropriate methods of instruction.
+	•	I and III 		c. III only
+	•	I, II and III		d. II and III
+	•	To earn units for promotion, Teacher Flora pays her fee but does not attend class at all. Does this constitute professional growth?
+	•	Not immediately but yes after promotion
+	•	No, it is simply earning MA units for promotion
+	•	It depends on the school she is enrolled in
+	•	Yes, just enrolling in an MA program is already professional growth
+	•	If Teacher Analiza asks more higher-order questions, she has to ask more ________ questions.
+	•	fact 			c. convergent
+	•	close			d. concept
+	•	Misdemeanor has a “ripple effect.” This implies that as a classroom manager, a teacher:
+	•	reinforces positive behavior
+	•	responds to misbehavior promptly
+	•	is consistent in her classroom management practice
+	•	count 1 to 10 before she deals with a misbehaving student
+	•	Based on Edgar Dale’s “Cone of Experience,” which activity is farthest from the real thing?
+	•	Watching demo 	c. Video disc
+	•	Attending exhibit	d. Viewing images
+	•	The students of Teacher Yue scan an electronic encyclopedia, view a film on subject, or look at related topics at the touch of a button right there in the classroom. Which device/s does teacher Yue’s class have?
+	•	Teaching machines
+	•	CD
+	•	Video disc
+	•	Videotaped lesson
+	•	Which is an inappropriate way to manage off-task behavior?
+	•	Redirect a child’s attention to task and check his progress to make sure he is continuing work
+	•	Stop your class activity to correct a child who is no longer on task
+	•	Make eye contact to communicate what you wish to communicate
+	•	Move closer to the child to make him feel your presence
+	•	When Teacher Pearl tries to elicit clarification on a student response or solicits additional information, which of these should be use?
+	•	Directing 		c. Structuring
+	•	Probing		d. Cross examining
+	•	Which priority criterion should guide a teacher in the choice of instructional devices?
+	•	Novelty 		c. Attractiveness
+	•	Cost			d. Appropriateness
+	•	Which learning activity is most appropriate if a teacher’s focus is attitudinal change?
+	•	Fieldtrip		c. Role play
+	•	Exhibit			d. Game
+	•	Teacher Hannah strives to draw participation of every student into her classroom discussion. Which of these student needs is she trying to address? The need to _______.
+	•	feel significant and be part of a group
+	•	show one’s oral abilities to the rest of the class
+	•	get everything and be part of a group
+	•	be creative
+	•	To be an effective classroom manager, a teacher must be friendly but must at the same time be _________.
+	•	confident 		c. analytical
+	•	business-like	d. buddy-buddy
+
+	•	Which software is needed when one wants to perform automatic calculations on numerical data?
+	•	Database
+	•	Spreadsheet Program
+	•	Microsoft Word
+	•	Microsoft Powerpoint
+
+	•	Which of the following questions must be considered in evaluating teacher-made materials?
+	•	In the material new?
+	•	Does the material simulate individualism?
+	•	Is the material expensive?
+	•	Is the material cheap?
+	•	Kounin claims that “with-it-ness” is one of the characteristics of an effective classroom manager. What is one sign of “with-it-ness”?
+	•	Giving attention to students who are having difficulty with school work
+	•	Aware of what’s happening in all parts of the classroom
+	•	Seeing only a portion of the class but intensively
+	•	Knowing where instructional materials are kept
+
+	•	Which of these is one of the ways by which the internet enables people to browse documents connected by hypertext links?
+	•	URL 		c. Welcome page
+	•	Browser	d. World Wide Web
+	•	Which characteristics must be primarily considered as a choice of instructional aides?
+	•	Stimulate and maintain students interests
+	•	Suited to the lesson objectives
+	•	Updated and relevant to Filipino setting
+	•	New and skillfully made
+	•	You can exhibit referent power on the first day of school by __________. 
+	•	telling them the importance of good grades
+	•	giving your students a sense of belongingness and acceptance
+	•	making them feel you know what you are talking about
+	•	reminding your students your authority over them again and again 
+	•	I would like to use a model to emphasize particular part. Which of these would be most appropriate?
+	•	Regalia 		c. Stimulation
+	•	Audio recording	d. Mock up
+
+	•	What must Teacher Luke do to ensure orderly transitions between activities?
+	•	Have the materials ready at the start of the activity
+	•	Allow time for the students to socialize in between activities
+	•	Assign fewer exercise to fill the allotted time
+	•	Wait for students who lag behind 
+	•	The task of setting up routine activities for effective classroom management is a task that a teacher should undertake:		         
+	•	as soon as the students have adjusted to their schedules
+	•	on the very first day of school
+	•	every day at the start of the session
+	•	every homeroom day
+
+	•	What principle is violated by overusing the chalkboard, as though it is the only education technology available?
+	•	Isolated use 		c. Variety
+	•	Flexibility		d. Uniformity
+
+	•	Teacher Sandra uses the low-profile classroom control technique most of the time. What does this imply?
+	•	She is reactive in her disciplinary orientation
+	•	She manages pupils personalities
+	•	She reacts severely to a misbehaving student
+	•	She stops misbehaving without disrupting lesson flow 
+
+	•	If curriculum is designed following the traditional approach, which feature(s) apply(ies)?
+	•	The aims of the curriculum are set by professionals and experts.
+	•	Interested groups (teachers, students, communities) are assumed to agree with the aims of the curriculum.
+	•	Consensus building in not necessary.
+	•	III only 		c. I and II
+	•	I, II and III		d. I and III
+
+	•	If you make use of the indirect instruction method, you begin your lesson with:
+	•	Guided practice 
+	•	A review of previous day’s work 
+	•	Advance organizers that provide an overall picture of the lesson 
+	•	Independent
+
+	•	One’s approach to teaching is influenced by Howard Gardner’s MI Theory. What is he/she challenged to do?
+	•	To come up with 9 different ways of approaching  lesson to cater to the 9 multiple intelligence
+	•	To develop all student’s skill in all nine intelligences
+	•	To provide worthwhile activities that acknowledge individual difference in children
+	•	I, II and III 		c. II only
+	•	II and III		d. III only
+
+	•	If my approach to my lesson is behaviorist, what features will dominate my lesson?
+	•	Copying notes 	III. Lecturing
+	•	Reasoning 		IV. Demonstration
+	•	III, IV 			c. I, II, III, IV
+	•	I, III, IV		d. II, III, IV
+	•	You practice inclusive education. Which of these applies to you?
+	•	You accept every student as full and valued member of the class and school community
+	•	Your special attention is on learners with specific learning or social needs
+	•	Your address the needs of the class as a whole within the context of the learners with specific learning or social needs
+	•	II only 			c. I only
+	•	I and II			d. I and III
+	•	School curriculum reflects the world’s economic and political integration and industrialization. What does these points in curriculum development?
+	•	The trend towards the classical approach to curriculum development
+	•	The trend towards the globalization and localization
+	•	The trend towards participatory curriculum development
+	•	The shift in the paradigm of curriculum development from a process-oriented to a product-oriented one
+	•	You choose cooperative learning as a teaching approach. What thought is impressed on your students? 
+	•	Interaction is a must, but not necessarily face to-face interaction
+	•	Student’s success depends on the success of the group
+	•	Student’s individuality evaluates how effectively their group worked
+	•	The accountability for learning is on the group not on the individual 
+	•	Which statement applies correctly to Edgar Dale’s “Cone of Experience”?
+	•	The farther you are from the base, the more direct the learning experience becomes
+	•	The farther you are from the bottom, the more direct the learning experience becomes
+	•	The closer you are from the base, the more indirect the learning experience becomes
+	•	The closer you are from the base, the more direct the learning experience becomes
+	•	“When more senses are stimulated, teaching and learning become more effective.” What is an application of this principle?
+	•	Appeal to student’s sense of imagination
+	•	Use multisensory aids
+	•	Make your students touch the instructional material
+	•	Use audiovisual aids because the eyes and the ears are the most important senses in learning
+	•	Which is a classroom application of the theory of “operant conditioning”?
+	•	Help student see the connectedness of facts, concepts, and principles
+	•	Create a classroom atmosphere that elicits relaxation
+	•	Reinforce a good behavior to increase the likelihood that the learner will repeat the response
+	•	Make students learn by operating manipulatively 
+	•	Read the following teacher-student situation. TEACHER: Why is the process called photosynthesis?
+STUDENT: I don’t know.
+Which questioning technique should be the teacher be using?
+	•	Clarification 		c. Prompting
+	•	Multiple response	d. Concept review
+
+	•	Here is the test item.
+“From the data presented in the table, form generalizations that are supported by the data”. 
+Under what type of question does this item fall?
+	•	Convergent 		c. Application
+	•	Evaluative		d. Divergent
+
+	•	I want to teach concepts, patterns and abstractions. Which method will be most appropriate?
+	•	Discovery 		c. Direct instruction
+	•	Indirect instruction	d. Problem solving
+
+	•	Teacher Atilla teaches English as a Second Language. She uses vocabulary cards, fill-in-the-blanks sentences, dialogues, dictation and writing exercises in teaching a lesson about grocery shopping. Based on this information, which of the following is a valid conclusion?
+	•	The teacher wants to make her teaching easier by having less talk
+	•	The teacher emphasizing reading and writing skills
+	•	The teacher is applying Bloom’s hierarchy of cognitive learning
+	•	The teacher is teaching in a variety of ways because not all students learn in the same manner
+
+	•	Teacher Georgina, an experienced teacher, does daily review of past lessons in order to: 
+	•	introduce a new lesson
+	•	reflect on how she presented the previous lessons
+	•	provide her pupils with a sense of continuity
+	•	determine who among her pupils are studying
+
+	•	I combined several subject areas in order to focus on a single concept for interdisciplinary teaching. Which strategy did I use?
+	•	Reading-writing activity
+	•	Thematic introduction
+	•	Unit method
+	•	Problem-centered learning
+
+	•	To teach the democratic process to the pupils, Batongmalaki Elementary School decided that the election of class officers shall be patterned after local elections. There are qualifications set for candidates, limited period for campaign and rules for posting campaign materials, etc. Which of the following did the school use?
+	•	Symposium 		c. Pole playing
+	•	Simulation		d. Philips 66
+	•	Which among the following are effective methods in teaching student critical reading skills?
+	•	Interpret editorial
+	•	Read and interpret three different movie reviews
+	•	Read a position paper and deduce underlying assumptions of the position papers
+	•	II and III 		c. I and II
+	•	I and III		d. I, II and III
+	•	Here is a test item:
+“The improvement of basic education should be the top priority of the Philippine government. Defend or refute this position.”
+Under what type of question does this test item fall?
+	•	Low-level 		c. Analysis
+	•	Evaluative		d. Convergent
+	•	When I teach, I often engage in brainstorming. Which do I avoid?
+	•	Break down barriers
+	•	Selectively involves pupils
+	•	Increase creativity
+	•	Generate many ideas
+	•	Teacher Sammy teaches a lesson in which students must recognize that ¼ is the same as 0.25. He use this relationship to determine that 0.15 and 0.20 are slightly less than ¼. Which of the following concept/s is/are being taught?
+	•	Numeration skills of decimals and relationships between fractions and decimals
+	•	Numeration skills
+	•	Place value of decimals
+	•	Relationship between fraction and decimals
+	•	What is the best way to develop math concept?
+	•	Solving problems using multiple approaches
+	•	Solving problems by looking for correct answer
+	•	Learning math as applied to situations, such as being a tool of science
+	•	Solving problems by applying learned formulas 
+	•	After the reading of a selection in the class, which of these activities can enhance students’ creativity?
+	•	Reader’s theater
+	•	Reading aloud
+	•	Silent reading
+	•	I and II 		c. I only
+	•	II only			d. III only
+	•	Teacher Carlo, a Reading teacher, advised the class to “read between the lines”. What does she want his pupils to do?
+	•	Determine what is meant by what is stated
+	•	Make an educated guess
+	•	Apply the information being read
+	•	Describe the characters in the story
+	•	To nurture students’ creativity, which activity should a teacher avoid?
+	•	Ask “What if…” questions
+	•	Emphasize  the need to give right answers
+	•	Ask divergent thinking questions
+	•	Be open to “out-of-this-world” ideas
+	•	Teacher Rodel wants to develop his students’ creativity. Which type of questions will be most appropriate?
+	•	Synthesis questions
+	•	Fact questions
+	•	“What if…” questions
+	•	Analysis questions
+	•	Floramay enjoyed the roller coaster when she and her family went to Disneyland. The mere sight of a roller coaster gets her excited. Which theory explains Floramay’s behavior?
+	•	Operant conditioning
+	•	Pavlovian conditioning
+	•	Social learning theory
+	•	Attribution theory
+	•	According to Freud, with which should one be concerned if he/she has to develop in the students a correct sense of right and wrong?
+	•	Super-ego         II. Ego            III. Id
+	•	I and II 		c. I
+	•	II			d. III
+	•	When small children call animals “dog”, what process is illustrated on Piaget’s cognitive development theory?
+	•	Reversion 		c. Accommodation
+	•	Assimilation		d. Conservation
+	•	Researchers found that when a child is engaged in a learning experience a number of areas of the brain are simultaneously activated. Which of the following is/are implication/s of this research finding?
+	•	Make use of field trips and guest speakers
+	•	Do multicultural units of study
+	•	Stick to the “left brain and right brain” approach
+	•	I and III 		c. I and II
+	•	I only			d. II only
+	•	My problem is there are too many topics to cover and I may not able to finish before classes end in March. Which approach when used can help solve my problem? 
+	•	Thematic 	  c. Experimental approach
+	•	Constructive     d. Direct instruction 
+	•	You want your students to answer the questions at the end of a reading lesson. “What did I learn?”, “What still puzzles me?”, “What did I enjoy, hate and accomplish in the class today?” and “How did I learn from the lesson?”.Which of the following are you asking them to do?
+	•	Work on an assignment
+	•	Make journal entry
+	•	Work on a drill
+	•	Apply what they learned
+	•	William Glasser’s control theory states that behavior is inspired by what satisfies a person want at any given time. What then must a teacher do to motivate students to learn?
+	•	Make schoolwork relevant to students’ basic human needs
+	•	Make teaching-leaning interactive
+	•	Avoid giving assignments
+	•	Organize a curriculum in a spiral manner
+	•	Nadia exhibit fear response to freely roaming dogs but does not show fear when a dog is on a leash or confined to a pen. Which conditioning process is illustrated?
+	•	Extinction 		c. Acquisition
+	•	Generalization	d. Discrimination
+	•	Based on Freud’s theory, which operate/s when a student strikes a classmate at the height of anger?
+	•	Ego 		c. Id and Ego interact
+	•	Id		d. Superego
+	•	After reading an essay. Teacher Beatrice wants to help sharpen her students’ ability to interpret. Which of these activities will be most appropriate?
+	•	Drawing conclusions
+	•	Making inferences
+	•	Getting the main idea
+	•	Listing facts separately from opinion
+	•	Read the following then answer the question. A man and his son are driving in a car. The car crashes into a tree, killing the father and seriously injury his son. At the hospital, the boy needs to have surgery. Looking at the boy, the doctor says (telling the truth), “I cannot operate on him. He is my son. How can this be? 
+ANSWER: The doctor is the boy’s mother.
+The above brain twister helps develop critical reading skills. Which activity was used?
+	•	Comparing   c. Inferring meaning
+	•	Classifying   d. Looking for cause and effect
+	•	Research says that mastery experiences increase confidence and willingness to try similar or more challenging tasks as reading. What does this imply for children’s reading performance?
+	•	Children who have not mastered the basic skills are more likely to be motivated to read in order to gain mastery over basic skills
+	•	Children who have mastered basic skills are more likely to be less motivated to read because they get fed up with too much reading
+	•	Children who have gained mastery over basic skills are more motivated to read
+	•	Children who have a high sense of self-confidence are not necessarily those who can read
+	•	The value that students put on reading is critical to their success. In what way/s can teachers inculcate his value for reading?
+	•	Sharing the excitement of read-aloud
+	•	Showing their passion for reading
+	•	Being rewarded to demonstrate the value of reading
+	•	II and III 		c. I, II and III
+	•	I and II		d. II only
+	•	Bruner’s theory on intellectual development moves from enactive to iconic and symbolic stages. Applying Bruner’s theory. How would you teach?
+	•	Be interactive in approach
+	•	Begin with the abstract
+	•	Begin with the concrete
+	•	Do direct instruction
+	•	A person who has painful experiences at the dentist’s office may become fearful at the mere sight of the dentist’s office building. Which theory can explain this?
+	•	Generalization
+	•	Operant Conditioning
+	•	Attribution theory
+	•	Classical conditioning
+	•	Which is/are the basic assumption/s of behaviorists?
+	•	The mind of newborn child is a blank state
+	•	All behaviors are determined by environmental events
+	•	The child has a certain degree of freedom not to allow himself to be shaped by his environment
+	•	III only 		c. II only
+	•	I and II		d. I and III
+	•	If a student is encourage to develop himself to the fullest and must satisfy his hierarchy of needs, the highest needs to satisfy according to Maslow is ________.
+	•	Psychological need 	c. Belongingness
+	•	Self-actualization	d. Safety needs
+	•	In a Social Studies class. Teacher Ina presents a morally ambiguous situation and asks student what they would do. On whose theory is Teacher Ina’s technique based?
+	•	Bandura 		c. Kohlberg
+	•	Piaget			d. Bruner
+	•	Teacher Violy is convinced that whenever a student performs a desired behavior, provide reinforcement and soon the student learns to perform the behavior on his own. On which principle is Teacher Violy’s conviction based?
+	•	Environmentalism 	c. Cognitivism
+	•	Behaviorism		d. Constructivism
+	•	In Bandura’s social learning theory, it states that children often imitate those who: 
+	•	have substantial influence over their lives
+	•	belong their peer group
+	•	belong to other race
+	•	are successful and seem admired
+	•	IV only 		c. I and II
+	•	I and IV		d. II and IV
+	•	According to Erikson, what years are critical for the development of self-confidence?
+	•	High school years
+	•	Elementary school years
+	•	College years
+	•	Preschool years
+	•	Which of the following does not describe the development of children aged 11 to 13?
+	•	They exhibit increased objectivity in thinking
+	•	Sex difference in IQ become more evident
+	•	They shift from impulsivity to adaptive ability
+	•	They show abstract thinking and judgment 
+	•	Teacher Henry begins a lesson on tumbling, demonstrating front and back somersaults in slow motion and physically guiding his students through the correct movements. As his students become more skillful, he stands back from the man and gives verbal feedback about how to improve. With Vygotsky’s theory in mind, what did Teacher Henry do?
+	•	Apprenticeship            c. Peer interaction
+	•	Guided participation     d. Scaffolding
+	•	What does Gagne’s hierarchy theory propose for effective instruction?
+	•	Be concerned with the socio-emotional climate in the classroom
+	•	Sequence instruction
+	•	Teach beginning with the concrete
+	•	Reward good behavior
+	•	Which appropriate teaching practice flows from this research finding on the brain: “The brain’s emotional center is tied into its ability to learn”.
+	•	Establish the discipline of being judgmental in attitude
+	•	Come up with highly competitive games where winners will feel happy
+	•	Create a learning environment that encourages students to explore their feeling and ideas freely
+	•	Tell the students to participate in class activities or else won’t receive plus points in class recitation
+
+	•	Research on Piagetian tasks indicates that thinking becomes more logical and abstract as children reach the formal operation stage. What is an educational implication of this finding?
+	•	Engage children in analogical reasoning as early as preschool to train them for higher order thinking skills (HOTS)
+	•	Learners who are not capable of logical reasoning from ages 8 to 11 lag behind in their cognitive development
+	•	  Let children be children
+	•	Expect hypothetical reasoning for learners between 12 to 15 years of age
+
+	•	Research says: “People tend to attribute their successes to internal causes and their failures to external causes.” Based on this finding, what should be taught to students for them to be genuinely motivated to succeed?
+	•	Tell them the research finding when applied will make them genuinely motivated
+	•	Convince them that genuine motivation is the only factor that matters for a person to succeed
+	•	Make them realize that failure is a part of life
+	•	Make them realize that both success and failure are more a function of internal causes
+
+	•	Which characterize/s a learning environment that promotes fairness among learners of various cultures, family background and gender?
+	•	 	Inclusive 		III. Gender-sensitive
+	•	Exclusive
+	•	I only 		c. I and III
+	•	III only		d. II and III
+
+	•	Which of the following steps should be completed first in planning an achievement test?
+	•	Define the instructional objective
+	•	Set up a table of specialization
+	•	  Select the types of test items to use
+	•	Decide on the length of the test
+	•	The computed r for scores in Math and Science is 0.92. What does this mean?
+	•	Math score is positive related to Science score
+	•	The higher the Math score, the lower the Science score
+	•	  Math score is not in any way related to Science score
+	•	Science score is slightly related to Math score
+
+	•	Which types of test is most appropriate if Teacher Yanny wants to measure student’s ability to organize thoughts and ideas?
+	•	Short answer type of test
+	•	Extended response essay
+	•	  Modified alternative response
+	•	Limited response essay
+
+	•	If I want to hone my student’s meta-cognitive ability, which is most fit? 
+	•	Drill 			c. Brainstorming 
+	•	Debate 		d. Journaling 
+
+	•	I want to test student’s synthesizing skills. Which has the highest diagnostic value?
+	•	Multiple choice test 	 
+	•	Performance test		
+	•	  Essay test 
+	•	Completion test
+
+	•	Here is a test item:
+_________ is an example of a leafy vegetable.
+
+
+
+Why is this test item poor?
+	•	 	The test item does not pose a problem to the examinee
+	•	There are variety of possible correct answer to this item
+	•	The language used in the question is not precise
+	•	The blank is near the beginning of a sentence
+	•	I and III 		c. I and IV
+	•	II and IV		d. I and II
+
+	•	Joanne’s score is within x±1 SD. To which of the following groups does she belong?
+	•	Below average
+	•	Average
+	•	  Needs Improvement
+	•	Above average
+	•	Here is a test item:
+What follows is a multiple choice type of test. Some test items _________.
+are too difficult
+are objective
+are poorly constructed
+have multiple defensible answers
+
+
+
+
+
+
+
+
+What makes the multiple choice type of test poor?
+	•	The options are not grammatically connected to the stem
+	•	The stem fails to present a problem
+	•	  There are grammatical clues
+	•	The options are not parallel
+	•	If Teacher Betty wants to measure her students’ ability to discriminate, which of these is an appropriate type of test item as implied by the direction?
+	•	“Outline the Chapter on The Cell.”
+	•	“Summarize the lesson yesterday.”
+	•	“Group the following items according to shape.”
+	•	“State a set of principle that can explain the following events.”
+
+	•	A test item has a difficult index of 0.89 and a discrimination index of 0.44. What should the teacher do?
+	•	Reject the item
+	•	Revise the item
+	•	  Make it a bonus item
+	•	Make it a bonus item and reject it
+
+	•	Which form of assessment is consistent with the saying “The proof of the pudding is in the eating.”
+	•	Contrived 		c. Traditional
+	•	Authentic		d. Indirect
+
+	•	Here is a test item:
+Who is best admired for outstanding contribution to world peace?
+Kissinger 		c. Kennedy
+Clinton		d. Mother Teresa
+
+
+
+
+
+
+
+What is WRONG with this item?
+	•	Item is overly specific
+	•	Content is trivial
+	•	  Test item is option-based
+	•	There is a cue to the right answer
+
+	•	A student’s score were as follows: 82, 83, 84, 86, 88, 84, 83, 85. The score 84 is the:
+	•	Mode 		c. Median
+	•	Average		d. Mean
+
+	•	Which text form would you choose if you want to have a valid and reliable test based on the table below?
+Test Form
+Validity Index
+Reliability Index
+A
+.47
+.68
+B
+.87
+.57
+C
+.20
+.86
+D
+.40
+.41
+E
+.63
+.07
+	•	A only 		c. A and D
+	•	B only		d. B and E
+
+	•	A mathematician’s test was given to all Grade V pupils to determine the contestants for the Math Quiz Bee. Which statistical measure should be used to identify the top 15?
+	•	Mean percentage score
+	•	Quartile Deviation
+	•	Percentile Rank
+	•	Percentage Score
+	•	Use the inbox below to answer the question that follows:
+Percentage Grades for Final Examination
+
+
+
+      40	    70		    80		     90	    100
+Which of the following statement is true about the plot of grades above?
+	•	The median is a score of 80 and the range is 60
+	•	The median is a score of 70 and the range is 60
+	•	The median is a score of 80 and the range is 20
+	•	The median is a score of 70 and the range is 20
+	•	Which can be said of Nina who obtained a score of 75 out of 100 items in a Grammar objective test?
+	•	She performed better than 25% of her classmates
+	•	She answered 75 items in the test correctly
+	•	  Her rating is 75
+	•	She answered 75% of the test items correctly
+	•	The criterion of success in Teacher Butch’s objective is that “the pupils must be able to spell 90% of the words correctly”. Student Dave and 24 others in the class spelled only 40 out of 50 words correctly while the rest scored 45 and above. This means that Teacher Butch _____________.
+	•	attained his lesson objective
+	•	failed to attain his lesson objective as far as the 25 pupils are concerned
+	•	  did not attain his lesson objective because of the pupils’ lack of attention
+	•	attained his lesson objective because of his effective spelling drill
+	•	Which of these can measure awareness of values?
+	•	Sociogram
+	•	Moral dilemmas
+	•	  Projective techniques
+	•	Rating scales
+	•	Marking on a normative basis means that:	
+	•	the normal distribution curve should be followed
+	•	some should fall
+	•	  some get high marks
+	•	the grading is based on a present criteria 
+	•	Which process enhances the comparability of grades?
+	•	Using a table specifications
+	•	Determining the level of difficulty of the tests
+	•	  Giving more HOTS (higher order thinking skills)
+	•	Constructing departmentalized exams for each subject area.
+	•	If the scores of your test follow a negatively skewed score distribution, what should you do? Find out __________?
+	•	why your items were easy
+	•	why most of the scores are high
+	•	  why most of the scores are low
+	•	why some pupils scored high 
+	•	Principal Gemma is talking about “grading on the curve” in a faculty meeting. What does this expression refers to?
+	•	A student’s mark compares his achievement to his effort
+	•	A student’s grade or mark depends on how his achievement compares with the achievement of other students in a class
+	•	  A student’s grade determines whether or not a student attains a defined standard of achievement
+	•	A student’s mark tells how closely he is achieving to his potential
+
+	•	Which tests determine whether students accept responsibility for their own behavior or pass on responsibility for their own behavior to other people?
+	•	Locus-of-control tests
+	•	Thematic tests
+	•	  Stylistic test
+	•	Sentence-completion tests
+
+	•	Which of the following is a weakness of self-supporting personality checklists?
+	•	Many personality measures have built-in lie scales
+	•	They lack stability
+	•	They may not get true information because individuals can hide or disguise feelings
+	•	They have poor internal consistency
+Situation 1. (#129-131)
+In a faculty meeting, the principle told his teacher: “We need to improve our school performance in the National Achievement Test. What should we do?”
+The teacher gave varied answers as follows:
+Let’s give incentives and rewards to students who get a rating of 85%.
+Let’s teach them to accept complete responsibility for their performance.
+Let’s make the school environment conducive for learning.
+Let’s make use of the experimental methods of teaching.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	Which response/s come/s from a behaviorist?
+	•	#2 and #4		c. #3 and #4
+	•	#1 and #2		d. #1 and #3
+
+	•	On which educational philosophy is response #1 anchored?
+	•	Existentialism 	c. Progressivism
+	•	Essentialism		d. Bahaviorism
+
+	•	If you leaned toward a progressivist philosophy, with which response would you agree?
+	•	#2         b. #3          c. #4        d. #1
+Situation 2. (#132-134)
+One principle in the utilization of technology of the classroom is appropriateness of material or activity.
+
+
+
+
+
+
+
+	•	Teacher Wilson wants his students to master the concept of social justice. Which series of activities will be most effective?
+	•	Pretest-teaching-posttest
+	•	Pretest-teaching-posttest-re-teaching for unlearned concepts-posttest
+	•	  Review-pretest-teaching-posttest
+	•	Teaching-posttest 
+	•	Teacher Raymund likes to show how the launching of spaceships takes place. Which of the following materials available is most fit?
+	•	Model   b. Mock-up  c. Replica   d. Realia
+	•	Teacher June likes to concretize the abstract concepts of an atom. He came up with a concrete presentation of the atom by using wire and plastic balls. How would you classify Teacher June’s visual aids?
+	•	Chart    b. Replica	c. Model   d. Realia
+
+Situation 3. (#135-137)
+After reading and paraphrasing Robert Frost’s “Stopping by the Wood on a Snowy Evening.” Mr. Sales asked the class to share any insight derived from the poem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	The class was asked to share their insights about the poem. The ability to come up with an insight stems from the ability to:
+	•	analyze the parts of a whole
+	•	evaluate the worthiness of a thing
+	•	  relate and organize things and ideas
+	•	comprehend the subject that is being studied
+	•	To ask the class any insight derived from the poem is based on the theory of:	
+	•	Realism 		c. Conditioning
+	•	Behaviorism		d. Constructivism
+	•	On which assumption about the learner is Mr. Sales’s act of asking the class to share their insight based?
+	•	Learners are like empty receptacles waiting to be filled up
+	•	Learners are meant to interact with one another
+	•	  Learners have multiple intelligence and varied learning styles
+	•	Learners are producers of knowledge not only passive recipients of information
+Situation 4. (#138-140)
+Principal Evelyn wants her teachers to apply constructivism in teaching.
+
+
+
+
+
+
+	•	On which assumption/s is the principal’s action anchored?
+	•	 	Students learn by personally constructing meaning of what is taught
+	•	Students construct and reconstruct meaning based on experiences
+	•	Students derive meaning from the meaning that the teacher gives
+	•	II only 		c. I, II and III
+	•	I and II		d. I only
+
+	•	Which materials will her teachers least prefers?
+	•	Controversial issues
+	•	Open-ended topics
+	•	Unquestionable laws
+	•	Problem or cases
+	•	Which concept/s of the learner will Principal Evelyn not accept?
+	•		“Empty vesse!”
+	•	“Tabula rasa”
+	•	Candle to be lighted
+	•	III only 		c. II only
+	•	I only		d. I and II
+
+
+
+
+
+
+
+
+
+
+Situation 5. (#141-143)
+Study the matching type of test then answer the 3 questions that follow:
+         Column A		    Column B
+equilateral triangle     A. With 3 equal sides
+right triangle	      B. With 5 equal sides
+octagon		      C. Has 90- degree
+pentagon 		          angle	
+heptagon	                D. Means many
+poly	                E. with 7 sides
+			      F. with 8 sides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	How can you make the items homogeneous?
+	•	Increase the number of items in Column B
+	•	All items should be on polygons
+	•	  Remove the word triangle in items #1 and #2 in column A
+	•	The word “gon” must be included in column B
+	•	What is the main defect of this matching test?
+	•	The matching type is an imperfect type
+	•	The items are NOT homogeneous
+	•	  The items quite easy
+	•	An obvious pattern is followed in the answering
+	•	Which should be done to improve the matching type of test?
+	•	Capitalize the items in Column A
+	•	Items in Column A and B should be exchanged
+	•	  Drop #6 item in Column A
+	•	The item in Column A should be increased
+
+Situation 6. (#144-146)
+Below the template for Scoring Rubric.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	•	Which of this/these is/are essential in constructing a scoring rubric?
+	•		Description of criteria to serve as standard
+	•	Clear descriptions of performance at each level
+	•	Levels of achievement (mastery)
+	•	Rating scheme
+	•	I, II and III 		c. I, II, III and IV
+	•	I and II		d. I only
+	•	Which statement is true of the rubric?
+	•	It is developmental
+	•	It is analytical
+	•	It is both holistic and developmental
+	•	It is holistic
+	•	Which is true of the scoring rubric?
+	•	 	It describes criteria of levels of achievement
+	•	It has a rating scheme
+	•	It limit itself to 4 levels of achievement
+	•	I and II 		c. II and III
+	•	I and III		d. I, II and III
+	•	Which guidelines should you follow for behavior modification to be effective? 
+	•	Subject yourself to group pressure 
+	•	Work on several behaviors at the time for a significant change
+	•	  Never use negative reinforcement 
+	•	Work on one behavior at a time 
+	•	In which phases/s of change, according to Kurt Lewin, do you feel the pain? 
+	•	Transition 	    c. Refreezing 
+	•	Unfreezing 	    d. Transition and freezing 
+	•	In the writing of performance objectives for mastery learning, what is an acceptable standard of performance called? 
+	•	Behavior 	c. SMART 
+	•	Condition 	d. Criterion measure 
+	•	Why learning activities should be carefully planned? 
+	•	The ability of the teacher to plan is tested 
+	•	This is expected by pupils 
+	•	The accomplishment of objectives is dependent on the plan 
+	•	This is required of a teacher
+
+	•	Which statement on IQ and EQ is correct?
+	•	EQ has a greater contribution to performance than IQ
+	•	IQ has a greater contribution to performance than EQ
+	•	Blending of both IQ and EQ can make a difference in performance 
+	•	The contribution of IQ and EQ to performance is dependent on factors like age and gender
+
+	•	Teacher Nikko helped his students recall that stalagmites grow on the “ground” while stalactites grow on the “ceiling” of a cave by associating “G” in stalaGmites with ground and “C” in stalaCtites with ceiling. What did Teacher Nikko make use of it?
+	•	Visual aid 
+	•	Mnemonic device 				 
+	•	Audio-visual aid				
+	•	Meaning-maker device 
+	•	“Makabayan” as a subject in the re-structured Basic Education Curriculum is the “laboratory for life.” What does this mean? It is in this subject where the learner ____________.
+	•	Will be taught the Filipino strengths and weaknesses
+	•	Will demonstrate practical knowledge and skills gained in the other subjects 
+	•	Will be taught the true concept of being “pagkamakabayan”
+	•	The biographies of heroes who are “makabayan” will be taught 
+	•	In the faculty room everyone is talking about a teacher who is torturing for a fee from her own pupil who is vying for honors. What is the professional thing for the other teachers to do?
+	•	Talk to the parents of the tutee. Tell them what teachers doing is unprofessional 
+	•	Leave her alone, she might accuse you of meddling in her personal life
+	•	Correct her and remind her torturing one’s own pupil for a fee is unethical 
+	•	As a group, report her to the principal 
+	•	When Teacher Demi presents a set of data then asks the students to enter a conclusion, generalization or a pattern of relationship which method does she use?
+	•	Process approach 	
+	•	Type method 					 
+	•	Unit method				
+	•	Inductive inquiry method 
+	•	Which individualized teaching method makes use of workbooks, teaching machines or computers?
+	•	Project method 				 
+	•	Unit method			
+	•	Programmed instruction 
+	•	Inductive inquiry method 
+	•	I want to elicit more student responses. Which one should I avoid? 
+	•	Creating an evaluative atmosphere 
+	•	Using covert responses 
+	•	Prompting to covert wrong answers to correct ones 
+	•	Giving non-threatening comments 
+	•	For practice to be effective, which guideline should bear in mind? Practice should _______. 
+	•	Be done in an evaluative atmosphere 
+	•	Be arranged to allow students to receive feedback 
+	•	Take place over a long period of time 
+	•	Be difficult enough for students to remember and learn 	
+	•	Which of the following is a practice in progressive education?
+	•	Open classroom      
+	•	Study of classics     
+	•	Academic orientation 
+	•	Cognitive education 
+	•	The workers’ rights to form unions or to strike can be suppressed in times of national emergency. On what norm is this based?
+	•	Higher law, inalienable rights before alienable 
+	•	Wider social order, the society before the individual 
+	•	Clearer title, the certain before the title 
+	•	Nobler person, God before man 
+	•	Which skills should be taught if Teacher Joey wants to equip his students with the skill to organize information gathered?
+	•	Note-taking, outlining, using the library
+	•	Outlining, summarizing, using the card catalogue
+	•	Note-taking, outlining, summarizing 
+	•	Summarizing, note taking using the library 
+	•	Annual medical checkup required of teachers is done in the interest of:
+	•	Filipino medical doctors 			
+	•	Parents 		
+	•	The state and of every teacher		
+	•	School administration 
+	•	In a study conducted, the pupils were asked which nationality they preferred if given a choice. Majority of the pupils wanted to be an American. In this case, in which obligation relative to the state are schools seemed to be failing? In their obligation to:
+	•	Respect for all duly constituted authorities 
+	•	Instill allegiance to the Constitution 
+	•	Promote obedience to the laws of the state 
+	•	Promote national pride 
+	•	To be an effective classroom manager, teachers must be friendly but at the same time be:
+	•	Buddy-buddy 		
+	•	Rigid 		
+	•	Business-like	
+	•	Highly demanding 
+	•	Which of the following field of Social Sciences below is more connected with the study of social traditions and cultures?
+	•	Theology 		 
+	•	Psychology	
+	•	Sociology	
+	•	Anthropology
+	•	When an individual or group adapts the culture of others, practice them and become habitual, this is:
+	•	Culture change 	c. Culture shock
+	•	Culture lag 		d. Culture difference
+	•	Which appropriate teaching practice flows this research finding on the brain: “The brain’s emotional center is tied into its ability to learn.”
+	•	Tell the students to participate in class activities or else won’t receive plus points 
+	•	Create a learning environment that encourages students to explore their feelings and ideas
+	•	Come up with highly competitive games where winners will feel happy
+	•	Establish the disciple of being judgmental in attitude 
+	•	Which statement holds true to grades? Grades _________.
+	•	are exact measure of IQ and achievement 	
+	•	are a measure of achievement 
+	•	are necessarily a measure of students’ IQ	
+	•	are intrinsic motivation for learning	
+	•	Which practice does not fit in a classroom that recognizes individual differences?
+	•	Uniform requirements 			
+	•	Sharing from multiple perspective	
+	•	Accommodating student’s learning styles	
+	•	Various modes of assessing learning 
+	•	Teacher Benny says: “If it is billiard that brings students out of the classroom, let us bring it into the classroom. Perhaps, I can use it to teach Math.” To which philosophy does Teacher Benny adhere?
+	•	Progressivism		c. Essentialism 
+	•	Existentialism 	d. Reconstructionism
+	•	“The greatest happiness lies in the contemplative use of the mind”, said Plato. Therefore, let us give more opportunities for our students to do __________.
+	•	Social interaction    c. Role playing
+	•	Introspection       d. Cooperative learning 
+	•	Why is it sound to encourage students to define terms in their own words? Because ____________.
+	•	Defining the terms in their own words helps them memorize the definition faster
+	•	Students remember information better when they mentally process in some way
+	•	They ought to connect the terms that they learn with other terms 
+	•	This is one opportunity to brush up with other terms 
+	•	Pavlov is to classical conditioning as ______ is to operant conditioning.
+	•	A. Bandura 		c. J. Watson 
+	•	J. Holt 			d. B.F. Skinner 
+	•	You arrange the rows of blocks in such a way that a row of 5 blocks is longer than a row of 7 blocks. If you ask which row has more, Grade 1 pupils will likely say that it is the row that makes the longer line. Based on Piaget’s cognitive development theory, what problem is illustrated?
+	•	Conservation problem 	
+	•	Assimilation problem 			
+	•	Egocentrism problem			
+	•	Accommodation problem 
+	•	Were teachers in the Philippines required of a professional license since the establishment of the Philippine educational system?
+	•	No, but the equivalent of a license required was a certificate in teaching 
+	•	Yes, it was required since the Americans established the educational system 
+	•	No, it was only with the effectivity of R.A. 7836 that professional license was required 
+	•	Yes, except for the Thomasites 
+	•	The increase in the number of school children left by OFW parents intensifies the teacher role as ______________.
+	•	Student’s friends 	 
+	•	Guidance counselors 		
+	•	Facilitator of learning		
+	•	Substitute parents 
+	•	As a teacher, you are a rationalist. Which among these will be your guiding principle?
+	•	I must teach the child so he is assured of heaven 
+	•	I must teach the child to develop his mental powers to the fullest 
+	•	I must teach the child that we can never have real knowledge of anything 
+	•	I must teach the child every knowledge, skill and value that needs  for a better future
+	•	A teacher put together the output of her colleagues in one workshop and published it with her name as author. Which is unprofessional about the teacher’s behavior?
+	•	Failing to correct what appears to be unprofessional conduct
+	•	Giving due credit to others of their work 
+	•	Not giving due credit to others for their work 
+	•	Holding inviolate all confidential information concerning associates 
+	•	In what way can teachers uphold the highest possible standards of the teaching profession?
+	•	By pointing out the advantages of joining the teaching profession 
+	•	By good grooming to change people’s perception of teacher 
+	•	By continuously improving themselves  personally and professionally 
+	•	None of the above
+	•	To reach out to clientele who cannot be in the classroom for one reason or another, which of the following was established?
+	•	Special education (SPED) 			
+	•	Informal education 	
+	•	Alternative learning delivery system	
+	•	Pre-school education 
+	•	Teacher Neil discovered that his pupils are weak in comprehension. To further determine in which particular skills his pupils are weak; which test should Teacher Neil give?
+	•	Standard Test		c. Diagnostic Test
+	•	Placement Test 	d. Aptitude Test 
+	•	In the context of multiple intelligences, which one is the weakness of the paper-pencil test?
+	•	It put non-linguistically intelligent pupils at a disadvantage 
+	•	It requires paper and printing and is so expensive 
+	•	It utilizes so much time 
+	•	It lacks reliability 
+	•	Out of 3 distracters in a multiple choice test item, namely X, Y and Z, no pupil chose Z as an answer. This implies that Z is ________.
+	•	An effective distracter 			
+	•	A plausible distracter 
+	•	A vague distracter				
+	•	An ineffective distracter
+
+	•	The Thematic Appreciation Test is an example of a (an) __________.
+	•	Self-report technique 			
+	•	Projective technique	
+	•	Interest inventory				
+	•	Socio-metric technique 
+
+	•	The following are features of the Restructure Basic Education Curriculum, except: 
+	•	Increased time for tasks to gain mastery of competencies
+	•	Interdisciplinary modes of teaching 
+	•	Greater emphasis on content, less on the learning process
+	•	Stronger integration of competencies and values, across the learning area 
+
+	•	The free public elementary and secondary education in the country is in the line with the government effort to address educational problems of _______.
+	•	access and equity 				
+	•	relevance and quality 	
+	•	effectiveness and efficiency		
+	•	productivity 
+	•	The task of setting up routine activities for effective classroom management as a task that a teacher should undertake ______.
+	•	on the very first day of school 
+	•	every day at the start of the session 
+	•	every homeroom day 
+	•	as soon as the students have adjusted on their schedule 
+	•	Teacher Honey uses direct instruction strategy. Which will she first do?
+	•	Independent practice 			
+	•	Guided student practice	
+	•	Review the previous day’s work		
+	•	Presenting and structuring 
+	•	Teacher Janice observes cleanliness and order in her classroom to create a conductive atmosphere for learning. On which theory is her practice based?
+	•	Behaviorism 				
+	•	Psychoanalysis 	
+	•	Gestalt psychology			
+	•	Humanistic psychology 
+	•	Which activity is meant for kinesthetically intelligent pupils?
+	•	Independent study 				 
+	•	Individualized study		
+	•	Pantomime		
+	•	Cooperative learning 
+	•	With which will the existentialist agree? The school is a place where individuals _____.
+	•	Listen and accept what the teacher say
+	•	Can meet to pursue dialogue and discussion about their lives and choices
+	•	Can observe by using their senses to the maximum 
+	•	Can reflect on ideas 
+	•	Which will be the most authentic assessment tool for an instructional objective on working with and relating to people?
+	•	Writing articles on working and relating to people 	
+	•	Organizing a community project	
+	•	Home visitation		
+	•	Conducting mock election 
+
+	•	Which physical arrangement of chairs contributes to effective classroom management?
+	•	Sticks to the traditional chair arrangement in the classroom 
+	•	Distinguishes teacher from students 
+	•	Makes it easier to clean the room 
+	•	Enhances classroom interaction 
+
+	•	Each teacher said to be a trustee of cultural and educational heritage of the nation and under obligation to transmit to learners such heritage. Which practice makes him fulfill such obligation?
+	•	Use of the latest instructional technology 
+	•	Study of the life of Filipino heroes 
+	•	Use of interactive teaching strategies 
+	•	Observing continuing professional education 
+	•	Writing an original essay is an example of which level of objective in the cognitive domain?
+	•	Evaluation 		c. Analysis
+	•	Synthesis 		d. Application 
+
+	•	Which terms refers to a teacher helping a colleague grow professionally?
+	•	Technology transfer 	 
+	•	Independent study 	
+	•	Facilitating				
+	•	Peer mentoring 	
+	•	Which terms refers to the collection of student’s products and accomplishments for a period for evaluation purposes?
+	•	Anecdotal record 		c. Diary 
+	•	Observation report 		d. Portfolio 
+	•	To develop reasoning and speaking ability, which should I use? 
+	•	Debate		c. Experiment
+	•	Storytelling 		d. Role-playing 
+	•	Under which type of guidance service does the concern of schools to put students into their most appropriate courses fall?
+	•	Individual inventory service 			
+	•	Research service 	
+	•	Placement service				
+	•	Information service 
+	•	After having been humiliated by his teacher, a student evaluates that teacher very poorly, despite teacher’s excellent performance. Which trait is illustrated by the student’s behavior?
+	•	Particularism 		c. Personalism
+	•	Rationalism 		d. Impersonalism 
+
+	•	Conducting follow up studies of graduates and drop out is a guidance service that falls under:
+	•	Placement services 		
+	•	Research service 				
+	•	Individual inventory services		
+	•	Counseling service 
+
+
+	•	Under which assumption is portfolio assessment based?
+	•	Assessment should stress the reproduction of knowledge 
+	•	An individual learner is adequately characterized by a test score 
+	•	An individual learner is inadequately characterized by a test score 
+	•	Portfolio assessment is dynamic assessment 
+	•	Which program was adopted to provide universal access to basic education to eradicate illiteracy?
+	•	Values educational framework 		
+	•	Education for all 		
+	•	“Paaralan sa bawat barangay”		
+	•	Science and Education Development Plan 
+	•	Which schools are subject to supervision, regulation and control by the state?
+	•	Public, Private sectarian and Non-sectarian 
+	•	Sectarian and non-sectarian school 
+	•	Private school 
+	•	Public schools 
+	•	Here is a score distribution: 98, 93, 93, 93, 90, 88, 87, 85, 85, 85, 70, 51, 34, 34, 34, 20, 18, 15, 12, 9, 8, 6, 3, 1. What is the characteristic of the score distribution?
+	•	Bimodal	
+	•	Trimodal		
+	•	Skewed to the right	
+	•	No discernible pattern
+	•	What do the school campus expression “promdi” and barriotic” indicate?
+	•	The powerlessness of the poor 		
+	•	The power of the rich 
+	•	Low literacy rate of the country		
+	•	The prevalence of ethnocentrism 
+	•	Why is babyhood referred to as a “critical period” in personally development? Because _________.
+	•	The foundation is laid upon in which the adult personally structure will be built
+	•	The baby is exposed to many physical and psychological hazards
+	•	The brain grows and develops as such accelerated rate during babyhood 
+	•	Changes in the personality pattern take place 
+	•	Billy, a grade 1 pupil is asked, “Why do you pray every day?” Billy answer. “Mommy said so.” Based on Kohlberg’s theory, in which moral development stage is Billy?
+	•	Pre-Conventional level
+	•	Conventional level 
+	•	Between conventional and post conventional levels
+	•	Post-Conventional level 
+	•	If you plan to develop a lesson on using s-verb with the third person singular as subject deductively, what is the first step in your lesson development outline?
+	•	Give sentences using s-verb form 
+	•	Ask the students about s-verb form and third person singular as subject 
+	•	State the rule on subject-verb agreement for third person as subject 
+	•	Conduct appropriate sentence drill 
+	•	For lesson clarity and effective retention, which one should a teacher observes, according to Bruner’s theory?
+	•	Start at the concrete level and end there
+	•	Begin teaching at the concrete level but go beyond it by reaching the abstract 
+	•	End teaching with verbal symbol 
+	•	Use purely verbal symbols in teaching 
+	•	Which activity should a teacher have more for his students if he wants them to develop logical-critical thinking?
+	•	Symposium 		c. Brainstorming 
+	•	Debate 		d. Panel discussion 
+	•	The criterion of success in Teacher Edna’s objective is that “the pupils must be able to spell 90% of the words correctly.” Linda and other 24 students in the class spelled only 40 out of 50 words correctly while the rest scored 45 and above. This means that Teacher Edna ________.
+	•	Did not attain her lesson objective because of the pupil’s lack of attention 
+	•	Attained her lesson objective because of the pupil’s lack of attention 
+	•	Attained her lesson objective 
+	•	Failed to attain her lesson objective as far as the 25 pupils are concerned 
+	•	With assessment of affective learning in mind, which does not belong to the group?
+	•	Moral dilemma 	c. Diary entry 
+	•	Reflective writing 	d. Cloze test 
+	•	Which is true when standard deviation is big?
+	•	Scores are concentrated			
+	•	Scores are not extremes	
+	•	Scores are spread apart	
+	•	The bell curve shape is steep
+	•	Jan, a grade 1 pupil, is happy when he wins a game but skulks when he doesn’t. Which concept does his behavior indicate?
+	•	Egotism 	    c. Semi-logical reasoning
+	•	Egocentrism     d. Rigidity of thought 
+	•	The practice of non-graded instruction stems from ________.
+	•	Progressivism 	  c. Existentialism
+	•	Reconstructionism 	  d. Essentialism 
+	•	Theft of school equipment like TV, computer, etc. by teenagers in the community itself is becoming a common phenomenon. What does this incident signify?
+	•	Deprivation of Filipino schools
+	•	Inability of school to hire security guards
+	•	Prevalence of poverty in the community 
+	•	Community’s lack of sense of co-ownership 
+	•	What does extreme authoritarianism in the home reinforce in learners?
+	•	Creativity in work 				
+	•	Ability to direct themselves 
+	•	Doing things on their own initiative		
+	•	Dependence on others for direction 
+	•	The main purpose of compulsory study of the constitution is to ________.
+	•	Make constitutional experts of the students 
+	•	Develop students into responsible, thinking citizens 
+	•	Prepare students for law-making 
+	•	Acquaint students with the historical development of the Philippine Constitution
+	•	Studies in the areas of neurosciences disclosed that the human brain has limitless capacity. What does this imply?
+	•	Every child is a potential genius 
+	•	Pupils can possibly reach a point where they have learned everything 
+	•	Some pupils are admitted not capable of learning 
+	•	Every pupil has his its own native ability and his learning is limited to this native ability
+	•	The principle of individual differences requires teachers to _____.
+	•	Treat all learners alike while in the classroom 
+	•	Prepare modules for slow learners in class
+	•	Give greater attention to gifted learners 
+	•	Provide for a variety of learning activities
+	•	Which assumption underlines the teacher’s use of performance objectives?
+	•	Performance objectives assure the learner of learning 
+	•	Learning is defined as a change in the learner’s observable performance 
+	•	The success of learners is based on teacher performance 
+	•	Not every form of learning is observable 
+	•	The following are used in writing performance objective, except?
+	•	Integrate 		c. Diagram
+	•	Delineate 		d. Comprehend
+	•	Which is/are sign/s of the student with Attention Deficit Disorder?
+	•	Impatient while waiting for his/her turn during games 
+	•	Completes work before shifting to another 
+	•	Excessively quiet 
+	•	Cares for his/her personal things 
+	•	You observe that pupils answer even when not called, shouts MA’AM to get your attention, and laugh when someone commits mistakes. What should you do?
+	•	Send the misbehaving pupils to the guidance counselor
+	•	Set the rules for the class to observe 
+	•	Involve the whole class in setting rules of conduct for the whole class
+	•	Make a report to the parents about their children’s misbehavior 
+	•	Which is the final, indispensable component of a lesson plan?
+	•	Evaluation 		c. References 
+	•	Activity 		d. Assignments
+	•	Carlo, a grade 2 pupil, plays with his classmates but cannot accept defeat. Based on Piaget’s theory on cognitive development, in what development stage is Carlo?
+	•	Formal operation 	  c. Pre-operational 
+	•	Concrete operation 	  d. Sensorimotor 
+	•	Which seating arrangement has been proven to be effective for learning?
+	•	Flexible to suit varied activities
+	•	Fixed arrangement to maximize instructional time 
+	•	Any seat arrangement to suit varied learning styles
+	•	A combination of fixed and flexible arrangement 
+	•	Which can run counter to the encouragement you give to your students to ask questions?
+	•	Eye to eye contact 				
+	•	An encouraging hand gesture 	
+	•	Radiant face	
+	•	Knitted eyebrows when a question is raised 
+
+	•	Teacher Agot likes to show how the launching of spaceships takes place. Which of the following materials available is most fit?
+	•	Mock-up 		c. Replica 
+	•	Realia 			d. Chart 
+
+	•	Teacher Bonnie likes to concretize abstract concept of the water molecule. She came up with a concrete presentation by using wires and plastic balls. How would you classify Teacher Bonnie’s visual aid?
+	•	Replica			c. Realia 
+	•	Chart 			d. Mock-up 
+	•	Teacher Lenny demonstrated to the class how to focus the microscope, after which the students were asked to practice. Which teacher prompting is least intrusive? Teacher Lenny ________. 
+	•	Held the hand of a student and with her hand holding the student’s hand adjusted the mirror 
+	•	Pointed to the mirror and made an adjusting gesture with her hand 
+	•	Adjusted the mirror
+	•	Reminded the class to first adjust the mirror 
+
+	•	A pupil who has developed a love for reading keeps in reading for his enjoyment. His motivation for reading is: 			
+	•	Insufficient 	c. Extrinsic
+	•	Intrinsic    d. Both intrinsic and extrinsic
+	•	Which educational trend is occurring in all modern societies as a result of knowledge explosion and rapid social, technological and economic changes?
+	•	Nuclear education 				
+	•	International education 
+	•	Lifelong learning				
+	•	Team teaching 
+
+	•	With the advent of multi-media resources and computers, which is the most favorable result of the optimal use of educational media technology?
+	•	Interactive learning 			
+	•	Increase learning 	
+	•	Speed learning				
+	•	More interesting learning 
+	•	Which refers to the Filipino trait of practicing conflicting values in different venues and with different social groups?
+	•	“Kanya-kanya” mentality 		
+	•	Procrastination 		
+	•	Existential intelligence			
+	•	Crab mentality 
+	•	Which of these can measure awareness of values?
+	•	Projective techniques   	
+	•	Rating scales		
+	•	Moral dilemmas   
+	•	Sociogram 
+	•	Which test determines whether students accept responsibility for their own behavior or pass on responsibility for their own behavior to other people?
+	•	Locus-of-control tests 			
+	•	Sentence-completion tests	
+	•	Thematic tests		
+	•	Stylistic tests
+
+	•	Which process enhances the comparability of grades?
+	•	Giving more Higher Order thinking skills
+	•	Constructing departmentalized exam for each subject area
+	•	Determining the level of difficulty of the test 
+	•	Using a table of specification
+
+	•	Under which type of guidance service does the concern of school to put students into their most appropriate courses fall?
+	•	Information service 				
+	•	Placement service 		
+	•	Individual inventory services	
+	•	Research services
+	•	The teacher’s role in the classroom according to cognitive psychologist is to _______.
+	•	Make the learning task easy for the learner 
+	•	Dictate what to learn upon the learner
+	•	Fill the minds of the learner with information 
+	•	Help the learner connect what they know with new information from the teacher
+
+	•	Which questioning technique would be appropriate for inductive lessons?
+	•	Involve students actively in the questioning process
+	•	Expect participation only among the more motivated students 
+	•	Use questions requiring only memory responses
+	•	As a teacher, you ask no questions 
+	•	Which statement is true in a bell-shaped curve?
+	•	There are more high scores than low scores 
+	•	Most scores are high 		
+	•	The scores are normally distributed	
+	•	The bell curve shape is steep. 
+	•	Here is a test item: 
+DISTANT : NEAR :: GENUINE : _______. 
+This item is a/an _________.
+	•	Analogy 		c. Metaphor 
+	•	Riddle			d. Completion 
+	•	What refers to a single word or phrase that tells the computer to do something with program or file?
+	•	Computer language 		c. Command 
+	•	Computer program 		d. Password
+	•	Can an insane person be blamed for killing a stranger?
+	•	Yes, because an insane person possesses a little degree of voluntariness
+	•	Yes, because an insane person is not totally ignorant 
+	•	No, because of his ignorance and lack of voluntariness
+	•	No, because the one killed is a stranger, not in any way related to him 
+	•	A political boss builds a school in a distant barrio in order to get the votes for an unworthy and corrupt candidate. Is the action of the political boss moral?
+	•	No, the candidate is undeserving 
+	•	No, his move was not meant for good effect 
+	•	Yes, the votes were exchange for the school built 
+	•	Yes, it was his duty to strategies for his candidate to win 
+	•	The teacher’s first task in the selection of media in teaching is to determine the:
+	•	Choice of the teacher 			 
+	•	Availability of the media 
+	•	Technique to be used 	
+	•	Choice of the students			
+	•	Which is the true foundation of the social order?
+	•	Strong political leadership 			
+	•	The reciprocation of rights and duties 
+	•	Equitable distribution of wealth 
+	•	Obedient citizen			
+	•	All the examinees obtained scores below the mean. A graphic representation of the score distribution will be:
+	•	Perfect normal curve 			 
+	•	Negatively skewed	
+	•	  Positively  skewed			
+	•	Leptokurtic 
+	•	In a normal distribution curve, a T-score of 70 is:
+	•	Two SDs above the mean 	
+	•	Two SDs below the mean 			
+	•	  One SD below the mean		
+	•	One SD above the mean 
+	•	Which one stifles student’s initiative?
+	•	“Bahala na” 		 
+	•	“Utang na loob”	
+	•	  Rationalism
+	•	Extreme authoritarianism 
+	•	The following are trends in marking and reporting system, except:
+	•	Supplementing subject grades with checklist on traits 
+	•	Conducting parent-teacher conferences as often as needed
+	•	  Raising the passing grade from 70 to 80 
+	•	Indicating strong points as well as those needing improvement 
+	•	Which is a type of graph in which lines represent each score or set of scores?
+	•	Histogram 		 
+	•	Scatter gram 	
+	•	  Scatter plot 
+	•	Frequency polygon 
+	•	Which is an example of a perfect duty?
+	•	Paying the worker the wages agreed upon 
+	•	Donating an amount for a noble project 
+	•	  Giving alms to the needy 
+	•	Supporting a poor but deserving student to school 
+	•	In what way can instructional aides enhance learning?
+	•	Entertain student 				 
+	•	Hold students in the classroom 
+	•	  Reinforce learning		
+	•	Take the place of the teacher
+	•	The study on types of reading exercises gives practice in:
+	•	All sorts of study methods 		
+	•	Reading skills needed in other project 
+	•	  Recognizing the precise meaning of words
+	•	Picking out the man ideas
+
+	•	How students learn may be more important than what they learn. From this principle, which of the following is particularly important?
+	•	Knowing how to solve a problem 
+	•	Solving a problem within time allotted
+	•	  Getting the right answer to a word problem 
+	•	Determining the given
+	•	Kiko is very attached to his mother and Sharon to her father. In what developmental stage are they according to Freudian’s psychological theory?
+	•	Phallic stage 	c. Oedipal stage 
+	•	Latent stage 	d. Anal stage 
+	•	A student dislikes Math due to traumatic experience in the past. Which law explains this?
+	•	Partial activity  c. Vividness	
+	•	Analogy 	     d. Disposition/Mind set 
+
+	•	Which illustrates vicarious punishment?
+	•	We feel so bad to a classmate who is punished for being tardy so we convince him go to school on time 
+	•	Out of comparison, we volunteer to get punished in place of a friend 
+	•	  We charge to experience our being punished 
+	•	See someone get punished for habitual tardiness. In effect, we are less likely to be tardy
+	•	In instructional planning, it is necessary that the parts of the plan from the first to the last have:
+	•	Symmetry 		c. Conciseness
+	•	Coherence 		d. Clarity 
+	•	If Teacher Judith has to ask more higher-order questions, she has to ask more ________ questions.
+	•	convergent 		c. fact
+	•	closed 		d. divergent
+	•	For maximum interaction, a teacher ought to avoid ______ questions
+	•	rhetorical 		c. divergent 
+	•	leading 		d. informational
+	•	The military training requirements among students in the secondary and tertiary levels can be traced as a strong influence of the:
+	•	Greeks 		c. Chinese
+	•	Romans 		d. Athenians
+	•	Teacher Marissa wants to review and check on the lesson of the previous day? Which one will be most reliable?
+	•	Having students correct each other’s work 
+	•	Having students identify difficult homework problems 
+	•	  Explicitly reviewing the task relevant information for the day’s lesson 
+	•	Sampling the understanding of a few students 
+	•	To promote effective practice, which guideline should you bear in mind? Practice should be ____.
+	•	Difficult for students to learn a lesson 
+	•	Arranged to allow students to receive feedback 
+	•	  Done in an evaluative atmosphere 
+	•	Take place over a long  period of time 
+	•	Which is one role of play in the pre-school and early childhood years?
+	•	Separates reality from fantasy 
+	•	Develops the upper and lower limbs 
+	•	  Develop competitive spirit 
+	•	Increase imagination due to expanding knowledge and emotional range 
+	•	Teacher Joel taught a lesson denoting ownership by means of possessives. He first introduced the rule, then gave examples, followed by class exercise, then back to the rule before he moved it the second rule. Which presenting technique did he use?
+	•	Sequential 		c. Comparative 
+	•	Combinational    d. Whole-Part-Whole 
+	•	For which may you use the direct instruction method?
+	•	Use a microscope properly 
+	•	Distinguish war from aggression 
+	•	  Appreciate Milton’s Paradise Lost 
+	•	Become aware of the pollutants around us 
+	•	By what name is indirect instruction or Socratic methods also known? 
+	•	Questioning method 			
+	•	Morrison method 	
+	•	  Indirect method				
+	•	Mastery learning 
+	•	Which does not belong to the group of alternative learning systems?
+	•	Multi-age grouping 				
+	•	Multi-grade grouping	
+	•	  Non-graded grouping			
+	•	Graded education 
+	•	Student Ben was asked to report to the Guidance Office. Student Ben and his classmates at once remarked. “What’s wrong?” What does this imply? 
+	•	Reporting to a Guidance Office is often associated with misbehavior
+	•	Student Ben is a “problem” student
+	•	  Guidance counselors are perceived to be “almighty and omniscient” 
+	•	The parents of Students Ben must be of the delinquent type
+	•	A teacher combined several subject areas in order to focus on a single concept for interdisciplinary teaching. Which strategy/method did he use?
+	•	Unit method 				 
+	•	Thematic instruction 	
+	•	  Problem entered learning			
+	•	Reading-writing method 
+	•	Which is a major advantage of curriculum-based assessment?
+	•	It tends to focus on anecdotal information on student’s progress
+	•	It is based on a norm referenced measurement model 
+	•	  It is informal in nature 
+	•	It connects testing with teaching
+	•	A school Division Superintendent was enthusiastically lecturing on the Accreditation Program for Public Elementary Schools (APPES), its benefits and demands. Thinking of its many demands, most of the school heads were not very happy about it and the older one were whispering “we have very reason to retire soon.”
+What does this tell about the change process? 
+	•	People resist change for no reason 
+	•	People tend to resist change 
+	•	  Resistance to change is insurmountable 
+	•	Leadership can affect the desired change in persons despite opposition from the persons themselves. 
+	•	In the problem solving method of teaching, which is the primary role of the teacher?
+	•	Clarifier 		c. Observer
+	•	Judge 		d. Director 
+	•	To educate the child for freedom is to educate him/her to:
+	•	 	Respond to others 
+	•	Respond to himself/herself 
+	•	Do as he/she pleases
+	•	Live as he/she desires 
+	•	II and III		c. I and II	
+	•	I and III		d. I and IV
+	•	I want to engage my students in small group discussion. Which topic lends itself to a lively discussion? 
+	•	The meaning of the law of supply and demand 
+	•	Rules on subject-verb agreement 
+	•	  The law of inertia 
+	•	The exclusion of Pluto as a planet
+	•	In which of the following would programmed learning to be most likely to be found? 
+	•	In a class divided into small groups 
+	•	Independent study 
+	•	  In dyadic groups 
+	•	In a class where teacher tries to individualized instruction 
+	•	A master teacher, the resource speaker in an in-service training, presented the situated learning theory and encouraged her colleagues to apply the same in class. Which did she not encourage her colleagues to do? 
+	•	Apprenticeship 
+	•	Learning as it normally occurs 
+	•	  Authentic problem solving 
+	•	Decontextualized teaching 
+	•	Which is the ultimate aim of classroom management?
+	•	To set up condition that brings about effective teaching and learning 
+	•	To secure conformity to rules with ease
+	•	  To make children realize that they cannot do everything they want
+	•	To remove the physical condition in the room 
+	•	Under which teaching strategy does a School’s division practice of assigning a Girl Scout to serve as Superintendent of the Day or Mayor of the Day for leadership training fall?
+	•	Panel discussion 	
+	•	Symposium		
+	•	  Simulation 
+	•	Dramatization 
+	•	Which approach makes you think of your thinking? 
+	•	Constructivist	c. Cognitive 
+	•	Metacognitive	d. Integrative
+	•	The grades make valid indicators of students’ achievements. Which process should be observed?
+	•	Explaining the meaning of marks and grades
+	•	Defining the course objective as intended learning outcomes 
+	•	  Adopting letter grades such as A, B, C and D
+	•	Giving objective type of tests 
+	•	Who are not covered by the Code of Ethics of Professional Teachers?
+	•	All full time or part time public and private school teacher and administrator
+	•	Teachers of academic, vocational, special, technical or non-formal institution 
+	•	Teacher in the tertiary level 
+	•	Teacher in all educational institutions at all levels 
+	•	Which of the UNESCO’s four pillars of education is most related to peace education?
+	•	Learning to do 	 
+	•	Learning to know 	
+	•	Learning to live 
+	•	Learning to be 
+
+	•	The failure of independent study with most Filipino students may be attributed to students’ ______.
+	•	high degree of independence 		 
+	•	ambiance 		
+	•	unpreparedness for schooling		
+	•	high degree of dependence on authority 
+	•	When you use the overhead projector for topic presentation, point to the ______.
+	•	OHP slide 		c. OHP screen
+	•	OHP light 		d. Projection wall 
+	•	Where do you make the correction of your notes while using the overhead projector?
+	•	On the slide 
+	•	On the overhead projector 		 
+	•	  On the projector wall 
+	•	On the screen			
+
+	•	Authority comes from God and is meant to:
+	•	Help those given the authority to do their task 
+	•	Distinguish those with authority from those without 
+	•	  Be lorded over others 
+	•	Make the subjects of authority recognize their superiors
+	•	For a discussion of a topic from various perspectives, it is best to hold a/an ______.
+	•	Brainstorming 	c. Debate
+	•	Symposium 		d. Panel discussion
+
+	•	A Principal tells her teacher that training in the humanities is most important. To which educational philosophy does he adhere?
+	•	Perennialism 	c. Essentialism 
+	•	Existentialism 	d. Progressivism 
+	•	Jonna, a principal, shares this thought with her teachers. “Subject matter should help students understand and appreciate themselves as unique individuals who accept complete responsibility for their thoughts, feelings and action.” From which philosophy is this though based?
+	•	Essentialism 	c. Progressivism
+	•	Perennialism 	d. Existentialism 
+	•	Who stressed the idea that students cannot learn if their basic needs are not first met?
+	•	Maslow 		c. Wertheimer
+	•	Miller 		d. Thorndike
+	•	A person, who has had painful experiences at the dentist’s office, may become fearful at the mere sight of the dentist’s office building. Which theory can explain this?
+	•	Classical conditioning 			 
+	•	Generalization 	
+	•	  Operant conditioning			
+	•	Attribution theory 
+	•	One strength of an autobiography as a technique for personality appraisal is that ________. 
+	•	It may be read by unauthorized people 
+	•	It can replace data obtained from other  data-gathering technique 
+	•	  It makes possible the presentation of intimate experiences 
+	•	It gives complete data about the author 
+	•	Which Millennium Development Goal (MDG) goal is related to the state’s goal for quality education?
+	•	1	     b. 2	c. 3		d. 4 
+	•	All of the following describe the development of children aged eleven to thirteen, except:
+	•	Sex differences in IQ become more evident 
+	•	They exhibit increased objectivity in thinking 
+	•	  They shift from impulsivity to adaptive ability 
+	•	They show abstract thinking and judgment 
+	•	One learns Math by building on the Math concepts previously learned. This is an application of:
+	•	Constructivist	c. Physiological  
+	•	Humanist 		d. S-R
+
+	•	The singing of the National Anthem in schools is an offshoot of the philosophy of:
+	•	Nationalism 		c. Naturalism 
+	•	Pragmatism 		d. Socialism 
+
+	•	The environment in order to facilitate learning must be interactive. Which of the following best typifies this kind of environment?
+	•	The child listens to a lecture on fossils given by the teacher 
+	•	The child goes out and discovers for himself some rock or fossil 
+	•	The child summarize the section on fossils in his science textbook 
+	•	The child copies a list of facts concerning fossils on the blackboard 
+	•	Social development means the acquisition of the ability to behave in accordance with:
+	•	Stereotyped behavior 
+	•	Social expectation 			 
+	•	Social insight		
+	•	Universal norms
+
+	•	When an adolescent combines ability to use deductive and inductive reasoning in constructing realistic rules that he can respect and live by, how does he perceive his environment?
+	•	He views the world from his own perspective 
+	•	He sees the world and himself through the eyes of other people 
+	•	He interprets events form a  limited views 
+	•	He sees events apart from himself and other people 
+	•	Who introduced the technique of using the drawing of a man as a measure of intelligence?
+	•	Aristotle 		c. Goodenough
+	•	Herbert		d. Binet 
+
+	•	Which Republic Act provides government assistance to students and teachers in private education?
+	•	RA 7784		c. RA 7836
+	•	RA 6728		d. RA 6675
+
+	•	The authoritarian setting in the Filipino home is reinforced by a classroom teacher who: 
+	•	Is open to suggestions 
+	•	Encourage pupils to ask questions 
+	•	Prescribes what pupils should do 
+	•	Ask open ended questions 
+
+	•	Who among the following believes that learning requires disciplined attention, regular homework, and respect for legitimate authority?
+	•	Essentialist 		c. Progressivist
+	•	Perennialist 		d. Reconstructionist 
+	•	The Constitutional provision on language has the following aim, except:
+	•	To make Filipino the sole medium of instruction 
+	•	To make the regional dialect as auxiliary media of instructions in regional school 
+	•	To maintain English as a second language 
+	•	To make Filipino the national Language and medium of instruction and communication 
+	•	The tendency to emphasize so much on school beautification to the detriment of pupils’ performance illustrates the:
+	•	Filipino’s lack of seriousness 
+	•	Filipino’s love for “porma”
+	•	Filipino’s lack of reflection
+	•	Filipino’s sense of humor 
+
+	•	In order to avoid disgrace, a pregnant, unmarried woman takes drugs to induce abortion. Is she morally justified to do that?
+	•	Yes, it can save her and child from disgrace when he grows up
+	•	No, the act of inducing abortion is bad in itself 
+	•	No, the unborn child cannot be made to suffer the consequences of the sins of his parents 
+	•	No, it is better to prevent the child from coming into the world who will suffer very much due to the absence of a father 
+	•	In which way does heredity affect the development of the learner?
+	•	By placing limits beyond which the learner cannot develop 
+	•	By providing equal potential to all 
+	•	By compensating for what environment fails to develop 
+	•	By blocking the influence of environment 
+	•	The cultivation of reflective and meditative skills in teaching is an influence of: 
+	•	Taoism 		c. Confucianism 
+	•	Shintoism 		d. Zed Buddhism 
+
+	•	A child refuse to obey orders or displays negativism as a development trait. How may you best handle him?
+	•	Detain him after office hours for him do to what he has been ordered to do 
+	•	Take every opportunity to praise him for every positive attitude display 
+	•	Insist on compliance to the same degree required of pupils
+	•	Avoid giving him orders if you do and he objects take back the order 
+	•	Which term refers to the collection of students’ products and accomplishment for a period of evaluation purposes?
+	•	Portfolio 		  c. Anecdotal record 
+	•	Observation report 	  d. Diary 
+
+	•	For comparing and contrasting which graphic organizers is most appropriate?
+	•	Cycle 		c. Story map 
+	•	Web 		d. Venn Diagram
+
+	•	Laging UMUUKILKIL sa isipan ng ama ang nasirang pangako ng anak.
+	•	Sumasagi 		c. Bumubuhay 
+	•	Gumugulo 		d. Sumasapi 
+	•	Huwag kang maniniwala sa bulaklak ng kanyang matamis na dila: 
+	•	Ito’y panunukso 				 
+	•	Ito’y pambobola 	
+	•	Ito’y pagbibiro		
+	•	Ito’y pagsisinungaling 
+
+	•	If a resilient child with superior intelligence is reared in a poor environment the probable outcome would be:
+	•	No change in IQ because environment deprivation has nothing to do with intelligence
+	•	Mental retardation since he is culturally deprived 
+	•	Slight change in IQ although he can overcome frustration and obstacle 
+	•	Great change in IQ because he is culturally deprived 
+	•	Which of the following is usually considered the most important factor in a child’s observable classroom behavior?
+	•	Intelligence 	  c. Self concept 
+	•	Heredity 	  d. Cultural background 
+
+	•	Section 5, Article XIV, of the Constitution states that academic freedom shall be enjoyed in: 
+	•	Public assemblies 				 
+	•	All institution of higher learning 
+	•	State colleges and universities 	
+	•	All levels of learning	
+
+	•	A teacher who subscribes to the pragmatic philosophy of education believes  that experience should follow learning in her teaching, she therefore exerts effort in:
+	•	Encouraging learners to memorize factual knowledge 
+	•	Providing learners opportunities to apply theories and principles 
+	•	Equipping learners with the basic abilities and skills 
+	•	Requiring learners full mastery of the lesson 
+
+	•	As a parent and at the same time a teacher, which of the following will you do to show your cooperation to a PTA project in your school to be financed with the proceeds of the sales of the school canteen where food prices are little bit higher?
+	•	Bring food for you and your children, but always make it a point to buy in the school canteen
+	•	Buy all your food in the school canteen but request for a discount 
+	•	Bring food enough for you and your children but do not eat in the canteen 
+	•	Buy all your food from the school canteen even if you cannot afford to do every day
+	•	How can you help a habitual borrower of money get rid of his habit?
+	•	Let him do something for you in return for the money you lent him 
+	•	Direct him to others 
+	•	Do not lend him anymore 
+	•	Ask for a collateral for the cash he is loaning 
+	•	Periodic checks on student seatwork with a smile and pat on the shoulder effectively reinforce good study habit is an example of:
+	•	Discrimination reinforcement 
+	•	Variable-ratio schedule 
+	•	Continuous reinforcement 
+	•	Fixed interval and variable-interval schedule 
+	•	A person strives to work at a given task because of a need. Which of the following situations can make a person strive to meet his needs?
+	•	Minimize the unpleasant consequences of student involvement 
+	•	Utilize your own opinion as  teacher in making final decisions in the classroom 
+	•	Use unfamiliar materials as examples in order to initially arouse their curiosity 
+	•	Ask pupils to submit test questions or reactions which you can select topics
+	•	Which is not a characteristic of a democratic discipline?
+	•	Child has opportunity to expense his/her opinion 
+	•	Child’s given punishment is related to the misdeed
+	•	Child understands the meaning of rules 
+	•	Child obeys blindly 
+	•	Who among the following stressed the processes of experience and problem solving?
+	•	Dewey 		c. Hegel
+	•	Aristotle 		d. Plato 
+	•	Which of the following reasons of measuring student achievement is not valid?
+	•	To prepare feedback on the effectiveness of the learning process
+	•	To certify that students have attained a level of competence in a subject area 
+	•	To discourage students from cheating during test and getting high scores
+	•	To motivate students to learn and master the materials they think will be covered by the achievement test 
+	•	Which characterizes the perfectionist type of students?
+	•	Does not volunteer or initiate 
+	•	Give up easily 
+	•	Rarely complete tasks 
+	•	Often anxious, fearful or frustrated about quality of work 
+	•	When a school decides to work on a thematic curriculum which should be out of the picture?
+	•	Peer collaboration 				 
+	•	Integration 		
+	•	Team teaching			
+	•	Competition 
+	•	Teacher Mary wants to teach her pupils the technique on reading for information. Which technique should be used?
+	•	Text structure 	c. Story map 
+	•	Prior knowledge 	d. SQ3R
+	•	In instructional planning, which among these three: unit plan, course plan, lesson plan is (are) most specific? _________ plans. 
+	•	Course and lesson 	c. Lesson 
+	•	Course 		d. Unit
+	•	The use of drills in the classroom is rooted on Thorndike’s law of: 
+	•	Readiness		c. Effect  
+	•	Exercise 		d. Belongingness
+	•	Positive interdependence as an element of collaborative learning means that the students must:
+	•	Learn to depend on each other to achieve a goal 
+	•	Depend on the diligent students 
+	•	Help one another in the individual test for everyone to pass
+	•	Be grouped heterogeneously 
+
+	•	Which computer seems to have the most potential for the classroom?
+	•	Mainframe  computer 
+	•	Minicomputer 		
+	•	Microcomputer			
+	•	LPC
+
+	•	A teacher notices glaring wrong pronunciation of vowel sounds among her students necessitating more practice. Which of the following activities would be most helpful?
+	•	Dictionary use 	c. Assignments 
+	•	Review 		d. Drill 
+
+	•	What storage device is significantly more efficient in holding information?
+	•	Hard disk 		c. Floppy disk 
+	•	Software 		d. Audio cassette 
+	•	The Filipino tendency to resort to the easy way out from a term paper as a course requirement by hiring a ghost writer or by passing a photocopied term paper provide which Filipino traits?
+	•	Anticipation 		c. Pakikisama
+	•	Ambivalence 		d. Lack of discipline
+	•	“No pain, no gain.” This means that:
+	•	One should be penitent every Friday by carrying his cross
+	•	Only those willing to carry the crosses imposed can share the joy of life
+	•	The more suffering in this life, the more one is assured of heaven 
+	•	One should look for suffering to save himself/herself 
+	•	Which trust on value formation is meant to help the students make use of their thinking and scientific investigation to decide on topics and questions above values?
+	•	Value inculcation    c. Value clarification
+	•	Analysis                d. Moral development 
+
+	•	Which interactive teaching should be avoided?
+	•	Using multiple response strategy 	
+	•	Using “put down” strategy 		
+	•	Asking more divergent questions	
+	•	Asking more evaluative questions 
+
+	•	Rights which cannot be renounced or transferred because they are necessary for the fulfillment of man’s primordial obligations are called:
+	•	Alienable rights 	c. Inalienable rights 
+	•	Perfect rights 		d. Acquired rights
+	•	Which is in line with equitable access to education but runs counter to quality? 
+	•	Selective retention of students 
+	•	Deregulated tuition fee hike 
+	•	Open admission 
+	•	Program accreditation 
+	•	A negative discrimination index means that:
+	•	The items could not discriminate between the lower and upper group 
+	•	More from the lower group answered the test items correctly 
+	•	More from the upper group answered the test item correctly 
+	•	Less from the lower group got the test item correctly 
+
+	•	Your teacher is of the opinion that the world and everything in it are ever changing and so teaches you the skill to cope with the changes. What is his governing philosophy?
+	•	Experimentation 	c. Realism 
+	•	Existentialism 	d. Idealism 
+
+	•	For brainstorming to be effective which one should be out?
+	•	Making use of the others ideas shared 	 
+	•	Teacher’s judge mental attitude 	
+	•	Non-threatening atmosphere	
+	•	Openness to idea
+
+	•	Which statement on spaced and massed learning is correct?
+	•	Massed learning is better than spaced learning 
+	•	Massed learning is as effective as spaced learning 
+	•	Spaced learning is better than massed learning 
+	•	Both massed learning and spaced learning are not effective 
+
+	•	Which of the following measures should a teacher do to a principal whom she would like to file a case of sexual harassment without violating the relationship of the teacher and her superiors?
+	•	Write an anonymous letter to a higher school  official to denounce the superior 
+	•	Present the case before a competent authority and prepare to prove the charge 
+	•	Call a parent-teacher meeting and denounce the superior
+	•	Encourage the other teachers and students to hold a demonstration to oust the superior 
+
+	•	Pick out the situation that illustrates the duty of a new teacher to the state:
+	•	Take a long vacation which she firmly believes she deserves after four years of diligent study before taking the examination  for teachers 
+	•	Take the licensure examination for teacher and an oath to do her best to help carry out the policies of the state 
+	•	Apply for teaching job where eligibility is not required to gain teaching experience before taking the teachers board examination 
+	•	Prepare for the wedding she and her boyfriend have long planned to able to raise a family with children which they plan to rear as good citizen of our country 
+	•	Parents are up in arms on the telephone bills that pay for sex calls. What is the solution to this problem?
+	•	The telephone company is to blame for this 
+	•	Parents, school and students should discuss this openly 
+	•	The government restriction have no teeth 
+	•	Parents allow this to make their children modern 
+
+	•	Cooperative is encouraged in as many groups as possible. What agency controls the different cooperatives?
+	•	Security and Exchange Commission 	
+	•	Department of Local Government 	
+	•	Commission on Audit		
+	•	Bureau of Cooperative
+
+	•	Society and media know drinking starts off drug addiction. What should be discussed in schools?
+	•	Nobody drinks at home except father 
+	•	Drug addiction has been traced to drinking wine 
+	•	TV ads show drinking is a source of fellowship 
+	•	High taxes on liquor will be deterrent to eventual drug use 
+	•	Cooperatives have branched out to consumers cooperative. Schools have included the concepts of cooperatives. Where is it practiced?
+	•	School book stores 				
+	•	Schools uniform purchases		
+	•	School canteen 		
+	•	Class stores
+
+	•	A student collapsed in her social studies class. It was found out that he did not eat her lunch. What principle is shown in the situation?
+	•	Psychological need 				 
+	•	Physiological need	
+	•	Psychosomatic		
+	•	Safety need 
+	•	The main function of a philosophy of education is to:
+	•	Aid the learner to build his own personal philosophy 
+	•	Reconsider existing educational goals in the light of society’s needs 
+	•	Provide the academic background prerequisite to learning 
+	•	Define the goals and set the direction for which education is to strive 
+	•	Which technique/s enable/s a teacher to identify and eventually assists students with interpersonal difficulties?
+	•	Anecdotal record 	  c. Cumulative record 
+	•	Personal inventory 	  d. Sociogram 
+	•	Teachers and students can participate in levels of computer use. Give the order of computer use from simplest to complex?
+	•	Computer competency, computer literacy, competency expertise
+	•	Computer literacy, computer competency, computer expertise 
+	•	Computer literacy, computer expertise, computer competency
+	•	Computer competency, computer expertise, computer literacy 
+	•	Which one is considered the “Brain” of the microcomputer?
+	•	CPU 			c. Video Screen
+	•	Software 		d. Keyboard 
+
+	•	A group activity wherein one group representative presents the output to the bigger group rather than individual pupils presenting the output is known as:
+	•	Consensus decision		c. Jury trial  
+	•	Composite report 		d. Agenda 
+
+	•	In the formulation of classroom regulations, which of the following should a teacher refrain from doing?
+	•	State classroom regulation as clearly as possible 
+	•	Teacher and the class should make as many regulations as possible 
+	•	Enlist student aid in the formation of classroom regulation 
+	•	Enforce classroom regulations consistently and fairly 
+
+	•	Zero standard deviation means that:
+	•	The students scores are the same 
+	•	50% of the scores obtained is zero 
+	•	More than 50% of the score obtained is zero 
+	•	Less than 50% of the scores obtained is zero 
+
+	•	Which is the least authentic mode of assessment?
+	•	Paper-and-pencil test in vocabulary 
+	•	Oral performance to assess student’s spoken communication skills 
+	•	Experiments in science to assess skill in the use of scientific methods 
+	•	Artist production for music or art subject 
+
+	•	In what period of a child is physical growth fastest?
+	•	Prenatal period 				 
+	•	Early adolescence	
+	•	Early childhood		
+	•	Prenatal and early adolescence
+
+	•	How does fear affect the voluntariness of an act?
+	•	Makes the act involuntary 		
+	•	No effect at all 	
+	•	Increases voluntariness			
+	•	Lessens but not destroy voluntariness
+
+	•	A group of people asserts that their culture is superior to another. This exemplifies:
+	•	Cultural gap 					 
+	•	Ethnocentrism 
+	•	Cultural conflict 	
+	•	Norm conflict	
+
+	•	A test consists of a graph showing the relationship between age and population. Follow a series of true-false items based on the graph. Which type of test does this illustrate?
+	•	Laboratory exercise				  
+	•	Interpretative 
+	•	Problem solving 	
+	•	Performance		
+	•	Which curricular move served to strengthen spiritual and ethical values?
+	•	Integration of creative thinking in all subject 
+	•	Introduction of Value Education as a separate subject area 
+	•	Reducing the number of subject areas into the skill subject 
+	•	Re-introducing Science as all subject in Grade 1
+	•	A teacher is a facilitator of learning and of the development of the youth. Which practice is not keeping with his role as facilitator?
+	•	Considers the multiple intelligences of learners 
+	•	Humiliates misbehaving pupils 
+	•	Dialogs with parents and with other members of the community 
+	•	Keeps himself abreast with educational trends 
+	•	Which one indicates a teacher’s genuine enthusiasm and pride in teaching?
+	•	Sticking to teaching for the moment that there are no better offers 
+	•	Telling everyone that he went to teaching for there was no other choice then 
+	•	Engaging himself in continuing professional education 
+	•	Belittling the remuneration one gets from teaching 
+	•	In writing performance objective which word is not acceptable?
+	•	Manipulate 		c. Delineate
+	•	Integrate 		d. Comprehend 
+	•	When is giving praise ineffective? When it?
+	•	Uses the accomplishment of peers as the context for describing a student’s present accomplishment 
+	•	Provides information to student’s about their competence and the value of their accomplishment 
+	•	Focuses students attention on her own task relevant behavior 
+	•	Shows spontaneity, variety and other signs of credibility 
+	•	Which statement applies when scores distribution is negatively skewed?
+	•	The mode corresponds to a lower value 
+	•	The median is higher that the mode 
+	•	The mode and median are equal 
+	•	The mean corresponds to a high value 
+	•	The use of the process approach gives the student the opportunity to:
+	•	Learn to their own 				
+	•	Apply the scientific method 
+	•	Make use of laboratory apparatuses	
+	•	Learn how to learn
+	•	A comprehension skill of higher level which may be inferred or implied from reading is: 
+	•	Picking out the main idea 			 
+	•	Drawing conclusion 
+	•	Nothing specific details 
+	•	Following direction				
+	•	In the Preamble of the Code of Ethics of Professional Teachers, which is not mention about teachers?
+	•	Dully licensed professionals 			
+	•	Posses dignity and reputation 	
+	•	LET passers		
+	•	With high moral values 
+	•	What does a skewed score distribution mean?
+	•	The scores are concentrated more at one end or the other end 
+	•	The mode, the mean and the median are equal 
+	•	The mean and median are equal 
+	•	The scores are normally distributed 
+
+	•	What is implied by a negatively skewed score distribution?
+	•	The scores are evenly distributed from the left to the right 
+	•	Most pupils are underachieves 
+	•	Most of the scores are high
+	•	Most of the scores are low 
+
+	•	A teacher discovers that a product of a certain bottling company brings about damage to teeth. Much as he wants to share the products of his research, he could not because of harassment from all sides. Which teacher’s right is violated?
+	•	Right to property 			 
+	•	Academic freedom				
+	•	Right to one’s honor		
+	•	Right to make a livelihood 
+	•	Why can the calculator do arithmetic? Because: 
+	•	A computer inside the calculator tells it how 
+	•	A watch inside direct it 	
+	•	A typewriter inside does it	
+	•	A TV inside shows it 
+	•	On which constitutional provision is the full or partial integration of capable deaf and blind students in the classroom based? The provision on:
+	•	Protecting and promoting the right of all citizen to qualify education 
+	•	Providing citizenship and vocational training to adult citizen 
+	•	Academic freedom 
+	•	Creating scholarship for poor and deserving students 
+	•	Teaching in the cognitive, psychomotor and effective domains is based on the concept that the learner is a:
+	•	Moral and feeling being 			
+	•	Maternal and an acting being 	
+	•	Thinking, feeling and acting being	
+	•	Spiritual and maternal being 
+	•	Both Muslim and Christian value marriage but the Muslim practices polygamous marriage while the Christian practices monogamous marriage. What is this called?
+	•	Cultural relativism 	c. Ethical relativism 
+	•	Acculturation 		d. Enculturation 
+	•	Teacher wants to compare 2 concepts. With which technique can accomplish this best?
+	•	K-W-L technique 	c. Spider web 
+	•	Venn diagram 	d. Histogram
+	•	To build a sense of pride among Filipino youth what should be done?
+	•	Re-study our history and stress on our achievements as a people 
+	•	Set aside the study of local history 
+	•	Re-study our history from the perspective of our colonizers 
+	•	Replace the study of folklores and myths with technical subjects 
+	•	When necessary conditions are present, the use of inductive method is preferred because:
+	•	It gives the teacher more time to rest 
+	•	There is greater active participation on the part of the pupils 
+	•	It needs only few instruction materials 
+	•	Academic time is used wisely 
+
+	•	Which is the best reason why teacher begins a lesson in Math by checking and reviewing on the previous day’s assignment and provides practice and drills?
+	•	Check if parents guide their children in the making of assignment 
+	•	Make sure that the students understand the pre-requisite skills of the lesson 
+	•	Prepare the students for the mastery test 
+	•	Make learning interesting and enjoyable for students 
+
+	•	Which is a selective reading technique meant at getting at important facts very fast?
+	•	Skim reading 	c. Oral reading 
+	•	Scanning 		d. Silent reading 
+	•	For counseling to be successful which assumption must be avoided?
+	•	The environment must provide assurance of confidentiality 
+	•	The counselor tells the student what to do 
+	•	The student is willing to participate in the process
+	•	The counselor must be able to relate to the student 
+
+	•	Which technique is most appropriate when a teacher wants a group to agree on a plan of action?
+	•	Composite report 				 
+	•	Consensus decision making 
+	•	Symposium 	
+	•	Agenda	
+				
+	•	What term applies to the search for related literature by computing access of databases of discs kept in libraries?
+	•	Compact discs computer research	
+	•	On line research 				
+	•	Manual research		
+	•	Computer research 
+
+	•	What best indicates the effectiveness of classroom activities?
+	•	The laughter and enjoyment of students 
+	•	The application of concept learned in daily life 
+	•	The utilization of varied techniques and approaches 
+	•	The variety of instructional materials used 
+
+	•	The main purpose of the compulsory study of the Constitution in Philippine schools is to: 
+	•	Develop the students into responsible thinking citizens 
+	•	Acquaint students with the historical development of the Philippine Constitution 
+	•	Prepare students for law making 
+	•	Make constitutional experts of the students
+	•	Some students who are high in the scholastic aptitude test have failed in college. Some who are below the standards set for admission but who for various reasons were admitted, attained satisfactory standings. This proves that:
+	•	Human beings are certainly predictable 
+	•	Admission tests are not accurate, hence should not be used 
+	•	Aptitude tests do not measure all factors important for success
+	•	Aptitude test can be perfectly relied on 
+	•	If the teachers pattern in questioning consists of calling on a student then asking the question:
+	•	All students may be encouraged to participate 
+	•	The student called to answer may be able to think well of his answer 
+	•	The rest of the class may just dictate the answer 
+	•	The rest of the class may not engage themselves in thinking of the answer 
+	•	Freud expounded that there is a period when young girls experience rivalry with their mother for their father’s affection. This is called: 
+	•	Electra complex  
+	•	Oedipus complex				
+	•	Achilles syndrome				
+	•	Cassandra syndrome 
+	•	Education is a lifelong process. This simply means that education: 
+	•	May take place formally or informally to enable the individual to grow 
+	•	May take place anywhere and anytime the individual so desires 
+	•	Is a continuous process of experiencing and reorganizing experiences 
+	•	Take place in the school where the individual is exposed, self contained experiences
+	•	The tendency to imitate elders is very strong in the early childhood stage. Teachers should therefore be very good: 
+	•	Counselors 	  c. Disciplinarians 
+	•	Role models    d. Facilitators of learning 
+	•	How is Values Education offered in the National Secondary Education Curriculum?
+	•	Emphasized in Science and Technology 
+	•	Integrated in all subject areas
+	•	As a separate subject 
+	•	Integrated with Technology and Home Economics 
+	•	The NSEC orients secondary education to: 
+	•	The teaching of the national symbols 
+	•	Health values development 
+	•	The development of competencies and values for social living  
+	•	National development requirement and reflects search based direction 
+	•	The child cannot distinguish abstracts during the sensory motor of development. Which of these techniques should a teacher apply to accommodate learning?
+	•	Make use of individualize instruction 
+	•	Explain the lesson very well 
+	•	  Utilize concrete objects to clarify concept 
+	•	Provide variety of educational toys
+	•	Which of these systems of learning includes ways and methods which are used in preserving and building certain within cultural communities?
+	•	Non-formal learning 			 
+	•	Multi-level learning 	
+	•	  Cultural learning			
+	•	Indigenous learning 
+
+	•	Which of the following statement is true in the use of experiments and demonstrations in teaching Science: 
+	•	It is valuable if used in the context of a lesson that related observation to other information 
+	•	It should be encouraged in elementary school since the concept the encompass are difficult for your children 
+	•	  It is as valuable as teaching by lecturing 
+	•	It is less valuable than teaching through inquiry and discussion 
+
+	•	Identical twins are more alike than fraternal twins. Which of the following statement principle supported by this?
+	•	Environment affects both fraternal and identical twins
+	•	Intelligence hinges in physical structure 
+	•	Heredity has a part in determining intelligence 
+	•	Intelligence is determined partly by pre-natal nutrition
+
+	•	In testing which of the following is referred to as cultural bias?
+	•	Some culture do better on test than others 
+	•	Test items are more familiar with some culture 
+	•	  Test will show who is more cultured 
+	•	Cultured people do better on tests
+	•	Which is the most obvious and familiar way of reporting variability?
+	•	Standard deviation 
+	•	Range between highest with some culture 
+	•	  Standard error of the mean		
+	•	Distribution of raw scores
+	•	The theory of identical elements in learning holds that transfer is facilitated when the:
+	•	Teacher uses different teaching devices 
+	•	Learner has a memory of specific responses
+	•	  Development task is easily identified
+	•	Experience is similar to the application situation
+
+	•	If this need is not met, the adolescent tends to be critical and always tries to find fault. This is the need:
+	•	For adventure 	
+	•	For recognition		 
+	•	  To belong				
+	•	For material security
+	•	The way a child talks and walks manifest gestures that have been learned from models he had been exposed. This explains what influence?
+	•	Affective 		c. Social
+	•	Insight 		d. Cognitive	
+
+	•	Audio-visual aids are used in classroom teaching to __________.
+	•	Help make learning more permanent 	
+	•	All of these 		
+	•	  Help clarify important concept		
+	•	Arouse and sustain student’s interest 
+	•	Which of the following is the most important purpose for using achievement test? To measure the _________.
+	•	Quality and quantity of previous learning 
+	•	Quality and quantity of previous teaching 
+	•	  Educational and vocational aptitude	
+	•	Capacity for future learning
+	•	Which of the different types of test covers a wide variety of objectives?
+	•	True-false 		  c. Matching 
+	•	Multiple choice 	  d. Essay 
+	•	In a multiple choice test, keeping the options brief indicates ____________.
+	•	Inclusion in the item irrelevant clues such as the use  in the correct answer 
+	•	Non inclusion of option that mean the same 
+	•	Plausibility and attractiveness of the item 
+	•	Inclusion in the item any word that must otherwise repeated in each response
+	•	Which of these criteria is the most important in test constructions?
+	•	The stem should contain the central problem 
+	•	Items should be congruent with the objectives
+	•	  A table of specification should be prepared 
+	•	Options should be of almost the same length
+	•	Which of these philosophers is reflective of that of Dewey’s which stresses the development of an individual capable of reflective thinking specifically that of being able to solve the problem be faces individually or collectively?
+	•	Disciplinarianism 	 c. Experimentation 
+	•	Developmentalism 	   d. Rationalism 
+	•	Which of the following abilities is stressed by humanistic education?
+	•	Learn the different philosophies of education 
+	•	Develop man into a thinking individual 
+	•	  Enjoy the great works of man such as the classics 
+	•	Make man distinctly civilized, educated and refined 
+	•	An appreciation lesson is one that is designed to lead the class to conduct and enjoy something. Which of the following statements closely approximate the meaning of the above?
+	•	An appreciation lesson should be a lesson in values 
+	•	Appreciation lessons help pupils weigh and clarify values 
+	•	  One cannot fully appreciate what one does not understand or enjoy 
+	•	A teacher should plan lessons that will guide children to appreciate what is beautiful 
+	•	Which of the following is the best time for a teacher to set up routine activities that will contribute to effective classroom management?
+	•	As soon as the students have established 
+	•	Daily at the start of the session 	
+	•	  During his homeroom days			
+	•	On the every first day of school 
+
+	•	In large classes where little of the work pupils can be individualized, the most effective and practical ways to individualize instruction is to: 
+	•	Devise group activities which afford every pupils an opportunity to work at his own 
+	•	Give the pupils freedom to launch individual projects 
+	•	  Assign homework and check it regularly 
+	•	Assigned program material for out-of-class hours 
+
+	•	Which of these is the most important principle that a teacher should follow in initiating a program with positive reinforcement?
+	•	Make sure the reward comes immediately after the appropriate behavior
+	•	Punish negative behavior and reward positive behavior
+	•	  Provide regular opportunity for socially acceptable behavior 
+	•	Consider peer approval and recognition
+ 
+	•	The trend of focusing attention on the child’s interests, abilities and needs and on the improvement of community living necessitate the use of the: 
+	•	Discovery approach 			
+	•	Conceptual technique 	
+	•	  Integrative approach			
+	•	Project method 
+
+	•	The best way the teacher can be of the appropriateness of an instructional materials is to: 
+	•	Try it out before using it in class	
+	•	Consider its technical quality 		
+	•	  Consider its availability			
+	•	Consider its cost 
+
+	•	Tasks analysis involves the breaking down of a learning task into subtasks or sub skills. Given a task to retell a story, which of the following skills is not needed?
+	•	To disseminate information 		
+	•	To outline a selection 	
+	•	  To identify topic sentences			
+	•	To arranged  events in sequence
+
+	•	You are assigned to teach students with varied abilities. You want to teach a more homogenous grouping. Which type of grouping will tend to benefit your students?
+	•	Mixed ability grouping 			 
+	•	Low ability group 	
+	•	Within class ability grouping	
+	•	High ability grouping 
+
+	•	Which of the following examples illustrate the use of questions to focus pupils attention on the key points of the lesson?
+	•	What is Rizal Park known for?
+	•	Why are machine made goods cheaper than those made by hand?
+	•	  Have you ever enjoyed watching the clouds on a bright day?
+	•	Who came while I was writing on the blackboard?
+
+	•	The new teacher entered a noisy classroom. She shouted immediately at the students desperately trying to get order and discipline. Since then the teacher has not controlled the class. Which is the most probable cause of the teacher’s failure?
+	•	The students reaction to the teacher is the consequence of her behavior
+	•	Rules are not defined and procedures to sustain order is not put into place
+	•	  The new teacher wants to show the class who is authority 
+	•	The class wants to test the ability and patience of the teacher
+
+	•	The educational implementation of research findings relative to the ability of dull learners and bright learners to organize and generalize is for teacher:
+	•	To make the bright learners guide the dull ones in learning to generalize 
+	•	To make the bright learners to generalize and the dull ones to memorize 
+	•	  To give the dull learners to more concrete experiences to serve as basis for generalizing 
+	•	To give both the dull and bright learners concrete and abstract experiences to serve as basis for generalizing
+
+	•	Which of the following will do the first to establish good class management?
+	•	Discuss the required rules for proper class behavior 
+	•	Discuss the work plan for the year 
+	•	  Prepare a seat plan 
+	•	Train the class in the distribution of material
+
+	•	A student was diagnosed to have a high IQ but is failing in his academic subject. What should the teacher do to help him?
+	•	Talk to his parents
+	•	Examine his study habits 
+	•	Talk the student and find out his problem 
+	•	Refer him to the guidance counselor 
+
+	•	Which is the true foundation of the social order?
+	•	Strong, political leadership 
+	•	The reciprocation of rights and duties 
+	•	  Equitable distribution of wealth 
+	•	Obedient citizenry 
+	•	When do test, inventories and career information become effective for counseling services?
+	•	When the data generated are interpreted on time by professionally competent person
+	•	The psychological test result are still valid and reliable 
+	•	  When the records are updated 
+	•	When the records are kept for ready reference when needed
+	•	Which of the following is a major advantage in using arithmetic mean?
+	•	It is more commonly used than other measures
+	•	It is simple to compute 
+	•	  It discriminates between the lowest and the lowest 
+	•	It is more than stable than the median 
+	•	When I am engaged in an external criticism in a historical research, what am I occupied with? The _______ of the document. 
+	•	Author		c.  Source 
+	•	Authenticity		d. Accuracy
+	•	Learners often find it much easier to fit into a new social situation when given encouragement and support. How can this be done?
+	•	By discovering his new interest 
+	•	By giving him room responsibility 
+	•	By assigning “peers or Buddies” to him 
+	•	By giving him special help 
+	•	Who expounded on the need to study the child carefully for individualized instruction?
+	•	Da Feltre 		c. Boccacio
+	•	Erasmus 		d. Ascham 
+	•	Which of the following should a teacher do if she cannot pay the monthly installment of an appliance she got from a department store in their town?
+	•	Reject any notice of demand for payment to make the impression that she did not receive 
+	•	Move to another neighborhood to escape payment 
+	•	Inform the manager of the store personally and make a satisfactory arrangement of payment on or before the due date of payment 
+	•	Offer the return of the used appliance to the store on the condition that she will be refunded on the monthly installment she paid 
+	•	Which of the following will you recommended to a senior high school scholar who is impregnated by a fellow student?
+	•	Tell her parent about her condition 
+	•	Stop schooling until after she gives birth 
+	•	  Direct her to an abortion clinic
+	•	Force her boyfriend to marry her
+	•	The government prescribes a higher percentage on the administration of educational institution to Filipino citizens in order to:
+	•	Minimize the unemployment problem 
+	•	Produce globally competitive graduates 
+	•	  Protect the rights of the citizen 
+	•	Ensure the teaching of Filipino 
+	•	Teacher should bear in mind that the period of greatest mental development is from:
+	•	9 to 12 years 	c. 6 to 9 years	
+	•	12 to 15 years 	d. 3 to 6 years 
+	•	Which of the following is the best situation wherein you can balance responsibility and accountability?
+	•	A teacher paid on an hour basis, takes her time with the subject matter until the end of the period 
+	•	A teacher paid on an hour basis, teaches as much as she could for the duration of the period 
+	•	  A teacher paid on an hour basis, spends most of the time on the latest gossips in showbiz
+	•	A teacher paid on an hour basis, entertain her students with stories until the end of the period 
+	•	You have a pupil who is so talkative, naughty and aggressive that he is a burden to the entire members of the class. How would you remedy this problem?
+	•	Talk to him seriously 
+	•	Call the parents for dialogue 		
+	•	  Report the case to the principal	
+	•	Reprimand him always		
+	•	What should a teacher do before constructing items for a particular test?
+	•	Prepare a table specifications
+	•	Review the previous lessons
+	•	  Determine the length of time for answering it
+	•	Announce to students the scope of the test 
+	•	Under which of the multiple choice type of test can this question be classified? “Which of the following statement expresses this concept in different forms?”
+	•	Association 	c. Difference
+	•	Definition 		d. Cause 
+	•	Of the following types of test which is the most subjective in scoring?
+	•	Matching type 	c. Multiple choice
+	•	Simple recall 	d. Essay 
+	•	In which of these research methods can the researcher control certain variable?
+	•	Experimental 	c. Descriptive
+	•	Ex post facto 	d. Historical 
+	•	During the first grading period, a student obtained failing marks in five academic subjects. Which of the following tests would best explain his performance?
+	•	Mental ability 	c. Attitude
+	•	Personality 		d. Aptitude 
+	•	Measuring the work done by gravitational force is a learning task. At what level of cognition is it?
+	•	Application 	c. Evaluation
+	•	Knowledge 		d. Comprehension 
+	•	Setting up criteria for scoring test is meant to increase their ________.
+	•	Objectively 	c. Validity
+	•	Reliability 		d. Usability 
+	•	Which of the following you will do to an examinee you caught cheating and who offered a certain sum of money to keep quiet?
+	•	Confiscate his test paper and report him to the examination supervisor 
+	•	Motion him to keep quiet and watch for him after the examination 
+	•	  Announce to all examinees the name of the cheater 
+	•	Ignore him but let him feel you saw him 
+	•	Which of the following is the best situation wherein you can balance rights and authority?
+	•	Allow all their only daughter’s suitor to come and go as she pleases
+	•	Caution their only daughter’s choice of a boyfriend 
+	•	  Censor all their only daughter’s suitor 
+	•	Choose a life-partner for their only daughter 
+	•	Classical conditioning theory is always attributed to him for his experiment involving the dog’s salivation as a reaction to the sound of the buzzer.
+	•	Skinner		c. Bandura
+	•	Lewin			d. Pavlov 
+	•	The singing of national anthem is an offshoot of the philosophical ideas of:
+	•	Naturalism		c. Socialism
+	•	Nationalism		d. Pragmatism
+	•	An adolescent combines his ability to use deductive and inductive reasoning in realistic rules that he can respect and live by. When he does this, how does he perceive his environment?
+	•	He sees the world through the eyes of the people
+	•	He interprets events from a limited point of view
+	•	He sees events apart for himself and other people
+	•	He views the world from his own perspective
+	•	Which of the following statement is the main reason why should negative words be avoided in constructing multiple choices tests?
+	•	Might be overlooked
+	•	Stems tends to be longer 			
+	•	More difficult to construct option	
+	•	Increase the difficulty of the test item
+	•	Student David was asked to report to the guidance office. Student David and his classmates at once remark: “What’s wrong?” what does this mean?
+	•	Guidance counselor are perceived to be “almighty and omniscient”
+	•	The parents of student Jay must be of the delinquent type
+	•	Reporting to a Guidance Office is often associated with misbehavior
+	•	Student Jay is a “problem” student
+	•	Which of the following assessment techniques best assess the objective “ plans and designs an experiment to be performed”
+	•	Rating scale 			c. Checklist
+	•	Paper and pencil test		d. Essay
+	•	What type of measure of variation easily affected by the extreme scores?
+	•	Quartile deviation	
+	•	Standard deviation
+	•	Range 			
+	•	Inter quartile range
+	•	A child who is cold towards that people among him might have failed to attain what basic goal based on Erickson’s theory on psychological development? 
+	•	Autonomy		c. Initiative
+	•	Trust			d. Mistrust
+	•	Under the learning to do, which of the following instruments must be acquired so that a person can perform his work effectively?
+	•	Competence		c. Compromise
+	•	Insights		d. Communication
+	•	What do you think would be the actions of a teacher who found out and has proven that his principal is involved in the malversation of funds of their school?
+	•	Malign him trough an anonymous letter
+	•	Present the charge to a complete authority
+	•	Ignore what the teacher has discovered about this action of the principal
+	•	Circulate this issue and let it become a gossip
+	•	Standard deviation is to measure of variations as ______ is to measure of central tendency.
+	•	Quartile deviations 	c. Mean deviation	
+	•	Range			d. Mode
+	•	Which statement is/are true in constructing matching type of test?
+I.  	The option and descriptions not necessarily homogenous
+II. 	Description in Column A and options in Column B
+III.The options must be greater than the description
+IV. The directions must state the basis of matching
+	•	I, II, and III 		c. I, II, and IV
+	•	II, III, and IV		d. I, II, III, and IV
+	•	Which of the following should be AVOIDED in constructing true or false test?
+I.   Verbal clues and specific determiner
+II.  Terms denoting definite degree of amount
+III. Taking elements directly from the book
+IV. Keep true and false statement the same in length
+	•	I and III only 		c. I, II, and IV
+	•	I, II and III		d. II and IV only
+	•	The discriminating index number 15 is 0.44 this means that:
+	•	Equal number of student got the correct answer
+	•	More students from the upper group got the item correctly 
+	•	More students from the lower group got the item correctly
+	•	The test item is very easy
+	•	Some children go through a period of intense appetite when they eat or chew on all sorts of inedible substances. This is called:
+	•	Pica			c. Encopresis
+	•	Enuresis		d. Anorexia
+	•	What is the main advantage of using table of specification when constructing periodic test?
+	•	It reduces the scoring time 			
+	•	It improves the sampling of content areas
+	•	It makes test construction earlier	
+	•	It increase the reliability of the test result	
+	•	If a teacher is an advocate of banking concept in Education he or she viewed student as?
+	•	Clear account to be filled up by the teacher
+	•	Dormant account to be activated by the teacher
+	•	Wobble account to be balanced by the teacher
+	•	All of the above
+	•	Teacher Maechelle is a neophyte teacher. One time a mother of one of her students confronted and maligned her in front of her colleagues. How should conduct Teacher Myla react on this kind of situation?
+	•	Walk away and ignore the mother
+	•	Answer back the mother and malign her too
+	•	Wait until the emotion of the mother subsides and invite her to discuss the concern with the principal or guidance counselor
+	•	Allow the mother to keep on maligning her until it’s her turn to do the same
+	•	Ms. Teodora is always guarded by the principle that she has a foremost responsibility as a teacher. Given the following which do you think is the main responsibility of Ms. Sanchez?
+	•	Ask the challenging question 		
+	•	Guides students in learning process
+	•	Shares responsibility in counseling	
+	•	Inspires student to interesting lessons	
+	•	Which of the following would best describe the role of the schools?
+	•	To educate the citizens
+	•	To educate the citizens to change the society 	
+	•	To fit the citizens into the society		
+	•	All of the above
+	•	Manual aesthetic activities involving attitudes and feelings are primarily expressive of emotions and values not thoughts. An example of this motor skills is:
+	•	Baking a cake with background music 	  
+	•	Saving a board for the wall of a book cabinet 
+	•	Dancing and playing musical instruments	  
+	•	Manipulating a bowling ball to achieve a strike
+	•	Parents and teachers are considered as authorities and models by children at the early childhood stage. What does this statement imply?
+	•	Parent Teacher conference should always be an activity in school
+	•	Parents should enforce strict discipline at home and teachers in school
+	•	Teachers and Parents should serve as role models at all times
+	•	Teachers should demand complete obedience from the learners in school 
+	•	Which of these statements regarding professional’s teachers is the major difference in the professionalization of teachers and teaching as promulgated in Presidential Decree 1006 and in Republic Act 7836?
+	•	Assigned at the tertiary level in both private and state colleges and universities
+	•	Assigned at the elementary and secondary levels in both public and private schools
+	•	Holder of valid professional license and certificate of registration
+	•	Appointed on full-time basis and on permanent status
+	•	Social stratification is greatly developed in the classroom. Which of these activities would be an effective way of avoiding or minimizing this?
+	•	Encourage higher education aspirations among the less privileged pupils
+	•	Provide limited experience to children of less privileged classes
+	•	Assign leadership roles to the children of the upper social class
+	•	Avail the influence of mass media for children of all classes
+	•	The freedom constitution which provided the present philosophy of education was the contribution of the Aquino administration. Which of this statement is NOT consistent with our education philosophy?
+	•	Restore Ethical and moral values
+	•	Appreciate the roles of foreigners on the historical saga of the country
+	•	Foster nationalism and patriotism
+	•	Introduce vocational and scientific efficiency
+	•	In the preamble of the Code of Ethics for Professional Teachers, which of the following teacher descriptions is included in the Code of Ethics of the Professional Teachers? 
+	•	With satisfactory teaching performance	
+	•	Duly licensed professional 			
+	•	Persons of dignity and reputation	
+	•	Passed the Licensure Exams for teacher
+	•	A number of researchers found the effects of maternal employment on children’s achievement are:
+	•	Fully establish    c. Positive and negative
+	•	Negative	    d. Hardly establish 
+	•	Babyhood is often referred to as a “critical period” in the development of personality because:
+	•	Changes in the personality pattern take place
+	•	At this time the foundations are laid upon which the adult personality structure we built
+	•	The brain grows and develops at such an accelerated rate during babyhood
+	•	At the time the baby is exposed to many hazards both physical and psychological
+	•	Research established that complete coordination of motor activities is attained at:
+	•	Childhood stage 	c. Pre-natal stage	
+	•	Infanc			d. Adolescence stage
+	•	Which of these theories holds that human activity is based on the interaction of stimuli and responses?
+	•	Vector 			c. Association
+	•	Social learning	d. Cognitive field
+	•	It is the process by which an organism inherent the characteristics traits of the patients:
+	•	Fertilization 		c. Maturation
+	•	Heredity		d. Development
+	•	When the daughter is completing with the father for the fathers attention, the daughter is said to be experiencing:
+	•	Sexual deviation 	c. Identity crisis	
+	•	Electra complex	d. Oedipus complex
+	•	If children are cooperatively engaged with the teacher in a group project the children will discipline themselves as each member of the group exercises:
+	•	Special interest 				
+	•	Moral compulsion		
+	•	Obedience to the teacher	
+	•	Peer influence
+	•	Operation “Return to the basic” was launched by the department of education, Culture and sports not only to upgrade pupil achievement but also to:
+	•	Emphasize the importance of the 3Rs	
+	•	Develop thinking skills 			
+	•	Encourage pupils to study	
+	•	Serve as the basis for learning continuum
+	•	Which of the following embodies the operation “return to the Basics”?
+	•	National Secondary Achievement Test 
+	•	New Elementary School Curriculum 	
+	•	New Secondary Education Curriculum	
+	•	National Elementary Achievement Test
+	•	In a classroom it is possible to see the teacher doing the following to faci9litate learning. 
+I.  	The class reads a workbook on the characteristics of animals
+II. 	The class copies the characteristics of animals from books
+III. The class goes out to the zoo to observe the animals
+IV. The teacher shows posters of animals
+Which of these teacher’s activities reflects an interactive environment?
+	•	III and IV		c. I and IV
+	•	I and II		d. III only
+	•	As provider for the education act of 1982, how much are the institutions of learning encouraged to set higher standards of quality over and above the minimum required for state recognition?
+	•	Formal education 				
+	•	Academic freedom	
+	•	Voluntary accreditation
+	•	Continuing Professional Education (CPE)
+	•	The following is TRUE in the development of understanding in early childhood except:
+	•	Sensory experiences 				
+	•	Abilities to reason & to see relationship	
+	•	Ability to ask questions	
+	•	Ability to explore their environment
+	•	The first kindergarten also known as “a garden where children could grow” was the product of research by: 
+	•	Froebel		c. Pestalozzi	
+	•	Herbart		d. Rousseau
+	•	Values development is integrated in all subjects in the NSEC while values education is:
+	•	Emphasized in science and technology 
+	•	Offered as a separate subject 		
+	•	Emphasize for creativity and productivity
+	•	Integrated with technology and home economics
+	•	Which of the following is a mark of a good teacher?
+	•	Has the habit of preparing for visual aids
+	•	Has the mastery of the lesson
+	•	Has the control of the class
+	•	Has the capability to implement corporal punishment
+	•	The main function of a philosophy of education is to:
+	•	Aid the learner to build his own personal philosophy
+	•	Define the goals and set the direction for which education is to strive
+	•	Provide the academic background prerequisite to learning
+	•	Reconsider existing education goals in the light of society’s needs
+	•	The control and the administration of all educational institutions shall be vested in the citizens of the Philippines is stipulated in:
+	•	P.D.1006		c. 1987 Constitution
+	•	P.D. 6-A		d. P.D. 176
+	•	During the class reunion of teacher, Eric learned that most of his classmates are successful in their fields. Also, he found out that most of them are wealthy because they have chosen a lucrative profession. Confronted with this situation, how should teacher Eric react?
+	•	Hide to those asked his real profession
+	•	Tell with pride that he is a teacher by profession
+	•	Leave the event so as to avoid being asked about his profession
+	•	Answer not their question concerning his profession
+	•	Teachers being the trustee of the cultural and educational heritage of the nation are under obligation to:
+	•	Promote obedience to the laws of the state
+	•	Promote national pride, cultivate love of country & instill allegiance to the constitution
+	•	Transmit to learners such heritage and elevate national morality
+	•	All of the above
+	•	The principal is very much interested in a quality professional development program of her teachers. Which of the following should she consider to realize this?
+	•	Prescribe by top educational teachers
+	•	Required for renewal of professional license
+	•	Responsive to identified teachers needs
+	•	Dependent on the availability of funds
+	•	Ms. Soriano wants to help in ending Ms. Del Mundo’s act of immorality but doesn’t have to encourage confronting her. What she did was to write and secretly distribute copies of anonymous letter to her colleagues. What should have been done instead?
+	•	Secretly give anonymous letter only to the people concerned
+	•	If the charge is valid; present such charge under oath before her school head
+	•	Ask a third party to write the anonymous letter to prevent her from being involved
+	•	Talk to the married man with whom Ms. Del Mundo is having an illicit affair
+	•	The principal ask his good teacher to write modular lesson in Filipino, then he had them published with his name printed as author. Which is unethical in this case?
+	•	He burdened the teachers with work not related to teaching
+	•	He got the merit which was due for his teacher-writer
+	•	He had the modular lessons published when they worth publishing
+	•	He wants to exclusive beneficiary of the royalty from the modules
+	•	Teacher Vincent, a teacher for thirty two years, refuses to attend seminars. He claims that his thirty two years of teaching is more than all the seminars he is asked to attend. Are his actuation and thinking in accordance with the code of Ethics for professional teachers?
+	•	Yes, provided he has an excellent performance rating
+	•	No, non attendance to seminars would mean no increase in salary
+	•	No, a professional teacher, regardless of teaching experience, ought to go through CPE
+	•	Yes, because he taught for thirty two years and may have mastered the traded
+	•	Education is a continuous process of experiencing and visiting or reorganizing experiences according to a Progressivist. What does it mean?
+	•	Education takes place anytime and anywhere 	
+	•	Education goes on throughout life
+	•	Education happens formally or informally	
+	•	Education begins and ends in school
+	•	The main contribution of the Arroyo Administration in education is Republic Act No. 9155. This provision:
+	•	Started the national scholarship program	
+	•	Renamed the DECS to DepEd 		
+	•	Conceptualized the K-12 Education Program
+	•	Established the study now-pay later system	
+	•	The main Purpose of compulsory education of the constitution is to:
+	•	Prepare students to be lawyer
+	•	Develop students with into responsible thinking citizen
+	•	Acquaint students with the historical development of the constitution
+	•	Make student’s constitutional expert
+	•	Which of the following situations which violate the principle of respect?
+	•	Teacher B is giving special favor to students to please so that she can get a remarkable result in the evaluation
+	•	Teacher A tells her student that what teacher B taught is wrong
+	•	Teacher B, upon learning what teacher A did, asked the students not to attend her class 
+	•	All of the above
+	•	If a teacher states that specialization knows more and more about less and less, hence it is better to be generalist. What kind of philosophy does he uphold?
+	•	Positivism		c. Progressivism
+	•	Essentialism		d. Existentialism
+	•	Teacher Paul is an inspiration to almost all of the students. His efficiency and effectiveness in the profession is truly outstanding. Which of the following describes this attitude towards him?
+	•	Naturalism		c. Idealism
+	•	Progressivism		d. Perennialism
+	•	Teacher finds teaching in a multi cultural classes very challenging. Which among the following choices will alleviate the difficulty of addressing these challenges?
+	•	She must embody a curriculum rather than perspective
+	•	She must nurture diversity rather than practicing domination and oppression
+	•	She must consider stereo typing rather than cultural identities and biased attitudes
+	•	She must welcome one sided view rather than the recognition of biases 
+	•	Ms. Janina is the most admired pre-school teacher in her school. Which among the following can best explain her being a good teacher?
+	•	She endorses all the projects of the school for her students 
+	•	She manages to instill control to her students
+	•	She gives easy exams to her students
+	•	She adheres to the want of the parents for their children 
+	•	Teacher Vincent bought a hamster in the class during the lecture about mammals. The hamster is a device commonly known as a REALIA. Teacher can bring realia only when:
+	•	Workable		c. Feasible
+	•	Available		d. Affordable
+	•	When asked, students of teacher Eric described him as someone who knows what he is talking about.  Teacher Eric therefore exhibits a power known as:
+	•	Expert power 	c. Referent power	
+	•	Reward power		d. Legitimate power
+	•	When choosing an instructional aide or device, the primary consideration of the teacher would be:
+	•	Suitability		c. Availability
+	•	Cost			d. Efficiency
+	•	To show disapproval to the misbehavior of the student, Teacher Paul clears his throat and looks intently at the erring. This classroom management style is commonly known as:
+	•	Direct appeal 	       c. Dropping of name	
+	•	Proximity control   d. Signal interference
+	•	Which of the computer-based instructional tool can help you revise written work such as short stories and essays?
+	•	Spreadsheets 		c. Desktop publishin	
+	•	Database		d. Word processing
+	•	Ms. Agatep wants to show to her class a magnified picture of the Mt. Pinatubo’s crater fixed on a bond paper. Which of the following tools can she use?
+	•	Slides 		c. Overhead Projector
+	•	Filmstrip 	d. Opaque Projector
+	•	As a teacher employing the project-based multimedia learning (PBML) strategy, what are some limitations teachers expect from the encounter?
+	•	There is a need for extending the to use several media
+	•	The presentation of the product is not an easy task
+	•	The technology skills to produce a product maybe lacking 
+	•	I, II, III		c. I only
+	•	III only		d. II only
+	•	B.F. skinner is a known psychologist and the one who first to describe operant conditioning. Which of the techniques is an application of operant conditioning?
+	•	Master learning	
+	•	Process approach 				
+	•	Project method		
+	•	Computer assisted instruction
+	•	Which of the following choices is considered as social force that affects the school and the curriculum?
+	•	Nature of knowledge 				
+	•	Learners’ characteristics
+	•	Learner’s style		
+	•	Changes in gender roles	
+	•	Which of the following is an expression of child’s interest in his body?
+	•	Comparing themselves with others 		
+	•	Looking at themselves in the mirror 
+	•	Commenting on various parts o the body
+	•	Looking the picture of adult men and women	
+	•	Motor development is satisfied by a particular child who;
+	•	Recognize the different sizes of toys given to him
+	•	Learns how to walk, run, steer and jump
+	•	Has playmates within the neighborhood & is popular among kids
+	•	Known how to control his emotions because he could not ride the motor cycle
+	•	Which among the following drugs is commonly used for children with ADHD?
+	•	Valium			c. Retalin
+	•	Haldol			d. Thorazine
+	•	What is the main reason why children with ADHD have limited learning skills?
+	•	Act on impulse and cannot concentrate 
+	•	Must take stimulants which shorten attention span
+	•	Are given sedatives which make them listen
+	•	Are mildly retarded
+	•	Many concerned parents commonly make the mistake of:
+	•	Deliberately creating high levels of stress for their child
+	•	Unintentionally rewarding their children for creating stress
+	•	Attempting to protect their children from all stress
+	•	Unintentionally creating high levels of stress for their child
+	•	Stuttering is commonly caused by:
+	•	Problem with physical origin
+	•	Psychological consequence of permissive parenting
+	•	Side effects of authoritarian parenting
+	•	Result of fixation caused by conflicts during toilet training
+	•	How can parents foster initiative and independence in children?
+	•	Mastering psychomotor skills
+	•	Encouragement from parents when a child plans carries out a task
+	•	Identity versus role confusion 
+	•	None of the above
+	•	Which stage considers teachers, peers and adults outside the home important in shaping attitude toward oneself?
+	•	Initiative versus guilt 			
+	•	Industry versus inferiority
+	•	Trust versus mistrust		
+	•	Integrity versus despair		
+	•	When a child manifest mutism, self-destructive behavior and echolalia, the child might be showing the symptoms of:
+	•	Anorexia nervosa 		c. Dyslexia
+	•	Childhood autism		d. ADHD
+	•	When a person’s moral choices are determined by the direct consequences of actions. He is most like in the stage of:
+	•	Conventional 		c. Post conventional
+	•	Concrete		d. Pre conventional
+	•	What is the motivation of the person who paints for the sheer enjoyment of creating artwork?
+	•	Insufficient	     c. Extrinsic
+	•	Intrinsic	     d. Intrinsic & Extrinsic
+	•	Providing variety of learning activities to students is a characteristics of a teacher who understands the principle of:
+	•	Proactive teaching as a modem technique of teaching
+	•	Facilitating learning with emphasis on individual differences
+	•	Reward as a potential means of increasing the participation 
+	•	Allowing the student to be exposed to various teaching techniques
+	•	All of the following shows respect for individual differences except:
+	•	Give greater attention to gifted learners
+	•	Treat all learners alike while the classroom
+	•	Provide for a variety of learning activities
+	•	Prepare modules for slow learners in class
+	•	Students who are disobedient and display negative attitudes towards others are best handled by teacher who will: 
+	•	Detain him after office hours for him to do what he has been ordered to
+	•	Avoid giving him orders or if you do and the objects take back the order
+	•	Take every opportunity to praise him for every positive attitude displays
+	•	Insist on compliance to the same degree required of pupils
+	•	Which of the following develops critical thinking skills among the students?
+	•	Asking convergent question 			
+	•	Blind obedience to authority	
+	•	A willingness to suspend judgment	
+	•	Asking low level questions
+	•	A child who always fights with his/her classmates, who has a very short attention span, and who has frequent tantrums is believed to be suffering from:
+	•	Mental retardation 				
+	•	Attention deficit hyperactivity disorder
+	•	Down syndrome	
+	•	Learning disability
+	•	Teacher Elaine has been lecturing for more than an hour and she notice that students are not anymore able to absorb additional information. This phenomenon is known as:
+	•	Stagnation		c. Boredom		
+	•	Procrastination	d. Plateau of learning
+	•	Planned ignoring, signal interference and proximity control are techniques used in:
+	•	Operant conditioning 			
+	•	Managing surface behavior
+	•	Managing temper tantrums	
+	•	Life space interviewing	
+	•	A foreigner who is studying here in the Philippines was turned off by the Filipinos way of eating Balut and Frogs:
+	•	Xenocentrism 	c. Colonial mentality	
+	•	Ethnocentrismd	d. Culture shock
+	•	Who among the following claimed that children are natural learners and therefore must be taught in natural settings?
+	•	Kohlberg		c. Montessori
+	•	Piaget			d. Froebel
+	•	The concept that learning to read or write does not happen quickly but is build upon many small steps that occur over the course of the child’s early childhood.
+	•	Innate literacy	
+	•	Emergent literacy 				
+	•	Functional literacy
+	•	Academic Literacy			
+	•	A boy is closer to his mother and a girl is close to her father. These instances are under:
+	•	Latent stage 		c. Phallic stage	
+	•	Oedipal Complex	d. Pre-genital stage
+	•	Laughing at two year old child who uttered a bad word is not a proper thing to do because in this stage of the child’s life, the child is:
+	•	Considering the views of others 		
+	•	Distinguishing right from wrong	
+	•	Distinguishing sex differences	
+	•	Socializing
+	•	The school director emphasizes the necessity of clean and green environment to contribute to effective teaching and learning. This is an example of:
+	•	Establish rapport between teachers and pupils	
+	•	Providing an atmosphere conductive to learning 	
+	•	Providing adequate physical facilities 
+	•	Utilize educational technology
+	•	The teachers are facilitators of learning. Which of the following negates this principle?
+	•	Performs not only classrooms roles but community involvement as well
+	•	Focus background of the students
+	•	Familiar with the latest innovations in teaching
+	•	Uses pro-active discipline method
+	•	Which of these philosophies is reflective of the Dewey’s which s\tresses the development of an individual capable of reflecting thinking specially that of being able to solve the problem he faces individually or collectively?
+	•	Disciplinism 		c. Experimentation
+	•	Developmentalism	d. Rationalism
+	•	The present military training in our school curriculum is an influence of:
+	•	Sparta			c. Greece
+	•	Rome			d. Athens
+	•	Basic education includes secondary education. Which of the following contributed to the establishment of secondary schools?
+	•	Reformation 		c. Realistic
+	•	Rationalism		d. Human Education
+	•	The nearest to the real thing according to Edgar Dale’s Cone of Experience is:
+	•	Watching demo 				
+	•	Viewing images
+	•	Attending Exhibit	
+	•	Hearing and listening		
+	•	This is pre-planned collection of sample of student works, assessed results and other output produced by the students:
+	•	Anecdotal report 	c. Portfolio
+	•	Diary			d. Observation image
+	•	Which of the following statements is one of the strength of an autobiography as a technique for personality appraisal?
+	•	It can replace data obtain from other data techniques
+	•	It may be read by unauthorized people
+	•	It gives complete data about the author
+	•	It makes possible presentation of intimate experiences
+	•	The present Philippine Teachers professionalization Act had its beginning on what period of roman history?
+	•	295 B.C. - schools were elementary only
+	•	A.D. 100 - A.D. 175 - government increased its subsidy for education
+	•	132 B.C. - A.D. 100 - Latin literature and grammar were perfected
+	•	A.D. 274-259 - government establish a monopoly on education
+	•	Whose philosophy influences the present emphasis on character education and values education in our school system?
+	•	Tagore			c. Confucius
+	•	Gandhi			d. Bonifacio
+	•	During the distribution of the report card, which of the following must be the foremost concern of teacher?
+	•	Discuss the projects of the school
+	•	Discuss the unsettled bill of the students
+	•	Discuss the progress as well as the deficiencies of the stu7dent
+	•	Discuss the complaints of other teachers and classmates of the students
+	•	After listening to the homily of the priest about fidelity, Catherine has a moment of reflection. Her understanding of the value of fidelity has become deeper as she related this to her past experience. This typifies what kind of philosophy?
+	•	Constructivism 	   c. Humanism
+	•	Reconstructivism	   d. Existentialism
+	•	Teacher Vincent is a new teacher. He realizes that handling his student’s misbehavior is a very demanding aspect of classroom management. In this regard he thought of giving up teaching. What advice can you give him?
+	•	Report every student’s misbehavior to the principal
+	•	Agree with the class on what rules to follow
+	•	Set the ground rules for the whole class
+	•	None of the above
+	•	Which of the following is a result of compressing a file?
+	•	The file size is smaller	
+	•	The file deleted 			
+	•	The three character extension is hidden	
+	•	All file properties
+	•	Mrs. Anita Kusing was not accepted by a certain company because of her age. This discrimination based on age is called
+	•	Gerontism		c. Agelism
+	•	Autism		d. Senilism
+	•	Vincent parents do not want their child with ADHD to undergo drug treatment, their better alternative would be
+	•	Behavior modification or behavior management	
+	•	Psychotherapy 				
+	•	Punishment	
+	•	Progressive inhibition
+	•	Ripple effect can also be seen in misdemeanor. The teacher should therefore:
+	•	Reinforce positive behavior 		
+	•	Immediately responds to misbehavior	
+	•	Be consistent in classroom management	
+	•	Count 1 to 10 before she gets angry
+	•	Metacognition is primarily characterized by:
+	•	Recalling the past lesson 			
+	•	Thinking about their thinking 
+	•	Visualizing in advance	
+	•	Formulating hypothesis		
+	•	A person who is friendly and has a capacity to make people laugh possesses: 
+	•	Interpersonal intelligence
+	•	Naturalistic intelligence 			
+	•	Spatial intelligence		
+	•	Intrapersonal intelligence		
+	•	Which of the following is an example of norm-referenced interpretation?
+	•	Josh’s test score is higher that 89% of the class
+	•	Francis set up his laboratory equipment in 2 minutes
+	•	RJ solve five problems correctly out of thirty words
+	•	Bea must spell twenty five words correctly out of thirty words
+	•	A type of error committed in grading the performance of the students by the rater who avoids both extremes of the scale and tends to rate everyone as revenge
+	•	Severity error 			
+	•	Central tendency error
+	•	Generosity error		
+	•	Logical error			
+	•	Which of the following test items can be effectively measure higher order of cognitive learning objectives?
+	•	Achievement test 				
+	•	Extended essay test
+	•	Completion test	
+	•	Objective test		
+	•	A student finding it hard to read. When the guidance counselor traced the child’s history, the counselor was able to find out the student came from a dysfunctional family, aside from that the child was abused and neglected. What could have caused the students reading disability?
+	•	Poor teaching		
+	•	Emotional factors 			
+	•	Neurological factors		
+	•	Immunity
+	•	The best example Operant conditioning among the following is:
+	•	Fostering conductive learning environment		
+	•	Connecting facts and concept 	
+	•	Using reinforcement		
+	•	Using manipulative device
+	•	The failure in the test of independence among Filipino students can be attributed to
+	•	Lack of skills 				
+	•	High degree of dependence to authority	
+	•	Strong family ties		
+	•	All of the above
+	•	Mrs. Soriano is admitted for being an effective classroom manager. She is not only friendly but at the same time be_______
+	•	Confident		c. Analytical
+	•	Business-like	d. Buddy-buddy
+	•	Which of the following would be the most fitting action for the teacher who is having a relationship with his/her student?
+	•	Deny the relationship
+	•	Continue the relationship and exercise utmost professional discretion about this
+	•	Enjoy the relationship while it last
+	•	Defer the relationship until they are already to admit it
+	•	The following is TRUE in the development of understanding in early childhood, except:
+	•	Abilities to reason and to see relationship
+	•	Sensory experiences 			
+	•	Ability to explore their environment 
+	•	Ability to ask questions
+	•	Teacher Eric would like to compare and contrast plant cell vs. animal cell. He would most likely use:
+	•	Fishbone diagram 	   c. Tree Diagram
+	•	Venn Diagram	   d. KWL chart
+	•	Which of the following are the basic components of curriculum design?
+	•	Assessment, teaching strategies and textbooks
+	•	Content, structure and deliver
+	•	Philosophy, goals and objectives
+	•	Standards, learning competencies, and evaluation
+	•	The following are examples of learning centered design except:
+	•	Child centered design 			
+	•	Life situation design
+	•	Humanistic centered design	
+	•	Experience centered design	
+	•	Which of the following statements about computer viruses are TRUE?
+	•	Text files are the only files to be corrupted by virus.
+	•	Files damaged by computer viruses can be cured
+	•	Files are always permanently damage by viruses
+	•	Compressed files can never be damaged by viruses
+	•	The students of Teacher Corazon feels that their teacher has an “eye behind her head” this characteristics of the teacher is known as:
+	•	Referent Power 	c. Pygmalion Effect
+	•	Withitness		d. Rosenthal Effect
+	•	After studying the Principle of identity, teaching Beng ask her students to determine which among the given set of problems conforms to the said identity. This shows that teacher beng upholds this kind of philosophy?
+	•	Perennialism	c. Essentialism
+	•	Progressivism	d. Naturalism
+	•	How will you classify the purpose of the school as it concerns with the training and preparation of citizens for the world of work?
+	•	Political Purpose 	  c. Economic Purpose
+	•	Cognitive Purpose d. Social Purpose
+	•	A child submitted a poor written report but package with boringly colored paper cover. This showcase____.
+	•	Art over academics 			
+	•	“porma” over substance
+	•	Substance over “porma”	
+	•	Art over science		
+	•	Clearance has inherent skills in taking care of plants. It is highly possible that she has ________ intelligence.
+	•	Intrapersonal intelligence		
+	•	Naturalistic intelligence 		
+	•	Spatial intelligence	
+	•	Existential intelligence
+	•	According to Erickson, a child who is cold towards that people among him might have failed to attain what basic goal based on psychosocial development?
+	•	Autonomy		c. Initiative
+	•	Trust			d. Mistrust
+	•	What is most likely characteristic of children aged 3 to 5 according to Erickson?
+	•	Mischievous		c. Lazy
+	•	Egocentric		d. Altruistic
+	•	Mrs. Cruz dreams to organize a seminar with a known poet from another country but she cannot afford to spend for a transportation of the said poet. Which of the following can she use so she won’t need to spend much?
+	•	Distant communication		
+	•	Instant messaging 				
+	•	Video conferencing		
+	•	Podcasting
+	•	Teacher Lally wants her students to express their opinions regarding a certain government issue. Which of the following can she use to do this?
+	•	Forum	c. Email
+	•	Blog		d. Group messaging system
+	•	Which is the first step in planning periodic test?
+	•	Select the type of test to be used 	
+	•	Construct a table specification	
+	•	Go back to the instructional objectives	
+	•	Determine the group of whom the test is intended
+	•	Below is a list of methods used to establish the reliability of a test, which method is questionable due to practice and familiarity?
+	•	Split half 		c. Kuder Richardson	
+	•	Equivalent form	d. Test retest
+	•	What is meaning of TOS in the parlance of test construction?
+	•	Table of specifics 			
+	•	Table of specification	
+	•	Table of specific test		
+	•	Table of subject
+	•	Ms. Soriano will be absent for two days because of a national conference. She wants her student to work on a certain module. What is the fastest way of sending the module to her students while she is away?
+	•	Share it to all her students in her live account
+	•	Email a module to her students
+	•	Send the module through group instant messaging
+	•	Message each of the students on a social networking site
+	•	Teacher Vincent is assigned to handle a multiple grade class. What instructional material must be used to provide the need of each grade?
+	•	Differentiated materials to cater to different levels
+	•	Multisensory materials
+	•	Colorful, useful and durable materials
+	•	Materials of high level thinking skills
+	•	A document publishes by a school district that identifies rules of behavior that must be followed by anyone using the school districts computers, network, or internet connection.
+	•	Ethical internet use policy
+	•	Classroom rules	 			
+	•	Acceptable use policy	
+	•	Fair use		
+	•	Which of the following are the rationales behind using technology in the classrooms?
+I.   Motivational 				
+II.  Unique instructional capabilities 	
+III. Increase Teachers’ Productivity	
+	•	I only 		c. II and III only
+	•	I and II only		d. I, II, and III
+	•	Using Bloom’s Taxonomy, the highest among the following is:
+	•	Critical Comprehension 			
+	•	Critical evaluation	
+	•	Integration			
+	•	Literal comprehension
+	•	Among the following educators, who proposed the placement of children in a “prepared environment”?
+	•	Thorndike		c. Kilpatrick
+	•	Montessori		d. Froebel
+	•	To improve comprehension and retention among the students, the teachers best option would be use
+	•	Six thing hats	
+	•	SQ3R		
+	•	Contextual Clues
+	•	Autodidactic Activities
+	•	Who among the philosophers considered habits and reasons as equally important Forces to be cultivated in education?
+	•	Avicenna 		c. Jerome Bruner
+	•	Aristotle		d. Maria Montessori
+	•	What practice(s) will demonstrate the teachers genuine concern on the learning of students?
+	•	Confer progress of students to their parent
+	•	Guides students to meet their learning goals
+	•	Validates if learning goals were met
+	•	All of the above
+	•	Which of the following is the most important component of educational reform?
+	•	Allowing the students to participate more in extra-curricular activities
+	•	Implementing a better curriculum for students
+	•	Hiring only the excellent teachers
+	•	Involving parents in the dedication for the children
+	•	To increase the difficulty of a multiple choice test item, which of the following should be done?
+	•	Make the options equal in length	
+	•	Make the options homogeneous 	
+	•	Make it grammatically correct	
+	•	Make the stem
+	•	Teacher Anna set 85% accuracy in a test on predicting the kind of weather given 5 different atmospheric conditions. May obtain a score of 82% can be interpreted as:
+	•	She is 3% short of the set percentile score 	
+	•	She did not meet the set standards by 3%	
+	•	She obtained 82% percentile score 
+	•	She is higher than 82% of the group
+	•	Teacher Vincent wants to establish the reality of test in biology. Which of the following will he accomplish?
+I.   Administer a parallel test
+II.  Split the test
+III. Construct a variety of items
+IV. Administer the same test twice
+	•	I, III, IV		c. I, II
+	•	I, II, IV		d. I, IV
+	•	Teacher Vilma constructed a matching type test item. IN her column of descriptions are combinations presidents, current issues, and sports. Which of the constructing a matching type test items was NOT followed?
+	•	The descriptions must be homogenous
+	•	The options must be greater than the descriptions
+	•	The descriptions must be heterogeneous
+	•	Arrange the options according the orders
+	•	Which of the following does not belong to the group when we talk about projective personality test?
+	•	Sentence completion test 			
+	•	Word association test	
+	•	Interview		
+	•	Thematic Apperception test
+	•	Which of the following is the main purpose of administering a pre test and post test to the stu8dents?
+	•	Measure the value of the materials used
+	•	Accustom the students in frequent testing
+	•	Measure gain in learning
+	•	Measure the effectiveness of instruction
+	•	Which is implied by a positively skewed score distribution?
+	•	The mean, The median and the moderate are equal
+	•	Most of the scores are low
+	•	Most of the scores are high
+	•	The mode is high
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

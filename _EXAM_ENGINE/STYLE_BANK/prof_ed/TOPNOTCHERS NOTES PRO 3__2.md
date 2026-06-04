@@ -1,0 +1,37 @@
+                                    TOPNOTCHER’S NOTES
+
+   Teacher Rey shared this lesson objective/learning outcome with his students:
+    “Before the period ends, all of you must be able to identify the topic sentence and
+    supporting sentences of a given paragraph.” Teacher Rey drilled them on subject-
+    verb agreement to ensure that they can write a good paragraph then gave a ten-
+    sentence paragraph for the students to determine subject-verb agreement before
+    the class period ended. Teacher Rey did NOT use the lesson objective/learning
+    outcome as guide in the development of his lesson.
+   Here is a lesson objective: “At the end of the lesson, the pupils must be able to
+    develop a positive attitude towards work.” This is NOT a SMART objective because
+    develop is a non-behavioral term.
+   Teacher Clarence wanted her students to rate their own work using the scoring
+    rubric which she explained to the class before the students began with their task.
+    Based on revised Bloom’s taxonomy, the students are in the analyzing level of
+    cognitive processing are the students.
+   You are required to formulate your own philosophy of education in the course, The
+    Teaching Profession. Based on Bloom’s revised taxonomy, you are in the creating
+    level of cognitive processing.
+   Mr. Sevilla requires his class to conduct research, write a research report and
+    defend the same before a panel of experts. The students will be engaged in
+    Retrieval, Comprehension, Analysis and Knowledge utilization level/s of processing
+   Teacher Princess encourages her students to make the intended learning outcome
+    their own and explain that she expected them to monitor now and then their own
+    progress toward the intended learning outcome and act accordingly. The class
+    expected to act in metacognitive system level of processing.
+   Sir Johdel sees to it that his class sees the importance of the grammar lessons in
+    English and so gets intrinsically motivated to learn. The class expected to act in self-
+    system level of processing.
+   Teacher Joshua talked all period. He taught the class the steps to undertake in the
+    conduct of an action research. He also showed a model action research. He was
+    more subject matter-centered and teacher-centered.
+   Ms. Seraspi’s lesson was on “What man can do to arrest climate change”. She
+    made students do the talking, arguing, the synthesizing. She gave her lecture after
+    students have participated in the lively discussion. Ms. Seraspi employed a learner-
+    centered approach teaching.
+

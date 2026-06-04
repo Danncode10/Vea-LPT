@@ -1,0 +1,11 @@
+TOPNOTCHER’S NOTES
+	•	When the teacher groups the learners by their ability level and makes the groups work with the same topic but assigns a different task appropriate for each group to accomplish demonstrates differentiated instruction.
+	•	Allowing children to show that they learned the stages of mitosis in a way where they feel most comfortable is a teaching practice that gives primary consideration to individual differences.
+	•	Fearful, inhibited, hostile and withdrawn are most likely the kind of children raised by authoritarian parents.
+	•	If a child was raised by authoritative parents, he/she will most likely relate well to classmates.
+	•	Teacher Vanessa believes that students need not know the intended learning outcome of her lesson. She proceeds to her learning activities at once without letting them know what they are supposed to learn for the day. Teacher Vanessa negates the principle of teaching that effective learning begins with the setting clear expectations and learning outcomes.
+	•	Teacher Prince noticed that in group work, students just leave the work to the leader and so vowed never to give group work again. Teacher Prince’s decision is against the principle that learning is a cooperative and a collaborative process.
+	•	In his desire to finish the content of the course syllabus, Sir Janus just lectures while students listen. Sir Janus violates the principle that learning is an active process.
+	•	Mr. Bermundo asks his pupils to see the connection of their new lesson to their own personal experiences and share the same with the class. Mr. Bermundo believes in the principle that learning is the discovery of the personal meaning of ideas.
+	•	Sir Kier avoids drills out of context. He gives real-world Math problem for students to drill on. Sir Kier is very much convinced of the principle that learning is the discovery of the personal meaning of ideas.
+	•	For meaningful teaching and learning, it is best to connect the lesson to the life of students by integrating a relevant value in the lesson. This is based on the principle that lesson objectives/intended learning outcomes must integrate 2 or 3 domains – cognitive, skill and affective or cognitive and affective or skill and affective.

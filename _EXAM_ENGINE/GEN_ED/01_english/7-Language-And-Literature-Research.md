@@ -1,0 +1,591 @@
+
+
+MAJORSHIP
+
+Area:	ENGLISH
+
+Focus: Language and Literature Research
+
+LET Competencies:
+
+demonstrate knowledge of the approaches and concepts in language and literature research. 
+identify the appropriate research method/s, tools, and statistical treatment to apply in a research-related situation. 
+
+
+
+Definition of  Language and Literature Research 
+
+There are a number of definitions of research. These definitions emphasize the purposes of research, the methods and strategies used, the analysis of data, and the ethics in conducting research.  Below are some of the definitions given by the research practitioners themselves. 
+
+It is the utilization of various methods and strategies to gather truthful and accurate information about problems and issues related to language and literature study. 
+
+It is the carrying out scientific method or analysis; it entails the application of formal, systematic, and intensive processes to yield significant information or data about the research questions and/or objectives.
+
+
+It is the systematic, objective, and literature-based analysis of scientifically recorded data which may lead to the development of generalizations, principles, models, theories, and prediction of events. 
+
+General Types of Research 
+
+The two general types of research are quantitative research and the qualitative research. However, in recent literature, the action research is already included in the list. 
+
+Quantitative Research – It is centered on the objective investigation of a population represented by a set of samples. It uses numberical data to explain the researcher’s observations of the samples’ behavior.  It is usually done in a contrived setting. It likewise uses and applies language and literature theories and related concepts to identify the data to be gathered. Moreover, some statistical methods and techniques are used to analyze and generalize data. The process used to undertake quantitative research is deductive. The main purpose of this research type is to test theories, predict outcomes, establish facts, and test hypothesis or assumptions. It isolates variables and uses large samples.  It collects data using tests and formal instruments. 
+
+Qualitative Research –It assumes that social reality is continuously constructed in local situations. It makes a holistic observation of the total context within which social action occurs. It uses analytic induction to analyze data and it discovers concepts and theories after data have been collected.  The approach is inductive and the goal is to describe multiple realities, develop deep understanding and captures everyday life and human perspective.
+
+Action Research - The action research is before classified under qualitative research because it mainly used the qualitative methods and techniques. However, in the current literature on research, action research is classified under the general type which means it becomes co-equal with both quantitative and qualitative research.  The argument is that action research may utilize both quantitative and qualitative research methods and techniques.  
+
+Parts of a Research Report  
+
+The parts of a research report provide a systematic presentation of the research questions and the answers to these questions.  Regardless of the variations in the parts of a research report, all research reports contain the research questions or objectives, related theoretical and research literature, research findings and their discussion.  Below are the basic contents of a research report: 
+
+The Problem and Its Setting- This section includes the introduction of the study, statement of the problem, scope and delimitation, importance of the study, and the definition of terms.  It is also in this part that the hypotheses and assumption of the study are stated. 
+
+Review of Literature and Studies – This section presents the theories, concepts and studies related to the research topic.  
+
+Research Methodology – This section clears out the processes used to answer the research questions.  This section also states the research methods and design, sampling, statistical treatment, procedures, and other related concepts necessary for data gathering. 
+
+Research findings – This section presents the overview of the statistical procedures or how statistical procedures are used for data analysis, description of results for each hypothesis, question, objective or purpose. 
+
+Discussion – this section presents the interpretation and analysis of the results.
+
+Summary and Recommendations – this section presents the implications of the study and future research 
+
+Sources of Research Problems 
+
+The research problems can be gathered from various sources, such as:
+
+Research Literature –It provides the much needed information to determine what have already been explored in relation to the topic that will be investigated.
+
+Theory-Based Research – This contains the studies in which the existing theories on language and literature were tested.
+
+Replicating and Extending Previous Research – the purpose of this is to check findings of breakthrough study, to determine the validity of research findings across different populations, to identify the trends or change over time, to know important findings using different methodology, and to develop more effective or efficient intervention 
+
+Observations – this helps in determining an emerging or existing phenomenon that must be investigated 
+
+
+Experience – this is another rich source of research topics because this provides the motivation to the researcher to investigate or examine what he/she knows is important in language or literature study. 
+
+Characteristics of a Good Research Topic 
+
+There are several factors to be considered in undertaking a research.  These factors 
+
+The topic is interesting.  It will hold the researcher’s interest through the entire research. 
+
+The topic is researchable.  It can be investigated through the collection and analysis of data and it is not stated as a topic seeking to determine what should be done.
+
+
+The topic is significant.  It contributes in some way to the improvement or understanding of education theory or practice.
+
+The topic is manageable.  If it fits the researcher’s level or research skills, needed resources, and time restrictions. 
+
+Variables and Hypothesis 
+
+Variables – a quantitative expression of a construct that can vary in quantity or quality in observed phenomenon.   It stands for variation within a class of objects.  The different types of variables are: 
+
+Independent variable – a variable that the researcher thinks occurred prior in time to, and has an influence on another variable or on the dependent variable. 
+
+Dependent variable – a variable that is affected by or influenced by an independent variable. 
+
+Intervening variable – a variable which cannot be controlled or measured directly that has an important effect upon the outcome.
+
+Hypothesis – this pertains to a researcher’s prediction of the tentative results and findings of a study based on a theory or assumption of the variables measured in the study. This likewise presents the relationship between variables. The types of hypothesis are: 
+
+Null Hypothesis – a prediction that no relationship between two measured variables will be found or that no difference between two groups on a measured variable will be found. 
+Non directional hypothesis – simply states that a relationship or difference exists between variables.
+Directional hypothesis – presents the expected direction of the relationship or difference
+
+Characteristics of a Good Hypothesis:  
+It is based on sound reasoning. 
+It provides a reasonable explanation for the predicted outcome. 
+It clearly states the expected relationship between defined variables. 
+It is testable within a reasonable time frame. 
+
+Quantitative Research Methods 
+
+Descriptive or survey research - studies phenomenon/issues and problems as they exist at one point in time. It involves making careful descriptions of phenomenon in language and literature. It is concerned with “what is.”  
+Characteristics of a descriptive or survey research 
+
+information is collected from a group of people in order to describe some aspects or characteristics such as abilities, opinions, attitudes, beliefs, and/or knowledge of the population of which that group is a part
+
+information is collected through asking questions; the answers to these questions by the members of the group constitute the data of the study
+
+information is collected from a sample rather than from every member of the population 
+
+Purposes of descriptive research 
+presents description for purposes of policy formulation 
+helps in improving existing conditions
+
+Types of descriptive research  
+
+Longitudinal study – involves collecting data from a sample at different points in time in order to study changes or continuity in the samples’ characteristics. 
+
+Trend Studies – describe change by selecting a different sample at each data collection point from a population that does not remain constant 
+
+Cohort Studies – describe change by selecting a different sample at each data-collection point from a population that remains constant
+
+Panel Studies – this involves selecting a sample at the outset of the study and then at each subsequent data-collection point surveying the same sample is done 
+
+Cross-sectional studies- the data are obtained at one point in time, but from groups of different ages or at different stages of development
+
+Cross- sectional survey – collects information from a sample that has been drawn from a predetermined population. The information is collected at just one point in time, although the time it takes to collect all the data desired may take anywhere from a day to a few weeks or more.
+	
+Types of Instruments in Descriptive or Survey Research 
+
+Questionnaire  - this is a type of instrument in which the respondents are asked to express their views, opinions, or knowledge using a scale.
+
+Types of Questions – the nature of the questions, and the way they are asked, are extremely important in the research survey: 
+
+Closed-ended questions are easy to use, score, and code for analysis on a computer. Since all subjects respond to the same opinions; standardized data are provided. 
+
+Open-ended questions- allow for more individualized responses, but they are sometimes difficult to interpret.  They are also often hard to score, since so many different kinds of responses are received. 
+
+Kinds of Questionnaire
+
+Postal questionnaires –this involves sending of ‘self-completion’ questionnaire through the post. This involves a coverage of a large geographical area.
+
+E-questionnaire – this involves sending of ‘self-completion’ questionnaire through email or other electronic means. This also has a large geographical area coverage. 
+
+
+Interview  - a measure that specifies the questions to be asked of each research participant, the sequence in which they are to be asked, and guidelines for what the interviewer is to say at the opening and closing of the interview
+
+Kind of interview
+
+Face to face interview – allows a direct interface between the research or data gatherer and the respondent. 
+
+Telephone interview – uses the phone to gather data from the respondents.  Other prefer a telephone interview because it is cheaper and faster than the face-to-face interview.
+
+
+Correlational Research – a type of investigation that seeks to discover the direction and magnitude of the relationship among variables through the use of correlational statistics. 
+
+Purposes of Correlational research 
+to clarify our understanding of important phenomenon through the identification of relationships among variables
+to predict a score on either variable if a score on the other variable is known
+
+Scattergram or scatter plot – is a pictorial representation of the correlation between two variables.  The scattergram tells the type of correlation evident between the two variables.
+Perfect correlation 
+Positive correlation 
+Negative correlation
+Absence of correlation  
+
+Causal-comparative or ex post facto research – determines the cause, or reason for existing differences in the behavior or status of groups 
+
+Experimental Research- provides a systematic and logical method for answering the question on what will happen if experiments are done in carefully controlled conditions. In this study, the researchers manipulate certain stimuli, treatments or environmental conditions and observe how the condition or behavior of the subject is affected or changed. 
+
+Types of Experimental designs         
+Pre-Experiment – the least adequate of designs is characterized by: (1) lack of a control group; (2) failure to provide for the equivalence of a control group  Some examples of pre-experimental designs are: 
+
+One-shot case study design – a type of experimental design in which an experiment treatment is administered and then a posttest is administered to measure the effects of the treatment. 
+X   0 
+			
+		X= Treatment 	O = Observation 
+	(Dependent variable)
+					
+One-group, pretest-posttest design -  a type of experiment in which all participants are exposed to the same conditions; measurement of the dependent variable (pretest), implementation of the experimental treatment, and another measurement of the dependent variable (posttest)
+
+O1	X	O2
+O1= pretest  		O2= posttest
+
+Static –group comparison design – this design compares the status of a group that has received an experimental treatment with one that has not.  There is no provision for establishing the equivalence of the experimental and control groups. In some books, this design is classified under the quasi-experimental design.
+
+X		O
+C		O
+
+Quasi-Experiment – these designs provide control of when and to whom the measurement is applied, but because random assignment to experiment and treatment groups has not been applied, the equivalence of the groups is not assured. Some examples of experimental designs are: 
+
+Time series design – a type of experiment in which a particular behavior of an individual or a group is measured at periodic intervals, and the experimental treatment is administered one or more times between those intervals
+
+			e.g 	O1O2O3O4O5O6O7O8
+
+Pretest-posttest nonequivalent–groups design – this design is often used in classroom experiments when experimental and control groups are naturally assembled groups as intact classes which maybe similar.  The difference between the mean score of the O1 and O2 scores and the difference between the mean of the O3 and O4 are tested for statistical significance.
+
+e.g. 	O1	X	O2	O1O2 = pretests
+O3	C	O4	O2O4 = posttests
+
+True-Experimental designs – in this design the subjects are randomly assigned to treatment groups. Examples of these are: 
+Posttest-only control-group design – a type of experiment that includes three phases: a) random assignment of research participants to the experimental and control groups; b) administration of the treatment to the experimental group and either no treatment or an alternative treatment to the control group; and c) administration of a measure of the dependent variable to both groups. 
+
+Treatment group	R	X1	O
+Control Group		R	X2	O
+
+Pretest-Posttest Control Group Design- This differs from the posttest-only control group design solely in the use of a pretest. Two groups of subjects are used, with both groups being measured or observed twice.
+
+Treatment Group 	R	O	X1	O
+Control Group 		R	O	X2	O	
+
+Solomon four-group design – a type of experiment involving two treatment groups and two control groups, so that the researcher can determine the effect of both the treatment variable and the pretest on the dependent variable. 
+
+Treatment Group 	R	O	X1	O
+Control Group 		R	O	X2	O
+
+Treatment Group 	R		X1	O
+Control Group 		R		X2	O
+
+Tests in an Experimental Research 
+
+Pre-test – a measure that is administered prior to an experimental treatment or other intervention 
+Posttest – a measure that is administered following an experiment or control treatment or other intervention in order to determine the effects of the intervention 
+
+Groupings in an Experimental Research 
+Control Group - a group of research participants who receive no treatment or an alternate treatment so that the effect of extraneous variables can be determined. 
+Experimental Group – a group of research participants who receive treatment
+
+Focus of experimental research
+
+Controls. Experimental research focuses on the ‘manipulation of circumstances.’
+Identification of causal factors. It helps in identifying  which factor actually causes the observed outcome to occur.
+Observation and measurement. It should be precise and detailed. 
+
+Qualitative Research Methods 
+ 
+Action Research – a type of applied research that is conducted primarily to improve educational practices, including management of the classroom, classroom practices and interaction, classroom instruction, among others. 
+
+Steps in action research cycle		
+Initiation – identifies a pedagogy-related problem
+Preliminary investigation – collects baseline data through observation and classroom interaction 
+Hypothesis – form hypothesis based on the data
+Intervention – devises strategies to solve the problem
+Evaluation -	evaluates the result of the intervention 
+Dissemination – prevents findings in a forum 
+Follow up- investigates alternative solution to the same problem 
+
+Action Research Data Collection Approaches 
+		
+Teacher self- reflection tools- these are designed to be completed by teachers to evaluate their performance in the areas identified on the self-reflection tool. These tools usually are in the form of a checklist, rating scale, or questionnaire. 
+
+Media recording and analysis  - this uses media-like audio or video recording to record a sample of teacher performance for subsequent analysis by the teacher, peer or both. Microteaching is one example of media recording. 
+
+Student feedback tools – this is similar to the self- reflection tool except that the students, instead of the teacher, complete the forms. Teacher- made questionnaire, minute surveys and journals are examples of sources of student feedback. 
+
+Student performance data – include all student products that can be used to help teachers assess their own instructional effectiveness.  Test results, essays, classroom projects, and the like are examples of students’ performance data. 
+
+External or peer observation – involves having a peer or colleague observe, assess, or provide suggestions about an aspect of the teacher’s practice such as questioning behavior, lesson organization or feedback to students. 
+
+Journaling – requires the teacher to maintain and reflect on a record of classroom events or activities with the intent of recognizing recurring problems, wants, successes, or needs. 
+
+Collegial dialogue, experience sharing, and joint problem solving- all of these encourage collaboration among teachers to discuss common problems, share procedures, and strategies, and compare perceptions. Exposure to the ideas and practices of colleagues is a potent strategy for teacher reflection and change. 
+
+Case Study Research- This type of research is an in-depth study of cases which include an individual, a group, and a community.  This investigates the perspective of the participants involved in the phenomenon or issue.
+
+Historical Research – the study of the past phenomenon for the purpose of gaining a better understanding of present institutions, practices, trends, and issues. 
+
+Purposes of Historical Research 
+
+to make people aware of what has happened in the past so   they may learn from past failure or success
+to learn how things were done in the past to see if they  might be applicable to present day problems and concerns 
+to assist in prediction 
+to test hypotheses concerning relationships or trends
+
+Types of Sources  
+
+Primary Sources- this is a direct report of an event by an individual who actually observed or participated in it. 
+Secondary Sources – these are documents prepared by an individual who was not a direct witness to an event, but who obtained his or her description of the event from someone else. 
+
+Categories of Sources
+
+Documents – these are written or printed materials that have been produced in some form or another. Examples of these are annual reports, artwork, bills, books, cartoons, circulars, records, diaries, diplomas, newspapers, among others. They may be handwritten, printed, typewritten, drawn or sketched; published or unpublished; intended for private or public consumption; original or copies. Therefore, documents pertain to any kind of information that exists in some type of written or printed form.
+
+Numerical records – these include test scores, attendance figures, consensus reports, budgets, and the like.
+
+Oral statements – these include stories, myths, tales, legends, chants, songs and other forms of oral expression that have been used by people down through the ages to leave a record for future generations.
+
+Relics –These are objects whose physical or visual characteristics can provide some information about the past. Examples include furniture, artwork, clothing, buildings, monuments, or equipment. 
+
+Ethnographic Research – In anthropology, an in-depth study of the features of life in a given culture and the patterns in those features.
+
+Characteristics of Ethnography Research 
+
+Contextual – the research is carried out in the context in which the subjects normally live or work. 
+Unobtrusive – the researcher avoids manipulating the phenomenon under investigation 
+Longitudinal – the research is relatively long term
+Collaborative – the researcher carries out interpretative analyses of the data in cooperation with other people, e.g. the natives in a community
+Organic- there is interaction between questions/hypothesis and data collection/interpretation 	  
+
+Types of  Research Participants 
+
+Participant–Observer role – In quantitative research, the observer’s assumption of a meaningful identity within the group being observed, but that does not involve engaging in activities that are at the core of the group’s identity
+
+Observer-Participant role – In quantitative research, the observer’s maintenance of a posture of detachment while collecting research data in a setting, but with causal interaction with the individuals or groups being studied as necessary.
+
+Complete observer – the researcher observes the activities of a group without in any way becoming a participant in those activities.  The subjects of the researcher’s observation may or may not realize that they are being observed. 
+
+Complete participant – the identity is not known to any of the individuals being observed.  The researcher interacts with the group as naturally as possible. 
+	
+Types of effects on the participants 
+
+Hawthorne’s Effect- An observed change in the participants’ behavior based on their awareness of participating in an experiment, their knowledge of research hypothesis or their response to receiving special attention 
+
+Halo effect – the tendency for the observer’s early impressions of an individual being observed to influence the observer’s ratings of all variables involving the same individual
+
+Observer effect – any action or bias of an observer to record the occurrence of a behavior that fits one of the categories in the observational schedule. 
+
+Sampling and Sampling Technique
+
+Sampling – The process of selecting members of a research sample from a defined population, usually with the intent that the sample accurately represents the population. A sample comprises the individuals, items, or events selected from a larger group referred to as a population. 
+
+Sampling error- the deviation of a sample statistic from its population value
+
+Types of Sampling Techniques 
+
+Convenience sampling – a group of cases that are selected simply because they are available and easy to access
+
+Probability sampling – a procedure for drawing a sample from a population such that each individual in the population has a known chance of being selected
+	
+Purposeful sampling – the process of selecting cases that are likely to be “information-rich” with respect to the purposes of a qualitative research study
+
+Cluster sampling – selecting naturally occurring groups in the population.
+
+Criterion Sampling – selecting a group of cases that satisfy particular specifications or standards
+
+Proportional stratified random sampling – a technique in which the proportion of each subgroup in the sample is the same as their proportion in the population 
+
+Purposeful random sampling –selecting by random sampling methods for the purpose of establishing that the selection of cases was not biased.
+
+Random sample or simple random sampling –selecting participants such that all members of the accessible or target population have an equal and independent chance of being selected 
+
+Snowball sample –selecting participants by asking one person to recommend someone suitable  as a case of the phenomenon of interest, who then recommends another person who is a suitable case or who knows potential cases; the process continues until the desired sample size is achieved. 
+
+Systematic sampling – a type of sampling in which individuals are selected from a list by taking every nth name. 
+
+Purposive sampling – the researcher selects a sample based on his or her experience or knowledge of the group to be sampled. 
+
+Quota sampling – is most often used in survey research when it is not possible to list all members of the population of interest. 
+
+Random assignment – the process of assigning individuals or groups to the experiment and control treatments such that each individual and group has an equal chance of being in each treatment 
+
+Ways of Measurement 
+
+Likert Scale – a measure that asks individuals to check their level of agreement with various statements about an attitude or object (e.g strongly agree, agree, disagree, strongly disagree) 
+
+Questionnaire – a measure that presents a set of written questions to which all individuals in the sample respond 
+
+
+Rubric- in performance assessment, this refers to a scale of measuring different levels of proficiency demonstrated in students’ portforlio.
+
+Statistics and Statistical Treatment 
+
+Statistics – numerical index describing a characteristic of a sample 
+
+Statistical Treatment – a mathematical treatment used for summarizing or analyzing numerical data or information
+
+Analysis of Variance (ANOVA) – This is a statistical procedure applied to determine whether the difference between the mean scores of two or more groups on a dependent variable is statistically significant. 
+Chi-square – this is a nonparametric test of statistical significance that is used when the research data are in the form of frequency counts for two or more categories. 
+Factor Analysis – A statistical procedure for reducing a set of measured variables to a smaller number of variables by combining variables that are moderately or highly correlated with each other.
+Multiple Regression- A statistical procedure for determining the magnitude of the relationship between a criterion variable and a combination of two or more prediction variables
+
+Ways of Analyzing Qualitative Data
+
+Conversational Analysis – the study of the implicit rules governing the speech acts between two or more people
+
+Discourse Analysis – the study of the interpretative processes that individuals use to produce their accounts of reality.
+
+Validity and Reliability in Research 
+
+Validity – the research measures what it intends to investigate. There are two types of validity:
+	
+Construct validity – the extent to which inferences from a test’s scores accurately reflect the construct that the test claims to measure.
+
+Content validity – the extent to which inferences from a test’s scores adequately represent the content or conceptual domain that the test claims to measure 
+
+Internal validity – in experiments, it is the extent to which extraneous variables have been controlled by the researcher so that any observed effects can be attributed solely to the treatment variable. 
+
+Reliability – in a qualitative research, it is the extent to which other researchers would arrive at similar results if they studied the same case using exactly the same procedures as the first researcher.  In classical test theory, it refers to the amount of measurement error in the scores yielded by a test. 
+
+	Types of reliability 
+
+Inter-observer reliability – it is the extent to which the scores assigned by one observer of events correlate with the scores assigned by another observer of the same events. 
+
+Intra-observer- reliability – it is the extent to which an observer makes consistent recordings of observational variables while viewing a videotape or listening to an audiotape of an event on several occasions
+
+Strategies to achieve internal reliability
+	     
+Low inference descriptors – describes behavior on which it is easy for independent observers to agree. 
+
+Multiple researchers/ participant researchers – the best way to guard against threats to internal reliability. However, this is quite expensive. The alternative is to enlist the aid of local informants to validate the interpretations of the ethnographer. 
+
+Peer examination – this involves the corroboration by other researchers working in similar settings
+
+Mechanically recorded data – this strategy allows for the preservation of the primary data.  
+
+Data collection in qualitative research 
+
+Observation – certain questions can be best answered by observing how people act or how things look. 
+
+Field notes – observer’s record of what he or she has seen heard, experienced, and thought about during an observation session 
+
+Three types of field notes
+
+Field jottings – these are quick notes about something the researcher wants to write more about later.  They provide the stimulus to help researchers recall a lot of details they do not have time to write down during the observation or interview. 
+
+Field diary – a personal statement of the researcher’s feelings, opinions, or perceptions about others with whom the researcher comes in contact with during the course of his or her work. 
+
+Field log – is a sort of running account of how researchers plan to spend their time compared to how they actually spend it. It is, in effect, the researcher’s plan for collecting his or her data systematically.  The value of maintaining a log is that it forces the researcher to think hard about the questions he or she truly wants to be answered, the procedures to be followed, and the data really needed. 
+
+Two Kinds of Materials for Field Notes
+
+Descriptive field notes – attempts to describe the setting, the people and what they do according to what the researcher observes. They include the following: 
+
+Portraits of the subjects – their physical appearance mannerisms, gestures, how they act, talk and so on. 
+
+Reconstruction of dialogue – conversations between subjects, as well as what they say to the researcher. Unique or particularly provoking statements should be quoted. 
+
+Description of the physical setting – a quick sketch of the room assignments, placement of materials, and so on. 
+
+Accounts of particular events who was involved when, where, and how. 
+
+Depiction of activities – a detailed description of what happened along with the order in which it happened. 
+
+The observer’s behavior – the researcher’s action, dress, conversations, and so on. 
+
+Reflective field notes – present more of what the researcher himself or herself is thinking about as he or she does the observation. These include the following: 
+
+Reflections on analysis – the researcher’s speculations about what he or she is learning, ideas that are developing, patterns or connections seen, so on. 
+
+Reflections on method – procedures and materials that a researcher is using in the study, comments about the design of the study, problems that are arising and so on. 
+
+Reflections on ethical dilemmas and conflicts – such as any concerns that arise over responsibility to subjects or value conflicts. 
+
+Reflections on the observer’s frame of mind – such as what the researcher is thinking as the study progresses- his or her attitudes, opinions, and beliefs- and how he/she might be affecting the study. 
+
+Points of clarification – notes to the researcher about things that need to be clarified, checked later, etc. 
+
+Interviews – a purposeful interaction, usually between two people, focused on one person trying to get information from the other person.  It permits the researcher to obtain important data that cannot be obtained from observation. 
+
+Types of Interview Questions 
+
+Background or demographic questions – are routine sorts of questions about the background characteristics of the respondents. They include questions about education, previous occupation, age, income, and the like
+ 
+Knowledge questions – are questions researchers ask to find  out what factual information respondents possess. 
+
+Experience or behavior questions – are questions a researcher asks to find out what a respondent is currently doing or has done in the past. The intent is to elicit description of experience, behavior, or activities that could have been observed. 
+
+Opinion or values question -  are questions researchers ask to find out what people think about some topic or issue.  Answers to such questions call attention to the respondents’ goals, beliefs, attitudes, or values.
+
+Feelings questions – are questions a researcher asks to find out how respondents feel about things.They are directed toward emotional responses of people to their experiences. 
+
+Sensory questions – are questions a researcher asks to find  out what a respondent, for example, has seen, heard, tasted, smelled, or touched. 
+
+Introspective Methods – this covers techniques in which data collection is carried out with the mental events being investigated
+
+Think aloud techniques – are those in which subjects complete a task or solve a problem and verbalize their thought processes as they do so. The researcher collects the think-aloud protocol on tape and then analyzes it for the thinking strategies involved. 
+
+Anagram tasks – this is similar to Think Aloud, but the focus is  on letters and words rather than numbers. An anagram is a word or phrase whose constituent parts have been rearranged. 
+
+Diary studies – they have been used in investigations of second language acquisition, teacher – learner interaction, teacher education, and other aspects of language learning use. 
+
+Stimulated recall – is a technique in which the researcher records and transcribes parts of a lesson then gets the teacher to comment on what was happening at the time that the teaching and learning took place. Such a technique can yield insights into processes of teaching and learning which would be difficult to obtain by other means. 
+
+Retrospection – this pertains to the collection of data some time after the event under investigation has taken place. 
+
+Elicitation Techniques – these techniques are used to obtain data by means of a stimulus, such as a picture, diagram, or standard test, as well as those based on a questionnaire, survey and interview data.  Examples of these are production tasks, completion tasks, among others.
+     
+Other Concepts in Research 
+
+Norming Group – a large sample whose scores on a test provide a set of standards against which the scores of subsequent individuals who take the test can be referenced. 
+
+Pilot Study – a small-scale, preliminary investigation that is conducted to develop and test the measures or procedures that will be used in a research study. This is a small scale study conducted with the purpose of revising the procedures to be used in the main study.
+
+Replication – the process of repeating a research study with a different group of research participants using the same or similar conditions for the purpose of increasing confidence in the original study findings. 
+
+Triangulation – this involves cross-checking of data using multiple sources of  multiple data collection procedures
+
+Interview Guide – this includes topics and issues to be covered which are specified in advance in outline form; the interviewer decides the sequence and wording of questions in the course of the interview. 
+
+Coding – a way of analyzing data by assigning markers, numbers, or letters. 
+
+Literary Research 
+
+Steps in Doing Literary Research 
+
+Select a topic- this pertains to the selection of the author and the aspect or element of his or her work that you want to study.   Some of the literary topics could be a discussion of the work's characters, if they are realistic, symbolic or historically-based; a comparison and contrast of different authors or characters  in a work; a reading of a work based on a literary approach or theory outside philosophical perspective, e. g. how would a Freudian read Hamlet?; a study of the sources or historical events that occasioned a particular work, e.g. comparing G.B. Shaw's Pygmalion with the original Greek myth of Pygmalion;  an analysis of a specific image occurring in several works, e.g the use of moon as imagery in certain plays, poems, novels; a "deconstruction" of a particular work, e.g.  unfolding an underlying racist worldview in Joseph Conrad's Heart of Darkness, among others 
+
+Prepare the research questions/objectives- a researcher has to be clear about what he/she wants to achieve in the whole research undertaking. This will provide direction to the study, as well as the information necessary to determine the appropriate methodology. 
+
+Make a research hypothesis or assumption – in a literary research the hypothesis or assumption is important as well, but unlike a quantitative research like experimental or correlational research where the hypothesis can either be accepted or rejected, the literary researcher is not encouraged to commit too much too soon to the hypothesis at hand since, this may change as the research progresses. 
+
+Prepare the methodology – in this section, the literary researcher underscores the needed elements to address the research questions.  This includes the identification of authors to be studied, their texts to be analyzed, procedures or stages of the literary research, among others.  Since the selection of materials is a significant aspect in any literary research, it is labeled under steps of literary research and not just a component of the methodology part.  
+
+Select Materials – In selecting the materials for a literary research, make sure that you have built your bibliography.  This includes the selection of a few good articles about the author and his/her work.  Include the reviews made by literary critics of a particular work.  Other things to consider are the following: 
+
+Identify the text/s to analyze
+Select the biographies and biographical   materials to include in the study (e.g. letters)
+Select the bibliographies of secondary sources
+Identify annotated bibliographies, for books or articles
+Make a list of important works with evaluations as to which are most important, canonical, widely read and accepted 
+
+Prepare the findings of the study – In this section, the researcher answers the research questions and addresses the hypothesis of the study. 
+
+Write the research report – A research report must not only answer the research questions and objectives, but also follow the conventions of writing. Having said this, the researcher ensures that the final report is well edited and proofread to adapt to the required style and format of the publisher. 
+
+Translation 
+
+Topics to be explored 
+
+Research in Literature may include the study in translation. In doing this type of research, the author may explore the following translation studies: 
+
+Issues and problems in translation from one language to another language or from one literary form to another literary form
+
+Evaluation of the language used in translation 
+
+The universal appeal of the translation 
+
+Three phases of translation – Another thing to consider in translation research is the process of translation itself.  The translation of a literary text undergoes phases to that the translated material will remain faithful to the original text.  These phases include: 
+
+Preparation for translation – a literary material to be translated well has to be fully understood by the translator.  The translator must understand the basic and the whole point of the text as well as its nuances. Hence, before a translator can begin translating the text, (s)he must be in full grasp of the circumstances- political, social, among others internal and external to the text.  It is also important that the translator has a clear interpretation of the text at hand. 
+
+Actual translation – in doing the actual translation,  the translator needs to have a theoretical grounding to support the manner and processes employed in the actual translation.  This is important in setting a clear direction in the translation process
+
+Addressing issues – in translating a literary text certain issues must be addressed.  One of these is the occurrence of words that have no equivalent in the target language.  Another is the literary and writing style of the author as opposed to the writing style of the translator.  Next is the use of expressions for thoughts and concepts as well as idiomatic expressions which may not have any equivalent or counterpart in the target language.  Next is the tendency to alter the word order, structure among others in the course of translation. Finally, the danger of having a literal translation.  
+
+Evaluation of the Translation – Any translated material must undergo an evaluation process to ensure its faithfulness to the original text.  To effect this, a translator needs to develop or adapt a rubric which will serve as guide in determining the quality of the translated material.   The evaluation of the translated material also includes the assigning of inter-raters to evaluate the quality of the translation.  In selecting the inter-rater certain criteria have to set by the researcher.  These criteria wholly depend on the type of material being studied. 
+
+Application of Translation Methods – These translation methods are used to address issues in translation and to ensure the faithfulness of the translated material to the original text.   Some of the translation methods are:
+
+Word-for-Word Translation – This is the literal translation which is used to translate the words in their most common meaning.  This method is used usually for the initial phase in translation.
+
+Meaning-based Translation – this method gives the highest priority to the meaning and form of the original, and is appropriate to translations of source texts that have high status. It retains the aesthetic value of the translated texts. It is both semantic and communicative in nature.
+
+
+Classroom Research 
+
+One of the challenges for language and literature teachers in this information age is to be active contributors of knowledge in academic setting.  In academic institutions, from elementary to tertiary, teachers are encouraged, and at some degree, are expected to undertake a small-scale research. This small scale research is often focused on the classroom interaction where the teacher –researcher is a significant member. 
+	
+Although the methods used in classroom research resembles those used in other types of researches,  classroom research can be considered distinct because it focuses on issues and concerns of a specific classroom.  Hence, classroom research addresses a specific learning concern in the classroom setting. 
+
+Methods of classroom research 
+
+Classroom research can be done using the following methods:
+
+Methods comparison studies – this is probably the best known classroom studies employing experimental method.  This seeks to evaluate the relative claims of different methods by randomly assigning students to two different groups and providing differential instruction to these groups. At the end of the research period, all students are tested to determine which of the two competing methods is the more effective. 
+
+Stimulated recall – is a technique in which the researcher records and transcribes parts of a lesson and then gets the teacher to comment on what was happening at the time that the teaching and learning took place. This technique yields insights into the processes of teaching and learning which would be difficult to obtain by other means. 
+
+Observation schemes – these schemes are used to document classroom interaction. However, the information generated from these schemes are extremely limited but very much focused on a particular point of view or perspective. 
+
+Interactional analysis – This involves the discursive analysis of classroom talk. This focuses on the thematic structures and activity schemes. The analysis of classroom activities covers (1) activity type, (2) participant organization, (3) content, (4) student modality, and (5) materials.  It also includes the language used in the classroom, specifically the use of a target language, information gap, sustained speech, reaction to code or message, incorporation of preceding utterances, discourse initiation, and relative restriction of linguistic forms.
+
+Focus of classroom research 
+
+Classroom research is  a recommended approach for studying the language and literacy interaction in the classroom.  The main goal of a classroom research is to study the processes, interaction, assessment and instruction that are happing in the classroom. 
+
+Classroom processes – this involves the systems observed and administered by the teacher in the classroom to effect learning and understanding
+ 
+Classroom interaction – this focuses on the type of talk observable inside the classroom
+
+Classroom instruction – this centers on the teaching styles of the teacher, selection of materials, use of teaching methodologies and strategies, along with the students’ response to the initiatives of the teacher.
+
+Classroom assessment – this looks into the assessment  and testing done in the classroom using both teacher and expert made tests and assessment tools. 
+
+Q. Writing the research report
+
+	The research is not complete without the written report. The report is the gateway towards the understanding and appreciation of such intellectual endeavors. Basically the report follows a conventional structure (as presented above).  What is discussed on this section is the convention in writing a research report that a researcher should observe. These are the following: 
+
+The research writer is expected to fit in his report to the intended audience or readers.  This means that the researcher should meet the expectations, in terms of format and style of the specific audience that who will read his work.
+
+There are writing conventions for research report.  The researcher should be aware of the conventions in writing a report for language and literature research. It will help if the research constantly reads the articles published in scholarly journals for language and literature. 
+
+ The technical details should be dealt with care. The researcher should be aware of the style of presentation, the details and length of the account, the terminology used, among others. 
+
+One should use the point of view preferred by the journal or the readers of the journal.  Eventhough, the first person point of view is gaining popularity in writing of research reports, some research books still advise the sue of the third person in writing the research report (Denscombe, 2003).
+
+The need to use the appropriate tense form.  Traditionally, the past tense is often used in writing the findings and discussion. However, this has become a problem in recent research report writing because the writer also makes a reflection on the information at hand. In writing these reflection, the use of the present tense is expected.
+

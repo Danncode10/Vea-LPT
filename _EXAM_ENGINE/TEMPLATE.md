@@ -52,11 +52,18 @@ Rules (see `.claude/commands/make-let-exam.md` for the full strict list):
 
 ## ANSWER KEY (end of file)
 
+Use a **table** — renders cleanly in Markdown preview. 5 pairs per row, 30 rows for 150 items.
+
 ```markdown
 ## ANSWER KEY
 
-1. C   2. A   3. D   4. B   5. A   6. C   7. B   8. D   9. A   10. C
+| No. | Ans | No. | Ans | No. | Ans | No. | Ans | No. | Ans |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  1  |  C  |  2  |  B  |  3  |  D  |  4  |  A  |  5  |  B  |
+|  6  |  C  |  7  |  A  |  8  |  D  |  9  |  B  | 10  |  C  |
+| 11  |  A  | 12  |  D  | 13  |  B  | 14  |  C  | 15  |  A  |
 ...
+| 146 |  C  | 147 |  A  | 148 |  D  | 149 |  B  | 150 |  C  |
 ```
 
 ## RATIONALE (after the key)
